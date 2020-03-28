@@ -3,6 +3,7 @@
 ### Sunday 29 March
 
 * Chill session?
+* Testing...
 * TBC
 
 ### Saturday 28 March
