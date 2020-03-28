@@ -4,15 +4,28 @@
   <h2>Listen</h2></p>
 
 <li>
-  <a href="{{ site.icecast }}/glasto.m3u" data-toggle="tooltip" target="_blank" title="Live Stream">
-    <i class="fa fa-play-circle-o fa-inverse"></i> M3U
+  <a href="{{ site.icecast }}/glasto.m3u" id="m3u-url" data-toggle="tooltip" target="_blank" title="Play live stream via playlist">
+    <i class="fa fa-play-circle-o fa-inverse"></i> m3u
   </a>
+  <i class="fa fa-copy" onclick="$('div#m3u-copy').toggle()"
+     data-toggle="tooltip" title="Copy URL (to paste into your media player, such as VLC)" ></i>
+  <div id="m3u-copy" style="display: none">
+    <textarea id="m3u-ta">{{ site.icecast }}/glasto.m3u</textarea>
+    <button onclick="$('textarea#m3u-ta').select();document.execCommand('copy')">copy to clipboard</button>
+  </div>
 </li>
 
+
 <li>
-  <a href="{{ site.icecast }}/glasto" data-toggle="tooltip" target="_blank" title="Live Stream">
+  <a href="{{ site.icecast }}/glasto" id="direct-url" data-toggle="tooltip" target="_blank" title="Play live stream via playlist">
     <i class="fa fa-play-circle-o fa-inverse"></i> direct
   </a>
+  <i class="fa fa-copy" onclick="$('div#direct-copy').toggle()"
+     data-toggle="tooltip" title="Copy URL (to paste into your media player, such as VLC)" ></i>
+  <div id="direct-copy" style="display: none">
+    <textarea id="direct-ta">{{ site.icecast }}/glasto</textarea>
+    <button onclick="$('textarea#direct-ta').select();document.execCommand('copy')">copy to clipboard</button>
+  </div>
 </li>
 
 
