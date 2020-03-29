@@ -1,52 +1,35 @@
-# MAD4Jekyll - Theme for Jekyll 
+# Jekyll basics
 
-> !!! Configured for **USER** pages !!!
+Install jekyll
 
-## Welcome to MAD4Jekyll!
-     
+Serve a local auto-updating instance:
 
-### 'MAD4Jekyll' is a theme for [Jekyll](https://github.com/jekyll/)
+```
+# cd into this repo's root dir
+jekyll serve
+```
 
-> The template has been revised as of August 27th, 2016.
+Then edit away.
 
-----------
+Schedule is in _includes/schedule.md
 
-> A big thank you to <a href="https://github.com/patmuk">Patrick Mukherjee</a> for his contribution on regenerating the code.
+Markdown should be self-explanatory, otherwise see https://kramdown.gettalong.org/quickref.html
 
+Note that some JS will be served from the live site.  You can change the `url` parameter (`site.url`) in `_config.yml` to serve this locally but **don't commit this back to the repo**.
 
-### It is based on [Clean Blog](http://ironsummitmedia.github.io/startbootstrap-clean-blog-jekyll/) theme by [Start Bootstrap](http://startbootstrap.com/).
+# git
 
-     
-#  Homepage  
+If you work on a branch for structural changes, we can test/review locally before merging to master (and using up CI free tier), otherwise just add regular updates straight in master.
 
-#### Header Image
+# CI
 
-#### A brief description
+Using buddy.works - contact Bob for accesss.  Push/merge to master and the site will update.
 
-#### A slider (it is turned off by default, since there is a also a separate section for a gallery)
+# Theme
 
-#### Contact Info
-            
+MAD4Jekyll - http://jekyllthemes.org/themes/MAD4Jekyll/  and https://github.com/madforjekyll/madforjekyll.github.io
 
-#  Navbar 
+I (Bob) **massively** chopped it down, including some items in the nav bar.  Refer to original to get those back if we need them.  We probably will need some navigation!
 
-#### A logo on the left side
- 
-#### 3 Pages for <a href="{{ site.baseurl }}/writing/">'blogging'</a>, <a href="{{ site.baseurl }}/gallery/">'gallery sliders'</a>, <a href="{{ site.baseurl }}/about/">'about'</a>.
-       
+I didn't "install" it per se. Maybe I did this wrong... Jekyll themes don't seem to be trivial. I copied the whole github repo and changed what I needed and tried to delete the rest.  So swapping to another theme isn't going to be painless.
 
-#####  Search page, with all the tags and categories at the bottom
-
-##### Footnotes poping up.
-
->## !!! IMPORTANT !!! Before You Begin
->
->####  Set the **_config.yml** file, with your personal info!
-
-## What's Included
-
-#### A full Jekyll environment is included with this theme. If you have Jekyll installed, simply run `jekyll serve` in your command line and preview the build in your browser. You can use `jekyll serve --watch` to watch for changes in the source files as well.
-
-#### A Grunt environment is also included. There are a number of tasks it performs like minification of the JavaScript, compiling of the LESS files, adding banners to keep the Apache 2.0 license intact, and watching for changes. Run the grunt default task by entering `grunt` into your command line which will build the files. You can use `grunt watch` if you are working on the JavaScript or the LESS.
-
-#### You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
