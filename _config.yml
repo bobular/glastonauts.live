@@ -88,7 +88,7 @@ slugify: "pretty"
 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-6417661-4
+google_analytics:   UA-162091652-1
 # google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
