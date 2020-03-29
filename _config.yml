@@ -14,7 +14,7 @@ email: uncoolbob@gmail.com
 #
 # can change this to http://glastonauts.live when we deploy it
 url: http://glastonauts.live
-#url: "http://127.0.0.1:4000/"
+#url: "http://127.0.0.1:4000"
 #
 search: true
 share: true
