@@ -43,8 +43,11 @@ button, textarea {
     color: black;
 }
 
+button {
+    font-family: 'sans';
+}
 textarea {
-    width: 100%;
+    font-family: 'monospace';
 }
 
 .faul {

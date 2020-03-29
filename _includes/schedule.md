@@ -12,3 +12,5 @@
 * 5pm Dan M's playlist
 * 7pm collaborative CHEESE-FEST
 * Later on: more cheese or DJ TBC
+
+[To the archive...](archive.html)

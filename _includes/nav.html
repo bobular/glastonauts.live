@@ -9,7 +9,18 @@
             <a class="navbar-brand" href="{{ site.baseurl }}/" style="text-shadow: 2px 2px rgba(0, 0, 0, 0.75);" title="HOME">{{ site.title }}</a>
         </div>
 
-        <!-- /.navbar-collapse -->
+	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+	  <ul class="nav navbar-nav navbar-right" style="text-shadow: 2px 2px rgba(0, 0, 0, 0.75);">
+
+	    {% for page in site.pages %}{% if page.in_navbar %}
+            <li>
+              <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            </li>
+            {% endif %}{% endfor %}
+	  </ul>
+	</div>
+
+	    <!-- /.navbar-collapse -->
     </div>
     <!-- /.container -->
 </nav>

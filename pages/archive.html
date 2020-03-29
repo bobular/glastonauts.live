@@ -1,9 +1,10 @@
 ---
 layout: page
-title: glastonauts.live
-description: "lockdown radio"
-header-img: "assets/owner/hero/home-bg.jpg"
-permalink: ./index.html
+title: archive
+description: "previous playlists and DJ sets"
+header-img: "assets/owner/hero/archive-bg.jpg"
+permalink: ./archive.html
+in_navbar: true
 ---
 
 <!-- intro -->
@@ -11,7 +12,7 @@ permalink: ./index.html
   <div class="row">
     <div class="col-md-left-cntct">
 
-      {% capture my_include %}{% include schedule.md %}{% endcapture %}
+      {% capture my_include %}{% include archive.md %}{% endcapture %}
       {{ my_include | markdownify }}
 
     </div>  

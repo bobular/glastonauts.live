@@ -59,8 +59,8 @@ port:             	 4000
 
 #dependencies
 # Gems
-gems:
-  - jekyll-paginate
+#gems:
+#  - jekyll-paginate
 
 
 # Build settings
@@ -80,9 +80,9 @@ kramdown:
     input:          GFM
 sass:
     style:          :compressed
-paginate: 5
-paginate_path: "/writing/page:num/"
-permalink: "/writing/:title/"
+#paginate: 5
+#paginate_path: "/writing/page:num/"
+#permalink: "/writing/:title/"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 slugify: "pretty"
 

@@ -9,22 +9,30 @@
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href=" {{ site.url }}/assets/libs/css/main.css">
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ site.url }}/assets/libs/css/bootstrap.min.css">
    
     <!-- Pygments Github CSS -->
-    <link rel="stylesheet" href="{{ site.url }}/assets/libs/css/syntax.css">
+    <!-- <link rel="stylesheet" href="{{ site.url }}/assets/libs/css/syntax.css"> -->
 
+    
     <!-- Custom Fonts -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
 
+    <!-- JS -->
+    <!-- jQuery -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
+    <!-- FlexSlider -->
+    <script defer src="{{root_url}}/assets/libs/js/jquery.flexslider.js"></script>
 
+    <!-- Modernizr -->
+    <script src="{{ root_url }}/assets/libs/js/modernizr.js"></script>
+
+    
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -32,6 +40,9 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href=" {{ site.url }}/assets/libs/css/main.css">
+    <link rel="stylesheet" href="{{root_url}}/assets/libs/css/intro.css" type="text/css" media="screen" />
 
 {% if jekyll.environment == 'production' %}
 {% include analytics.html %}
