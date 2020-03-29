@@ -2,9 +2,9 @@
 
 ### Sunday 29 March
 
-* Chill session?
-* Testing...
-* TBC
+* 2pm Judd's playlist
+* 5pm Ozzy's playlist
+* 8pm Nic live DJ set
 
 ### Saturday 28 March
 
