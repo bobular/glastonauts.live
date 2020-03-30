@@ -4,7 +4,7 @@
 
 * 2pm Alex M's Orbital special (playlist)
 * 5pm Emily's playlist
-* 8pm TBC
+* 8pm closedown - back tomorrow at 2pm <i class="fa fa-smile-o"></i>
 
 ### Sunday 29 March
 
