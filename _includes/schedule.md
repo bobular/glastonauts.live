@@ -3,7 +3,8 @@
 ### Monday 30 March
 
 * 2pm Alex M's Orbital special (playlist)
-* 5pm TBD
+* 5pm Emily's playlist
+* 8pm TBC
 
 ### Sunday 29 March
 
