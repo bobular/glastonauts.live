@@ -9,18 +9,18 @@ in_navbar: true
 
 <!-- intro -->
 <div class="intro">
-  <div class="row">
-    <div class="col-md-left-cntct">
+  <div class="flex-grid">
+    <div class="flex-col schedule">
 
       {% capture my_include %}{% include archive.md %}{% endcapture %}
       {{ my_include | markdownify }}
 
     </div>  
 
-
+{%- comment -%} 
     <div class="col-md-right-cntct">
       {% include links.html %}
-    </div>  
+    </div>   {%- endcomment -%}
  
   </div>
 </div>
