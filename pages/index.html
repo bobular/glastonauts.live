@@ -8,8 +8,8 @@ permalink: ./index.html
 
 <!-- intro -->
 <div class="intro">
-  <div class="row">
-    <div class="col-md-left-cntct">
+  <div class="flex-grid">
+    <div class="flex-col schedule">
 
       {% capture my_include %}{% include schedule.md %}{% endcapture %}
       {{ my_include | markdownify }}
@@ -17,7 +17,7 @@ permalink: ./index.html
     </div>  
 
 
-    <div class="col-md-right-cntct">
+    <div class="flex-col links">
       {% include links.html %}
     </div>  
  

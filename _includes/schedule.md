@@ -1,22 +1,10 @@
 ## Schedule
 
-### Monday 30 March
+### Tuesday 31 March
 
-* 2pm Alex M's Orbital special (playlist)
-* 5pm Emily's playlist
-* 8pm closedown - back tomorrow at 2pm <i class="fa fa-smile-o"></i>
+---
+#### 2pm-8pm Stuart D 
+![alt-text](assets/owner/images/20200331-2pm.jpeg "Go to playlist")
 
-### Sunday 29 March
-
-* 2pm Judd's playlist
-* 5pm Ozzy's playlist
-* 8pm Nic live DJ set
-
-### Saturday 28 March
-
-* 2pm Esther's playlist
-* 5pm Dan M's playlist
-* 7pm collaborative CHEESE-FEST
-* Later on: more cheese or DJ TBC
 
 [To the archive...](archive.html)
