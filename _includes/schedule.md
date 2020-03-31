@@ -1,13 +1,13 @@
 ## Schedule
 
-### Tuesday 31 March
+### Wednesday April 1st
 
 ---
-#### 2pm Ollie
-![alt-text](assets/owner/images/20200331-2pm.jpeg)
+#### 2pm Stella
+![alt-text](assets/owner/images/20200401-2pm.jpeg)
 
-#### 5pm Stuart D (6 hours long)
-![alt-text](assets/owner/images/20200331-5pm.jpeg)
+#### 5pm Claudia
+![alt-text](assets/owner/images/20200401-5pm.jpeg)
 
 
 [To the archives...](archive.html)

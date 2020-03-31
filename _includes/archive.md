@@ -2,6 +2,15 @@
 
 [title]: Go To Playlists
 
+### Tuesday 31 March
+---
+#### 2pm Ollie <a href="https://open.spotify.com/playlist/4a6RQRaBqzkak6UgRsbOgc" target="_blank" title="Go to playlist"> <i class="fa fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200331-2pm.jpeg)
+
+#### 5pm Stuart D (6 hours long) <a href="https://open.spotify.com/playlist/6w21s65SUpcjNetp33RNYE" target="_blank" title="Go to playlist"> <i class="fa fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200331-5pm.jpeg)
+
+
 ### Monday 30 March
 --- 
 #### 2pm Alex M <a href="https://open.spotify.com/playlist/7EbMZdjTcQnmPCRtLtsEWo" target="_blank" title="Go to playlist"> <i class="fa fa-spotify fa-inverse"></i></a>
