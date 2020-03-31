@@ -10,4 +10,4 @@
 ![alt-text](assets/owner/images/20200331-5pm.jpeg)
 
 
-[To the archive...](archive.html)s
+[To the archives...](archive.html)
