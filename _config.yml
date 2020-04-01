@@ -2,6 +2,7 @@
 title: "glastonauts.live"
 description: Lockdown radio for Glastonauts
 
+
 # Files
 baseurl:
 pagesdir: pages
@@ -50,6 +51,7 @@ nav:
  writing: "root_url/writing/"
  gallery: "root_url/gallery/"
  about: "root_url/about/"
+ title: "lakis"
 
 
 # Server
