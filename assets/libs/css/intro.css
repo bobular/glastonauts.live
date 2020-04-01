@@ -49,18 +49,26 @@
     padding-right: 15px;
 }
 
-button,
-textarea {
-    font-size: 70%;
+.copy-from button,
+.copy-from textarea {
+    font-size: 50%;
     color: black;
 }
 
-button {
+.copy-from button {
     font-family: 'sans';
+    width: 70px;
+    text-align: left;
 }
 
-textarea {
+.copy-from {
+    display: none;
+    width: min-content;
+}
+    
+.copy-from textarea {
     font-family: 'monospace';
+    width: 100px;
 }
 
 .faul {

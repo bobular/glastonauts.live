@@ -9,7 +9,7 @@
   </a>
   <i class="fa fa-copy" onclick="$('div#m3u-copy').toggle()"
      data-toggle="tooltip" title="Copy URL (to paste into your media player, such as VLC)" ></i>
-  <div id="m3u-copy" style="display: none">
+  <div id="m3u-copy" class="copy-from">
     <textarea id="m3u-ta">{{ site.icecast }}/glasto.m3u</textarea>
     <button onclick="$('textarea#m3u-ta').select();document.execCommand('copy');$('i#m3u-check').show()">copy to clipboard</button>
     <i class="fa fa-check fa-inverse" id="m3u-check" style="display: none"></i>
@@ -23,7 +23,7 @@
   </a>
   <i class="fa fa-copy" onclick="$('div#direct-copy').toggle()"
      data-toggle="tooltip" title="Copy URL (to paste into your media player, such as VLC)" ></i>
-  <div id="direct-copy" style="display: none">
+  <div id="direct-copy" class="copy-from">
     <textarea id="direct-ta">{{ site.icecast }}/glasto</textarea>
     <button onclick="$('textarea#direct-ta').select();document.execCommand('copy');$('i#m3u-direct').show()">copy to clipboard</button>
     <i class="fa fa-check fa-inverse" id="m3u-direct" style="display: none"></i>
