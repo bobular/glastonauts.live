@@ -1,19 +1,14 @@
 ## Schedule
 
-### Wednesday April 1st
+### Thursday April 2nd
 
 ---
-#### 2pm Stella
-![alt-text](assets/owner/images/20200401-2pm.jpeg)
+#### 2pm Giannis
+![alt-text](assets/owner/images/20200402-2pm.jpeg)
 
-#### 5pm Claudia
-![alt-text](assets/owner/images/20200401-5pm.jpeg)
+#### 5pm Dan (replay from March 28th)
+![alt-text](assets/owner/images/20200328-5pm.jpeg)
 
-#### 8pm Bob
-![alt-text](assets/owner/images/20200401-8pm.jpeg)
-
-#### 9:30pm Dan W
-![alt-text](assets/owner/images/20200401-9pm.jpeg)
 
 
 [To the archives...](archive.html)

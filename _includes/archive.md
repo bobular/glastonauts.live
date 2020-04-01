@@ -2,6 +2,26 @@
 
 [title]: Go To Playlists
 
+### Wednesday April 1st
+
+---
+#### 2pm Stella <a href="https://open.spotify.com/playlist/2mcvAxnj3suURJATMCb5c7" target="_blank" title="Go to playlist"> <i class="fa fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200401-2pm.jpeg)
+
+#### 5pm Claudia <a href="https://open.spotify.com/playlist/5tHlBwqlTOSmTuA7raI7HG" target="_blank" title="Go to playlist"> <i class="fa fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200401-5pm.jpeg)
+
+#### 8pm Bob <i class="fa fa-chevron-circle-down fa-inverse" onclick="$('div#20200401-8pm').toggle()" title="View text playlist"></i>
+<div class="text-playlist" id="20200401-8pm">
+{% capture my_include %}{% include playlists.md/20200401-8pm.md %}{% endcapture %}
+{{ my_include | markdownify }}
+</div>
+![alt-text](assets/owner/images/20200401-8pm.jpeg)
+
+#### 9:30pm Dan W
+![alt-text](assets/owner/images/20200401-9pm.jpeg)
+
+
 ### Tuesday 31 March
 ---
 #### 2pm Ollie <a href="https://open.spotify.com/playlist/4a6RQRaBqzkak6UgRsbOgc" target="_blank" title="Go to playlist"> <i class="fa fa-spotify fa-inverse"></i></a>
