@@ -11,7 +11,7 @@
 #### 5pm Claudia <a href="https://open.spotify.com/playlist/5tHlBwqlTOSmTuA7raI7HG" target="_blank" title="Go to playlist"> <i class="fa fa-spotify fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200401-5pm.jpeg)
 
-#### 8pm Bob <i class="fa fa-chevron-circle-down fa-inverse" onclick="$('div#20200401-8pm').toggle()" title="View text playlist"></i>
+#### 8pm Bob <i class="expand fa fa-list-ol fa-inverse" onclick="$('div#20200401-8pm').slideToggle()" title="View tracklist"></i>
 <div class="text-playlist" id="20200401-8pm">
 {% capture my_include %}{% include playlists.md/20200401-8pm.md %}{% endcapture %}
 {{ my_include | markdownify }}

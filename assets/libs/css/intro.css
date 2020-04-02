@@ -101,4 +101,21 @@
 
 div.text-playlist {
     display: none;
+    font-size: 15px;
+}
+
+.text-playlist ol {
+    margin-block-start: 0em;
+    padding-inline-start: 1em;
+}
+
+.expand {
+    cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+    div.text-playlist {
+        font-size: 12px;
+    }
+    
 }
