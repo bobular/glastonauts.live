@@ -3,11 +3,13 @@
 ### Thursday April 2nd
 
 ---
-#### 2pm Sarah
-![alt-text](assets/owner/images/20200402-2pm.jpeg)
+#### 2pm Miss Q
+![alt-text](assets/owner/images/20200403-2pm.jpeg)
 
-#### 5pm Bruce
-![alt-text](assets/owner/images/20200402-5pm.jpeg)
+#### 5pm TomKat
+![alt-text](assets/owner/images/20200403-5pm.jpeg)
 
+#### 8pm Andy Davies
+![alt-text](assets/owner/images/20200403-8pm.jpeg)
 
 [To the archives...](archive.html)

@@ -1,6 +1,13 @@
 ## Archive
 
-[title]: Go To Playlists
+### Thursday April 2nd
+
+---
+#### 2pm Sarah <a href="https://open.spotify.com/playlist/0iiCvxkh26wQp9FRpcay30" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200402-2pm.jpeg)
+
+#### 5pm Bruce <a href="https://open.spotify.com/playlist/3u6NKwI9MOF17G1BAEUoJm" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200402-5pm.jpeg)
 
 ### Wednesday April 1st
 
