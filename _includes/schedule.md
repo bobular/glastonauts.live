@@ -3,7 +3,7 @@
 ### Thursday April 2nd
 
 ---
-#### 2pm Giannis
+#### 2pm Sarah
 ![alt-text](assets/owner/images/20200402-2pm.jpeg)
 
 #### 5pm Bruce
