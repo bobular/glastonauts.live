@@ -25,7 +25,11 @@
 </div>
 ![alt-text](assets/owner/images/20200401-8pm.jpeg)
 
-#### 9:30pm Dan W <a href="https://drive.google.com/open?id=1HCHKWbgeLD9-Mlvs5Gf6LogPgENyx5ju" target="_blank" title="Go to recording"> <i class="fab fa-google-drive fa-inverse"></i></a> (Tracklist to follow soon)
+#### 9:30pm Dan W <a href="https://drive.google.com/open?id=1HCHKWbgeLD9-Mlvs5Gf6LogPgENyx5ju" target="_blank" title="Go to recording"> <i class="fab fa-google-drive fa-inverse"></i></a> <i class="expand fas fa-list-ol fa-inverse" onclick="$('div#20200401-9pm').slideToggle()" title="View tracklist"></i>
+<div class="text-playlist" id="20200401-9pm">
+{% capture my_include %}{% include playlists.md/20200401-9pm.md %}{% endcapture %}
+{{ my_include | markdownify }}
+</div>
 ![alt-text](assets/owner/images/20200401-9pm.jpeg)
 
 
