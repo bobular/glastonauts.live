@@ -1,6 +1,6 @@
 ## Schedule
 
-### Thursday April 2nd
+### Friday April 3rd
 
 ---
 #### 2pm Miss Q
