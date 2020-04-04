@@ -1,5 +1,23 @@
 ## Archive
 
+### Saturday April 4th
+---
+#### 2pm Lenta <a href="https://open.spotify.com/playlist/4JGZcR3NLgIj3PEUFpeVsM" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200404-2pm.jpeg)
+
+#### 5pm BenCB <a href="https://open.spotify.com/playlist/5I2WTTUDG1IXLlYHoWjzRf" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200404-5pm.jpeg)
+
+#### 8pm Bob's inimitable warm-up  <i class="expand fas fa-list-ol fa-inverse" onclick="$('div#20200404-8pm').slideToggle()" title="View tracklist"></i>
+<div class="text-playlist" id="20200404-8pm">
+{% capture my_include %}{% include playlists.md/20200404-8pm.md %}{% endcapture %}
+{{ my_include | markdownify }}
+</div>
+
+#### 9pm Sir Styles (Live DJ set)
+![alt-text](assets/owner/images/20200404-8pm.jpeg)
+
+
 
 ### Friday April 3rd
 
