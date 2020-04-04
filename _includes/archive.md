@@ -1,5 +1,19 @@
 ## Archive
 
+
+### Friday April 3rd
+
+---
+#### 2pm Miss Q <a href="https://open.spotify.com/playlist/2TvjrAh3oGfedxgDU8yVXl" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200403-2pm.jpeg)
+
+#### 5pm TomKat <a href="https://open.spotify.com/playlist/31wgITq10JZW3u0GaYbbCY" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200403-5pm.jpeg)
+
+#### 8pm Andy Davies
+![alt-text](assets/owner/images/20200403-8pm.jpeg)
+
+
 ### Thursday April 2nd
 
 ---
