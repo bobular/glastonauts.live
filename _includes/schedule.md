@@ -1,17 +1,5 @@
 ## Schedule
 
-### Saturday April 4th
----
-#### 2pm Lenta
-![alt-text](assets/owner/images/20200404-2pm.jpeg)
-
-#### 5pm BenCB
-![alt-text](assets/owner/images/20200404-5pm.jpeg)
-
-#### 8pm Bob's inimitable warm-up
-#### 9pm Sir Styles (Live DJ set)
-![alt-text](assets/owner/images/20200404-8pm.jpeg)
-
 ### Sunday April 5th
 ---
 
@@ -21,7 +9,11 @@
 #### 2pm Nic (Live DJ set)
 ![alt-text](assets/owner/images/20200405-2pm.jpeg)
 
-#### 5pm+ More music...
+#### 5pm Break or playlist replay
+
+#### 9pm Ioannis (Live DJ set)
+![alt-text](assets/owner/images/20200405-9pm.jpeg)
+
 
 
 
