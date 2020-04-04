@@ -8,7 +8,8 @@
 #### 5pm BenCB
 ![alt-text](assets/owner/images/20200404-5pm.jpeg)
 
-#### 8pm Sir Styles (Live DJ set)
+#### 8pm Bob's inimitable warm-up
+#### 9pm Sir Styles (Live DJ set)
 ![alt-text](assets/owner/images/20200404-8pm.jpeg)
 
 ### Sunday April 5th
