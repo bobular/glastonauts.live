@@ -1,5 +1,20 @@
 ## Archive
 
+### Sunday April 5th
+---
+
+#### 10am Bob <a href="https://open.spotify.com/playlist/1QBWUfSMgAvVQYYNgRxMjq" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200405-10am.jpeg)
+
+#### 2pm Nic (Live DJ set)
+![alt-text](assets/owner/images/20200405-2pm.jpeg)
+
+#### 7.30pm A bit more Bob (see above)
+
+#### 9pm Ioannis (Live DJ set)
+![alt-text](assets/owner/images/20200405-9pm.jpeg)
+
+
 ### Saturday April 4th
 ---
 #### 2pm Lenta <a href="https://open.spotify.com/playlist/4JGZcR3NLgIj3PEUFpeVsM" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
