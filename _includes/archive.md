@@ -11,7 +11,7 @@
 
 #### 7.30pm A bit more Bob (see above)
 
-#### 9pm Ioannis (Live DJ set)
+#### 9pm Ioannis (Live DJ set) <a href="https://soundcloud.com/johnkirmi/plagiarisms-85-dark-edition" target="_blank" title="Go to recording"> <i class="fab fa-soundcloud fa-inverse"></i></a> <a href="https://open.spotify.com/playlist/4WV1A6otbkWUI0LqgSI6UR" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200405-9pm.jpeg)
 
 
@@ -129,6 +129,6 @@
 
 ### Wednesday 25 March
 ---
-#### 9pm Ioannis <a href="https://soundcloud.com/johnkirmi/glastonautslive-24-03-2020" target="_blank" title="Go to recording"> <i class="fab fa-soundcloud fa-inverse"></i></a>
+#### 9pm Ioannis <a href="https://soundcloud.com/johnkirmi/plagiarisms-lockdown-sessions-1" target="_blank" title="Go to recording"> <i class="fab fa-soundcloud fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200325-9pm.jpeg)
 
