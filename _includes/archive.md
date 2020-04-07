@@ -1,5 +1,15 @@
 ## Archive
 
+### Monday April 6th
+---
+
+#### 2pm Bruce <a href="https://open.spotify.com/playlist/6PxAuLj9RnKHUDLXgDdXEh" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200406-2pm.jpeg)
+
+#### 5pm Stuart D (6 hours) <a href="https://open.spotify.com/playlist/72NVdkCzQXf3yXVvpo1FdU" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200406-5pm.jpeg)
+
+
 ### Sunday April 5th
 ---
 
