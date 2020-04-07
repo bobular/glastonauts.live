@@ -1,5 +1,14 @@
 ## Archive
 
+### Tuesday April 7th
+---
+#### 2pm Ollie <a href="https://open.spotify.com/playlist/2f6QwnoQTox3lWxNmbSaCU" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200407-2pm.jpeg)
+
+#### 5pm KP <a href="https://open.spotify.com/playlist/1E0tYs3A7pUKfOFVtAboyL" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200407-5pm.jpeg)
+
+
 ### Monday April 6th
 ---
 
