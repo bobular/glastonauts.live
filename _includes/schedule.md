@@ -9,9 +9,9 @@
 ![alt-text](assets/owner/images/20200408-5pm.jpeg)
 
 
+A date for your diaries:
 ### Saturday April 11th
 ---
-A date for your diaries:
 #### 10am GlastoKids collab party
 
 [To the archives...](archive.html)
