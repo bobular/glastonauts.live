@@ -1,6 +1,6 @@
 ## Schedule
 
-### Wednesday April 8th
+### Thursday April 9th
 ---
 #### 2pm Esther
 ![alt-text](assets/owner/images/20200409-2pm.jpeg)
