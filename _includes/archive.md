@@ -1,5 +1,13 @@
 ## Archive
 
+### Thursday April 9th
+---
+#### 2pm Esther <a href="https://open.spotify.com/playlist/4iOebFbVchFxQn8WL3Uj9D" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200409-2pm.jpeg)
+
+#### 5pm POLEM <a href="https://open.spotify.com/playlist/4RfwPM6UKGdTgTYtV3qyA1" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200409-5pm.jpeg)
+
 ### Wednesday April 8th
 ---
 #### 2pm Em <a href="https://open.spotify.com/playlist/2GF67kaFKsEbFJLYoas1yB" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
@@ -154,7 +162,7 @@
 
 ### Friday 27 March
 ---
-#### 7pm Andy Davies M <a href="https://soundcloud.com/andy-davies-dj/glastonautslive-melodic-techno-mix" target="_blank" title="Go to recording"> <i class="fab fa-soundcloud fa-inverse"></i></a>
+#### 7pm Andy Davies <a href="https://soundcloud.com/andy-davies-dj/glastonautslive-melodic-techno-mix" target="_blank" title="Go to recording"> <i class="fab fa-soundcloud fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200327-7pm.jpeg)
 #### 8pm Nic 
 ![alt-text](assets/owner/images/20200329-8pm.jpeg)
