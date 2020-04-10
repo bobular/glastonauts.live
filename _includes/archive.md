@@ -1,5 +1,20 @@
 ## Archive
 
+### Friday April 10th
+---
+#### 2pm Bruce <a href="https://open.spotify.com/playlist/1UCr44riQ1ta529rEEwawc" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200410-2pm.jpeg)
+
+#### 5pm Judd <a href="https://open.spotify.com/playlist/2g6EsKyxW1K9uwwljwl5L5" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200410-5pm.jpeg)
+
+#### 8pm Bob and Miss MH <a href="https://open.spotify.com/playlist/5syn4ZGpLjya6EwQT8JE3G" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200410-8pm.jpeg)
+
+#### 9pm Andy Davies
+![alt-text](assets/owner/images/20200410-9pm.jpeg)
+
+
 ### Thursday April 9th
 ---
 #### 2pm Esther <a href="https://open.spotify.com/playlist/4iOebFbVchFxQn8WL3Uj9D" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
@@ -144,7 +159,7 @@
 ---
 #### 2pm Judd <a href="https://open.spotify.com/playlist/3AxHTVT9KalgouPM5sdWwT" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200329-2pm.jpeg)
-#### 5pm Ozzy <a href="https://open.spotify.com/playlist/5DCS5ix7t3GhCiBcpyKkAT" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+#### 5pm Ozzy <a href="https://open.spotify.com/playlist/1T3fUl4QoMKRoRapx1D5mE" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200329-5pm.jpeg)
 #### 8pm Nic 
 ![alt-text](assets/owner/images/20200329-8pm.jpeg)
