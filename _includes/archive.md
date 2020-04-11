@@ -1,5 +1,22 @@
 ## Archive
 
+### Saturday April 11th
+---
+
+#### 10am Glastokids <a href="https://open.spotify.com/playlist/5aEmfn1TCebBIqnpkpt1Qk" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200411-10am.jpeg)
+
+#### 2pm Ozzy (replay) <a href="https://open.spotify.com/playlist/1T3fUl4QoMKRoRapx1D5mE" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200329-5pm.jpeg)
+
+#### 5pm Dan M (replay) <a href="https://open.spotify.com/playlist/6q4N16YeLx67GYE6Kxwe6v?si=5Iow1JqzRaqNGSRGBvUbGg" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200328-5pm.jpeg)
+
+#### 7pm Collab party: Geography <a href="https://open.spotify.com/playlist/3PJcANn5A6XdsggiAMECwg?si=p-YVBdobS_e1NrP8JeM4Og" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200411-8pm.jpeg)
+
+
+
 ### Friday April 10th
 ---
 #### 2pm Bruce <a href="https://open.spotify.com/playlist/1UCr44riQ1ta529rEEwawc" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
@@ -62,7 +79,7 @@
 #### 10am Bob <a href="https://open.spotify.com/playlist/1QBWUfSMgAvVQYYNgRxMjq" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200405-10am.jpeg)
 
-#### 2pm Nic (Live DJ set)
+#### 2pm Nic (Live DJ set) <a href="https://www.mixcloud.com/Glastonauts_Live/nics-5h-reggae-marathon/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200405-2pm.jpeg)
 
 #### 7.30pm A bit more Bob (see above)
@@ -181,6 +198,11 @@
 ![alt-text](assets/owner/images/20200327-7pm.jpeg)
 #### 8pm Nic 
 ![alt-text](assets/owner/images/20200329-8pm.jpeg)
+
+### Thursday 26 March
+---
+
+#### 9pm Sir Styles live DJ set <a href="https://www.mixcloud.com/Glastonauts_Live/sir-styles-live-260320/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 
 
 ### Wednesday 25 March
