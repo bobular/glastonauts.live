@@ -1,5 +1,23 @@
 ## Archive
 
+
+### Sunday April 12th
+---
+
+#### 10am Giannis <a href="https://open.spotify.com/playlist/50o86yXKzlDUFM28AZqQl1" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200412-10am.jpeg)
+
+#### 2pm Uly <a href="https://open.spotify.com/playlist/3lLU9f9rcHVIGFYjo5mVLF" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200412-2pm.jpeg)
+
+#### 5pm Gags <a href="https://open.spotify.com/playlist/4fzsuf9IDKaWRpyn8QcLCE" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200412-5pm.jpeg)
+
+#### 8pm Phat Fest Takeover
+![alt-text](assets/owner/images/20200412-8pm.jpeg)
+
+
+
 ### Saturday April 11th
 ---
 

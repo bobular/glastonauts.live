@@ -1,19 +1,22 @@
 ## Schedule
 
-### Sunday April 12th
+### Monday April 13th
 ---
 
-#### 10am Giannis
-![alt-text](assets/owner/images/20200412-10am.jpeg)
+#### 10am Bob's chill (replay) <a href="https://open.spotify.com/playlist/1QBWUfSMgAvVQYYNgRxMjq" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200405-10am.jpeg)
 
-#### 2pm Uly
-![alt-text](assets/owner/images/20200412-2pm.jpeg)
+#### 2pm Kez
+![alt-text](assets/owner/images/20200413-2pm.jpeg)
 
-#### 5pm Gags
-![alt-text](assets/owner/images/20200412-5pm.jpeg)
+#### 5pm Sebster
+![alt-text](assets/owner/images/20200413-5pm.jpeg)
 
-#### 8pm Phat Fest Takeover
-![alt-text](assets/owner/images/20200412-8pm.jpeg)
+#### 7pm Dan M
+![alt-text](assets/owner/images/20200413-7pm.jpeg)
+
+#### 8pm See you tomorrow...
+
 
 
 [To the archives...](archive.html)
