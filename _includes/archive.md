@@ -1,5 +1,20 @@
 ## Archive
 
+### Monday April 13th
+---
+
+#### 10am Bob's chill (replay) <a href="https://open.spotify.com/playlist/1QBWUfSMgAvVQYYNgRxMjq" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200405-10am.jpeg)
+
+#### 2pm Kez <a href="https://open.spotify.com/playlist/3LbxxBYQ4JBlwz8m2uVlxL" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200413-2pm.jpeg)
+
+#### 5pm Sebster <a href="https://www.mixcloud.com/Glastonauts_Live/dj-sebster-exclusive-dnb-set/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200413-5pm.jpeg)
+
+#### 7pm Dan M <a href="https://open.spotify.com/playlist/4fzsuf9IDKaWRpyn8QcLCE" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200413-7pm.jpeg)
+
 
 ### Sunday April 12th
 ---
@@ -13,7 +28,7 @@
 #### 5pm Gags <a href="https://open.spotify.com/playlist/4fzsuf9IDKaWRpyn8QcLCE" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200412-5pm.jpeg)
 
-#### 8pm Phat Fest Takeover
+#### 8pm Phat Fest Takeover <a href="https://www.mixcloud.com/Glastonauts_Live/phat-fest-takeover-easter-sunday/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200412-8pm.jpeg)
 
 
