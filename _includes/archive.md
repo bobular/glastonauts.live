@@ -25,7 +25,7 @@
 #### 2pm Uly <a href="https://open.spotify.com/playlist/3lLU9f9rcHVIGFYjo5mVLF" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200412-2pm.jpeg)
 
-#### 5pm Gags <a href="https://open.spotify.com/playlist/4fzsuf9IDKaWRpyn8QcLCE" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+#### 5pm Gags <a href="https://open.spotify.com/playlist/5i0gaFN4qWSx5FPfnbJ7oH" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200412-5pm.jpeg)
 
 #### 8pm Phat Fest Takeover <a href="https://www.mixcloud.com/Glastonauts_Live/phat-fest-takeover-easter-sunday/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
