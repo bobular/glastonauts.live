@@ -1,15 +1,16 @@
 ## Schedule
 
-### Tuesday April 14th
+### Wednesday April 15th
 ---
 
-#### 2pm Stuart D - Best of Albums 2017
-![alt-text](assets/owner/images/20200414-2pm.jpeg)
+#### 1pm The Italians
+![alt-text](assets/owner/images/20200415-1pm.jpeg)
 
-#### 5pm Space/Place - here, now
-![alt-text](assets/owner/images/20200414-5pm.jpeg)
+#### 5pm HUMF
+![alt-text](assets/owner/images/20200415-5pm.jpeg)
 
-#### 8pm See you tomorrow...
+#### 8pm Bob - Quiz Night
+![alt-text](assets/owner/images/quiz-night.png)
 
 
 

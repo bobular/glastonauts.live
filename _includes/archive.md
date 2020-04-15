@@ -1,5 +1,14 @@
 ## Archive
 
+### Tuesday April 14th
+---
+
+#### 2pm Stuart D <a href="https://open.spotify.com/playlist/4Uag9v5ACI8s5hRI5nFXLw" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200414-2pm.jpeg)
+
+#### 5pm Space/Place <a href="https://open.spotify.com/playlist/2Lb5lJo60W2cHEks3IpwOL" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200414-5pm.jpeg)
+
 ### Monday April 13th
 ---
 
