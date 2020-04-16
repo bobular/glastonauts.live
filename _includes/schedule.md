@@ -1,17 +1,13 @@
 ## Schedule
 
-### Wednesday April 15th
+### Thursday April 16th
 ---
 
-#### 1pm The Italians
-![alt-text](assets/owner/images/20200415-1pm.jpeg)
+#### 2pm 
+![alt-text](assets/owner/images/20200416-2pm.jpeg)
 
-#### 5pm HUMF
-![alt-text](assets/owner/images/20200415-5pm.jpeg)
-
-#### 8pm Bob - Quiz Night
-![alt-text](assets/owner/images/quiz-night.png)
-
+#### 5pm 
+![alt-text](assets/owner/images/20200416-5pm.jpeg)
 
 
 [To the archives...](archive.html)

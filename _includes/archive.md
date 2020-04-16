@@ -1,5 +1,20 @@
 ## Archive
 
+
+### Wednesday April 15th
+---
+
+#### 1pm The Italians <a href="https://open.spotify.com/playlist/7IKjqeQKEs9OdeU6ZXNeKZ" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200415-1pm.jpeg)
+
+#### 5pm HUMF
+![alt-text](assets/owner/images/20200415-5pm.jpeg)
+
+#### 8pm Bob - Quiz Night <a href="https://open.spotify.com/playlist/2ea9rt9DN37mSqCx39dg8l?si=msewCCnZSXaAnkxjjFqArQ" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/quiz-night.png)
+
+
+
 ### Tuesday April 14th
 ---
 
