@@ -23,6 +23,10 @@ permalink: ./index.html
     </div>
 
     <script>
+      function getRndInteger(min, max) {
+          return Math.floor(Math.random() * (max - min + 1)) + min;
+      }
+      var analyzer = getRndInteger(1,8); 
       $("#myradiodivcontainer").flashradio({
         token: "aG1idHVwb2J2dXQvbWp3ZgE=",
         userinterface: "small",
@@ -35,7 +39,7 @@ permalink: ./index.html
         scroll: "auto",
         autoplay: "false",
         useanalyzer: "real",
-        analyzertype: "3",
+        analyzertype: analyzer.toString(),
         usecover: "true",
         usestreamcorsproxy: "false",
         getcoveroverradioco: "true",
