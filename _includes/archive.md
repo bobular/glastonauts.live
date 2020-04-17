@@ -1,5 +1,14 @@
 ## Archive
 
+### Thursday April 16th
+---
+
+#### 2pm Bruce <a href="https://open.spotify.com/playlist/76inPbUoJRv9gBseFrqfsW" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200416-2pm.jpeg)
+
+#### 5pm Lenta <a href="https://open.spotify.com/playlist/3XdyXTsmqaC2QYHvGXrKD8" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200416-5pm.jpeg)
+
 
 ### Wednesday April 15th
 ---
@@ -7,7 +16,7 @@
 #### 1pm The Italians <a href="https://open.spotify.com/playlist/7IKjqeQKEs9OdeU6ZXNeKZ" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200415-1pm.jpeg)
 
-#### 5pm HUMF
+#### 5pm HUMF <a href="https://www.mixcloud.com/Glastonauts_Live/humf-goes-retro/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200415-5pm.jpeg)
 
 #### 8pm Bob - Quiz Night <a href="https://open.spotify.com/playlist/2ea9rt9DN37mSqCx39dg8l?si=msewCCnZSXaAnkxjjFqArQ" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
