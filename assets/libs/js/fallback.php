@@ -19,12 +19,15 @@ header('Expires: 0');
 
 
 if (isset($_POST['url']) && isset($_POST['mode'])) {
+	$url = "http://glastonauts.live:8000/status-json.xsl"
 	if ($_POST['url'] != "") {
 		switch ($_POST['mode']) {
 			case "fallback":
-				$output = useCurl($_POST['url']);
+				// hardcode the url 
+				// $output = useCurl($_POST['url']);
+				$output = useCurl($url);
 				if ($output == "" || $output == "The file you requested could not be found") {
-					$output = useFileGetContents($_POST['url']);
+					$output = useFileGetContents($url);
 				}
 				echo $output;
 				break;
