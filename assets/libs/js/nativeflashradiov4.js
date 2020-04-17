@@ -1642,7 +1642,7 @@
 
 		function sc() {
 			var b = "none" == r.toLowerCase() || "nothing" == r.toLowerCase() || "php" == r.toLowerCase() ? Q + "/status-json.xsl" : r + Q + "/status-json.xsl";
-			"php" = a.ajax({
+			a.ajax({
 				dataType: "text",
 				url: b,
 				crossDomain: !0,
@@ -1763,7 +1763,7 @@
 		function vc() {
 			var b = "none" == r.toLowerCase() || "nothing" == r.toLowerCase() || "php" == r.toLowerCase() ?
 				Q + "/status-json.xsl" : r + Q + "/status-json.xsl";
-			"php" = a.ajax({
+			a.ajax({
 				dataType: "text",
 				url: b,
 				crossDomain: !0,
