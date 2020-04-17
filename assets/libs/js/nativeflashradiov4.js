@@ -1650,26 +1650,6 @@
 					jc(a)
 				}
 			})
-			// "php" == r.toLowerCase() ? a.ajax({
-			// 	dataType: "text",
-			// 	method: "POST",
-			// 	crossDomain: !1,
-			// 	url: wa + "fallback.php",
-			// 	data: {
-			// 		url: b,
-			// 		mode: "fallback"
-			// 	},
-			// 	success: function (a) {
-			// 		jc(a)
-			// 	}
-			// }) : a.ajax({
-			// 	dataType: "text",
-			// 	url: b,
-			// 	crossDomain: !0,
-			// 	success: function (a) {
-			// 		jc(a)
-			// 	}
-			// })
 		}
 
 		function jc(b) {
@@ -1774,32 +1754,6 @@
 					W()
 				}
 			})
-			// "php" == r.toLowerCase() ? a.ajax({
-			// 	dataType: "text",
-			// 	method: "POST",
-			// 	crossDomain: !1,
-			// 	url: wa + "fallback.php",
-			// 	data: {
-			// 		url: b,
-			// 		mode: "fallback"
-			// 	},
-			// 	success: function (a) {
-			// 		kc(a)
-			// 	},
-			// 	error: function (a, b, c) {
-			// 		W()
-			// 	}
-			// }) : a.ajax({
-			// 	dataType: "text",
-			// 	url: b,
-			// 	crossDomain: !0,
-			// 	success: function (a) {
-			// 		kc(a)
-			// 	},
-			// 	error: function (a, b, c) {
-			// 		W()
-			// 	}
-			// })
 		}
 
 		function kc(b) {
