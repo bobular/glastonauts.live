@@ -1,5 +1,21 @@
 ## Archive
 
+
+
+### Friday April 17th
+---
+
+#### 2pm Judd <a href="https://open.spotify.com/playlist/0k1LCQH2y0PVVBvGORLCMO" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200417-2pm.jpeg)
+
+#### 5pm Broc Olli <a href="https://open.spotify.com/playlist/7s00der45bbzp5gfjhfHtY" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200417-5pm.jpeg)
+
+#### 8pm Nic
+![alt-text](assets/owner/images/20200417-8pm.jpeg)
+
+
+
 ### Thursday April 16th
 ---
 

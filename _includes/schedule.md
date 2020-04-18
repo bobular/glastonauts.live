@@ -1,16 +1,16 @@
 ## Schedule
 
-### Friday April 17th
+### Saturday April 18th
 ---
 
-#### 2pm 
-![alt-text](assets/owner/images/20200417-2pm.jpeg)
+#### 2pm TomKat
+![alt-text](assets/owner/images/20200418-2pm.jpeg)
 
-#### 5pm 
-![alt-text](assets/owner/images/20200417-5pm.jpeg)
+#### 5pm Josh
+![alt-text](assets/owner/images/20200418-5pm.jpeg)
 
-#### 8pm 
-![alt-text](assets/owner/images/20200417-8pm.jpeg)
+#### 8pm Styles 
+![alt-text](assets/owner/images/20200418-8pm.jpeg)
 
 
 [To the archives...](archive.html)
