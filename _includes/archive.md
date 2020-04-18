@@ -11,9 +11,9 @@
 #### 5pm Broc Olli <a href="https://open.spotify.com/playlist/7s00der45bbzp5gfjhfHtY" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200417-5pm.jpeg)
 
-#### 8pm Nic
+#### 8pm Nic <a href="https://www.mixcloud.com/Glastonauts_Live/nicnoname-80s90s-house-acid-house-dj-set/
+" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200417-8pm.jpeg)
-
 
 
 ### Thursday April 16th
