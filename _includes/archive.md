@@ -1,6 +1,19 @@
 ## Archive
 
 
+### Saturday April 18th
+---
+
+#### 2pm TomKat <a href="https://open.spotify.com/playlist/6BYNBRtJhL6aMEcwHNMs1s" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200418-2pm.jpeg)
+
+#### 5pm Josh <a href="https://open.spotify.com/playlist/0VjKmUoSLPKPdakH7CNqIJ" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200418-5pm.jpeg)
+
+#### 8pm Styles 
+![alt-text](assets/owner/images/20200418-8pm.jpeg)
+
+
 
 ### Friday April 17th
 ---
