@@ -1686,7 +1686,8 @@
 					success: function (c) {
 						var h = "";
 						1 == c.results.length ?
-							(h = c.results[0].artworkUrl100, h = "none" == r.toLowerCase() || "nothing" == r.toLowerCase() || "php" == r.toLowerCase() ? h.replace("100x100", "300x300") : r + h.replace("100x100", "300x300"), oa = c.results[0].trackViewUrl, "" != kb && (oa += "&app=itunes&at=" + kb)) : (h = xa, oa = "");
+							// (h = c.results[0].artworkUrl100, h = "none" == r.toLowerCase() || "nothing" == r.toLowerCase() || "php" == r.toLowerCase() ? h.replace("100x100", "300x300") : r + h.replace("100x100", "300x300"), oa = c.results[0].trackViewUrl, "" != kb && (oa += "&app=itunes&at=" + kb)) : (h = xa, oa = "");
+							(h = c.results[0].artworkUrl100, h = "none" == r.toLowerCase() || "nothing" == r.toLowerCase() || "php" == r.toLowerCase() ? h.replace("100x100", "300x300") : r + h.replace("100x100", "300x300"), oa = c.results[0].trackViewUrl, "" != kb && (oa += "&app=itunes")) : (h = xa, oa = "");
 						E++;
 						2 < E && (E = 1);
 						a("#" + b + "coverblurshadow" + E).attr("src", h);
