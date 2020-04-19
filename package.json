@@ -4,6 +4,7 @@
   "description": "madforjekyll",
   "main": "Gruntfile.js",
   "dependencies": {
+    "color-scheme": "^1.0.1",
     "magnific-popup": "^1.0.0"
   },
   "devDependencies": {},
