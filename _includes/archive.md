@@ -1,5 +1,14 @@
 ## Archive
 
+### Monday April 20th
+---
+
+#### 2pm Em <a href="https://open.spotify.com/playlist/2y7OdEAwkVhKZBn7SHjLW0" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200420-2pm.jpeg)
+
+#### 5pm Stuart D <a href="https://open.spotify.com/playlist/4yTf8UPhDG6w7WZJywdpk9" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200420-5pm.jpeg)
+
 ### Sunday April 19th
 ---
 
@@ -9,10 +18,10 @@
 #### 2pm Alex M <a href="https://open.spotify.com/playlist/5vbgPJJV0nnYEvu95x7k56" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200419-2pm.jpeg)
 
-#### 5pm Gilly
+#### 5pm Gilly <a href="https://www.mixcloud.com/Glastonauts_Live/gilly-lockdown-live-eclectic-beats/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200419-5pm.jpeg)
 
-#### 8pm Dan M
+#### 8pm Dan M (postponed)
 ![alt-text](assets/owner/images/20200419-8pm.jpeg)
 
 ### Saturday April 18th
