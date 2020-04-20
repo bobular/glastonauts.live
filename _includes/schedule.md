@@ -1,17 +1,10 @@
-### Sunday April 19th
+### Monday April 20th
 ---
 
-#### 10am Dan M
-![alt-text](assets/owner/images/20200419-10am.jpeg)
+#### 2pm Em
+![alt-text](assets/owner/images/20200420-2pm.jpeg)
 
-#### 2pm Alex M
-![alt-text](assets/owner/images/20200419-2pm.jpeg)
-
-#### 5pm Gilly
-![alt-text](assets/owner/images/20200419-5pm.jpeg)
-
-#### 8pm Dan M
-![alt-text](assets/owner/images/20200419-8pm.jpeg)
-
+#### 5pm Stuart D
+![alt-text](assets/owner/images/20200420-5pm.jpeg)
 
 [To the archives...](archive.html)

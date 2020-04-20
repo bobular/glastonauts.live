@@ -1,5 +1,19 @@
 ## Archive
 
+### Sunday April 19th
+---
+
+#### 10am Dan M <a href="https://open.spotify.com/playlist/1L0fonaflBnYNG2I2vYPv6" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200419-10am.jpeg)
+
+#### 2pm Alex M <a href="https://open.spotify.com/playlist/5vbgPJJV0nnYEvu95x7k56" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200419-2pm.jpeg)
+
+#### 5pm Gilly
+![alt-text](assets/owner/images/20200419-5pm.jpeg)
+
+#### 8pm Dan M
+![alt-text](assets/owner/images/20200419-8pm.jpeg)
 
 ### Saturday April 18th
 ---
