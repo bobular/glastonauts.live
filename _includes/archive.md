@@ -1,3 +1,15 @@
+### Tuesday April 21th
+---
+
+#### 2pm Esther <a href="https://open.spotify.com/playlist/2pOaKoctCnfzbu4fk9S71o" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200421-2pm.jpeg)
+
+#### 5pm Darragh <a href="https://open.spotify.com/playlist/74Leb5DPqJE1Voh1V030VE" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200421-5pm.jpeg)
+
+#### 8pm Edd H <a href="https://open.spotify.com/playlist/7rdfm4BP3lWWPRcv25waja" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200421-8pm.jpeg)
+
 ### Monday April 20th
 ---
 
