@@ -1,3 +1,16 @@
+### Wednesday April 22nd
+---
+
+#### 2pm Stella <a href="https://open.spotify.com/playlist/1egcqLwxXmNqrqrZPwVauM" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200422-2pm.jpeg)
+
+#### 5pm Dave (Live DJ set)
+![alt-text](assets/owner/images/20200422-5pm.jpeg)
+
+#### 6pm Sal (Live DJ set)
+![alt-text](assets/owner/images/20200422-6pm.jpeg)
+
+
 ### Tuesday April 21th
 ---
 
