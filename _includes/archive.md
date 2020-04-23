@@ -4,12 +4,14 @@
 #### 2pm Stella <a href="https://open.spotify.com/playlist/1egcqLwxXmNqrqrZPwVauM" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200422-2pm.jpeg)
 
-#### 5pm Dave (Live DJ set)
+#### 5pm Dave (Live DJ set) <a href="https://www.mixcloud.com/Glastonauts_Live/dave-warm-house/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200422-5pm.jpeg)
 
-#### 6pm Sal (Live DJ set)
+#### 6pm Sal (Live DJ set) <a href="https://www.mixcloud.com/Glastonauts_Live/sal-deepish-house/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200422-6pm.jpeg)
 
+#### 8pm Bob <a href="https://open.spotify.com/playlist/5yiaqHcuHgMNRwkjxZciTs" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200408-8pm.jpeg)
 
 ### Tuesday April 21th
 ---
