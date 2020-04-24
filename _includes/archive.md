@@ -1,3 +1,12 @@
+### Thursday April 23rd
+---
+
+#### 2pm Broc Olli <a href="https://open.spotify.com/playlist/69LPs2hYkdIMtPaXVp2fHl" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200423-2pm.jpeg)
+
+#### 5pm Judd <a href="https://open.spotify.com/playlist/2iy41SPLbGMKkq9WFgoF4V" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200423-5pm.jpeg)
+
 ### Wednesday April 22nd
 ---
 
