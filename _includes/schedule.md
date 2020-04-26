@@ -1,22 +1,15 @@
-### Sunday April 26th
+### Monday April 27th
 ---
 
-#### 10am Ioannis (replay)
-![alt-text](assets/owner/images/20200412-10am.jpeg)
+#### 1pm Master Q
+![cover art](assets/owner/images/20200427-1pm.jpeg)
 
-#### 2pm Snots
-![alt-text](assets/owner/images/20200426-2pm.jpeg)
+#### 4pm Judd
+![cover art](assets/owner/images/20200427-4pm.jpeg)
 
-### Phat Fest Takeover II
+#### 6pm Judd
+![cover art](assets/owner/images/20200427-6pm.jpeg)
 
-#### 5pm Dave
-![alt-text](assets/owner/images/20200426-5pm.jpeg)
-
-#### 6pm Josh
-![alt-text](assets/owner/images/20200426-6pm.jpeg)
-
-#### 7pm Dan W
-![alt-text](assets/owner/images/20200426-7pm.jpeg)
 
 
 [To the archives...](archive.html)
