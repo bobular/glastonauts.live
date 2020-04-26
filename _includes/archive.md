@@ -1,3 +1,16 @@
+### Saturday April 25th
+---
+
+#### 2pm Uly  <a href="https://open.spotify.com/playlist/0XOXVBogPncXqeqq29QfRP" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200425-2pm.jpeg)
+
+#### 5pm TomKat  <a href="https://open.spotify.com/playlist/6Br6SHlDgMaSon4R68OTCD" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![alt-text](assets/owner/images/20200425-5pm.jpeg)
+
+#### 8pm Dan M (Live DJ set)
+![alt-text](assets/owner/images/20200425-8pm.jpeg)
+
+
 ### Friday April 24th
 ---
 
