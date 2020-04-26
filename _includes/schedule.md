@@ -7,8 +7,16 @@
 #### 2pm Snots
 ![alt-text](assets/owner/images/20200426-2pm.jpeg)
 
-#### 5pm Phat Fest Takeover 2
+### Phat Fest Takeover II
+
+#### 5pm Dave
 ![alt-text](assets/owner/images/20200426-5pm.jpeg)
+
+#### 6pm Josh
+![alt-text](assets/owner/images/20200426-6pm.jpeg)
+
+#### 7pm Dan W
+![alt-text](assets/owner/images/20200426-7pm.jpeg)
 
 
 [To the archives...](archive.html)

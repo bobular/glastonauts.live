@@ -20,10 +20,10 @@
 #### 5pm Esther <a href="https://open.spotify.com/playlist/0WEhHbTjJ3cpoQL9wvdILr" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200424-5pm.jpeg)
 
-#### 8pm Josh (Live DJ set)
+#### 8pm Josh (Live DJ set) <a href="https://www.mixcloud.com/Glastonauts_Live/josh-deep-progressive/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200424-8pm.jpeg)
 
-#### 9pm Lost Legend (Exclusive pre-recorded DJ set)
+#### 9pm Lost Legend (Exclusive pre-recorded DJ set) <a href="https://www.mixcloud.com/Glastonauts_Live/lostlegend-eclectronic-dance-music/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![alt-text](assets/owner/images/20200424-9pm.jpeg)
 
 
