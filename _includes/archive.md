@@ -1,3 +1,12 @@
+### Tuesday April 28th
+---
+
+#### 1pm Robert <a href="https://open.spotify.com/playlist/1azlRTDJC3FZQKoGIM1bAC" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200428-1pm.jpeg)
+
+#### 4pm Broc Olli <a href="https://open.spotify.com/playlist/0hXA7x7lHeKgeXgn1l8I43" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200428-4pm.jpeg)
+
 
 ### Monday April 27th
 ---
