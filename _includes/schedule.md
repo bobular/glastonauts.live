@@ -1,15 +1,11 @@
-### Monday April 27th
+### Tuesday April 28th
 ---
 
-#### 1pm Master Q
-![cover art](assets/owner/images/20200427-1pm.jpeg)
+#### 1pm Robert
+![cover art](assets/owner/images/20200428-1pm.jpeg)
 
-#### 4pm Judd
-![cover art](assets/owner/images/20200427-4pm.jpeg)
-
-#### 6pm Judd
-![cover art](assets/owner/images/20200427-6pm.jpeg)
-
+#### 4pm Broc Olli
+![cover art](assets/owner/images/20200428-4pm.jpeg)
 
 
 [To the archives...](archive.html)

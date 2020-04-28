@@ -1,4 +1,17 @@
 
+### Monday April 27th
+---
+
+#### 1pm Master Q <a href="https://open.spotify.com/playlist/6T1oOKgvbez0Pmb8AcP2zJ" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200427-1pm.jpeg)
+
+#### 4pm Judd <a href="https://open.spotify.com/playlist/1ChjDJ3KpJWp6fnwvA8zSP" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200427-4pm.jpeg)
+
+#### 6pm Judd <a href="https://open.spotify.com/playlist/3M2Dzd18zx08GyikN9ugSV" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200427-6pm.jpeg)
+
+
 ### Sunday April 26th
 ---
 
@@ -29,7 +42,7 @@
 #### 5pm TomKat  <a href="https://open.spotify.com/playlist/6Br6SHlDgMaSon4R68OTCD" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200425-5pm.jpeg)
 
-#### 8pm Dan M (Live DJ set)
+#### 8pm Dan M (Live DJ set) <a href="https://www.mixcloud.com/Glastonauts_Live/dan-m-early-influences/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200425-8pm.jpeg)
 
 
