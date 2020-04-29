@@ -1,17 +1,15 @@
-### Wednesday April 29th
+### Thursday April 30th
 ---
 
-#### 10am Glastonauts
-![cover art](assets/owner/images/20200429-10am.jpeg)
+#### 1pm TomKat
+![cover art](assets/owner/images/20200430-1pm.jpeg)
 
-#### 1pm Alex M
-![cover art](assets/owner/images/20200429-1pm.jpeg)
+#### 4pm Stuart D
+![cover art](assets/owner/images/20200430-4pm.jpeg)
 
-#### 4pm DJ Sebster
-![cover art](assets/owner/images/20200429-4pm.jpeg)
+#### 8pm Alan & Steve
+![cover art](assets/owner/images/20200430-8pm.jpeg)
 
-#### 6.30pm Bob
-![cover art](assets/owner/images/20200429-6pm.jpeg)
 
 
 [To the archives...](archive.html)

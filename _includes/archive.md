@@ -1,3 +1,18 @@
+### Wednesday April 29th
+---
+
+#### 10am Glastonauts <a href="https://open.spotify.com/playlist/33tDR6LwU9RDEL1Jmsz1Qy?si=-jAklpEhQtimJwplD3efwA" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200429-10am.jpeg)
+
+#### 1pm Alex M <a href="https://open.spotify.com/playlist/0oSsb3n7QyXwCGFj3oyX9F?si=1PYjJoBdRXilk2E7JA38Sg" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200429-1pm.jpeg)
+
+#### 4pm DJ Sebster
+![cover art](assets/owner/images/20200429-4pm.jpeg)
+
+#### 6.30pm Bob <a href="https://open.spotify.com/playlist/72RxV9GnflNnJh5sUZBVpS?si=DXnDLhY4TMuTS468Q78ZhA" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200429-6pm.jpeg)
+
 ### Tuesday April 28th
 ---
 
