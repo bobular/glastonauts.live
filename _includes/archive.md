@@ -47,13 +47,13 @@
 
 ### Phat Fest Takeover II
 
-#### 5pm Dave
+#### 5pm Dave <a href="https://www.mixcloud.com/Glastonauts_Live/dave-phat-fest-takeover-ii/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200426-5pm.jpeg)
 
-#### 6pm Josh
+#### 6pm Josh <a href="https://www.mixcloud.com/Glastonauts_Live/josh-phat-fest-takeover-ii/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200426-6pm.jpeg)
 
-#### 7pm Dan W
+#### 7pm Dan W <a href="https://www.mixcloud.com/Glastonauts_Live/dan-w-phat-fest-takeover-ii/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200426-7pm.jpeg)
 
 
