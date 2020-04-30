@@ -1,3 +1,16 @@
+### Thursday April 30th
+---
+
+#### 1pm TomKat <a href="https://open.spotify.com/playlist/5JTQgMxRMJHUjVnsE1OHol" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200430-1pm.jpeg)
+
+#### 4pm Stuart D <a href="https://open.spotify.com/playlist/3OzQLqvkqxzXeg0vAhqonP" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200430-4pm.jpeg)
+
+#### 8pm Alan & Steve <!-- UNCOMMENT ME <a href="https://open.spotify.com/playlist/6J2voTTN8KHl6SDcvmHafZ" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> -->
+![cover art](assets/owner/images/20200430-8pm.jpeg)
+
+
 ### Wednesday April 29th
 ---
 
@@ -10,7 +23,7 @@
 #### 4pm DJ Sebster
 ![cover art](assets/owner/images/20200429-4pm.jpeg)
 
-#### 6.30pm Bob <a href="https://open.spotify.com/playlist/72RxV9GnflNnJh5sUZBVpS?si=DXnDLhY4TMuTS468Q78ZhA" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+#### 6.30pm Bob <a href="https://open.spotify.com/playlist/72RxV9GnflNnJh5sUZBVpS" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
 ![cover art](assets/owner/images/20200429-6pm.jpeg)
 
 ### Tuesday April 28th

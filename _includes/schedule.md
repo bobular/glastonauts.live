@@ -1,14 +1,18 @@
-### Thursday April 30th
+### Friday May 1st
 ---
 
-#### 1pm TomKat
-![cover art](assets/owner/images/20200430-1pm.jpeg)
+#### 1pm Miss Q
+![cover art](assets/owner/images/20200501-1pm.jpeg)
 
-#### 4pm Stuart D
-![cover art](assets/owner/images/20200430-4pm.jpeg)
+#### 4pm Beth
+![cover art](assets/owner/images/20200501-4pm.jpeg)
 
-#### 8pm Alan & Steve
-![cover art](assets/owner/images/20200430-8pm.jpeg)
+#### 7pm Gilly
+![cover art](assets/owner/images/20200501-7pm.jpeg)
+
+#### 9pm Andy Davies
+![cover art](assets/owner/images/20200501-9pm.jpeg)
+
 
 
 
