@@ -1,3 +1,18 @@
+### Friday May 1st
+---
+
+#### 1pm Miss Q  <a href="https://open.spotify.com/playlist/0EaxRSNJ1LKTuZLzOwvVcE" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200501-1pm.jpeg)
+
+#### 4pm Beth  <a href="https://open.spotify.com/playlist/499Lmt7FnIX1RPe0chVyD2" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200501-4pm.jpeg)
+
+#### 7pm Gilly
+![cover art](assets/owner/images/20200501-7pm.jpeg)
+
+#### 9pm Andy Davies
+![cover art](assets/owner/images/20200501-9pm.jpeg)
+
 ### Thursday April 30th
 ---
 
