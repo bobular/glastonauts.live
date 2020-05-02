@@ -1,3 +1,19 @@
+### Saturday May 2st
+---
+
+#### 1pm Miss F|Miss Q|Miss R <a href="https://open.spotify.com/playlist/3aj8gNZMNLloegnh4lEzkc" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200502-1pm.jpeg)
+
+#### 4pm biG & k8e <a href="https://open.spotify.com/playlist/3aj8gNZMNLloegnh4lEzkc" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200502-4pm.jpeg)
+
+#### 7pm Sir Styles
+![cover art](assets/owner/images/20200502-7pm.jpeg)
+
+#### 9pm batch
+![cover art](assets/owner/images/20200502-9pm.jpeg)
+
+
 ### Friday May 1st
 ---
 
