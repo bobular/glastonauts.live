@@ -7,10 +7,10 @@
 #### 4pm Beth  <a href="https://open.spotify.com/playlist/499Lmt7FnIX1RPe0chVyD2" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
 ![cover art](assets/owner/images/20200501-4pm.jpeg)
 
-#### 7pm Gilly
+#### 7pm Gilly <a href="https://www.mixcloud.com/Glastonauts_Live/gilly-lockdown-live/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200501-7pm.jpeg)
 
-#### 9pm Andy Davies
+#### 9pm Andy Davies <a href="https://www.mixcloud.com/upload/Glastonauts_Live/andy-davies-journey-through-time/complete/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200501-9pm.jpeg)
 
 ### Thursday April 30th
