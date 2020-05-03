@@ -10,7 +10,7 @@
 #### 7pm Sir Styles
 ![cover art](assets/owner/images/20200502-7pm.jpeg)
 
-#### 9pm batch
+#### 9pm batch <a href="https://www.mixcloud.com/Glastonauts_Live/batch-one-foot-in-the-rave/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200502-9pm.jpeg)
 
 
