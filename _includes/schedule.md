@@ -1,17 +1,10 @@
-### Saturday May 2st
+### Monday May 4th
 ---
 
-#### 10am Bob|Vic|Alex M
-![cover art](assets/owner/images/20200503-10am.jpeg)
+#### 1pm Judd
+![cover art](assets/owner/images/20200504-1pm.jpeg)
 
-#### 1pm Em
-![cover art](assets/owner/images/20200503-1pm.jpeg)
-
-#### 4pm CD
-![cover art](assets/owner/images/20200503-4pm.jpeg)
-
-#### 6pm DJ Wilky
-![cover art](assets/owner/images/20200503-6pm.jpeg)
-
+#### 4pm Bren
+![cover art](assets/owner/images/20200504-4pm.jpeg)
 
 [To the archives...](archive.html)

@@ -1,3 +1,18 @@
+### Sunday May 3st
+---
+
+#### 10am Bob|Vic|Alex M <a href="https://open.spotify.com/playlist/0wcHt1mBS7diAT1PhHDEgR?si=LHY-o_Y7TUOUd1-b2K2oIw" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200503-10am.jpeg)
+
+#### 1pm Em <a href="https://open.spotify.com/playlist/3P1KFf7pNnaoITPD3YNuCL" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200503-1pm.jpeg)
+
+#### 4pm CD 
+![cover art](assets/owner/images/20200503-4pm.jpeg)
+
+#### 6pm DJ Wilky
+![cover art](assets/owner/images/20200503-6pm.jpeg)
+
 ### Saturday May 2st
 ---
 
