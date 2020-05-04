@@ -1,10 +1,10 @@
-### Monday May 4th
+### Tuesday May 5th
 ---
 
-#### 1pm Judd
-![cover art](assets/owner/images/20200504-1pm.jpeg)
+#### 1pm Broc Olli
+![cover art](assets/owner/images/20200505-1pm.jpeg)
 
-#### 4pm Bren
-![cover art](assets/owner/images/20200504-4pm.jpeg)
+#### 4pm Stuart D
+![cover art](assets/owner/images/20200505-4pm.jpeg)
 
 [To the archives...](archive.html)

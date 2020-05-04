@@ -1,7 +1,16 @@
+### Monday May 4th
+---
+
+#### 1pm Judd <a href="https://open.spotify.com/playlist/13YVH5mTTROkcuzrEDhVx5" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200504-1pm.jpeg)
+
+#### 4pm Bren <a href="https://open.spotify.com/playlist/2JJMPRFkTt694B7Z8yoGN5" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200504-4pm.jpeg)
+
 ### Sunday May 3st
 ---
 
-#### 10am Bob|Vic|Alex M <a href="https://open.spotify.com/playlist/0wcHt1mBS7diAT1PhHDEgR?si=LHY-o_Y7TUOUd1-b2K2oIw" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+#### 10am Bob|Vic|Alex M <a href="https://open.spotify.com/playlist/0wcHt1mBS7diAT1PhHDEgR" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
 ![cover art](assets/owner/images/20200503-10am.jpeg)
 
 #### 1pm Em <a href="https://open.spotify.com/playlist/3P1KFf7pNnaoITPD3YNuCL" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
