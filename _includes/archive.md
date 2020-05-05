@@ -1,3 +1,13 @@
+### Tuesday May 5th
+---
+
+#### 1pm Broc Olli <a href="https://open.spotify.com/playlist/0XjcxenaiZ2xfeFgHUdUAH" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200505-1pm.jpeg)
+
+#### 4pm Stuart D <a href="https://open.spotify.com/playlist/7Me8qOaCLi7YROKG1Zvo8W" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200505-4pm.jpeg)
+
+
 ### Monday May 4th
 ---
 
