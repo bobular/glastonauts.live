@@ -16,10 +16,10 @@
 #### 1pm Em <a href="https://open.spotify.com/playlist/3P1KFf7pNnaoITPD3YNuCL" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
 ![cover art](assets/owner/images/20200503-1pm.jpeg)
 
-#### 4pm CD 
+#### 4pm CD <a href="https://www.mixcloud.com/Glastonauts_Live/cd-deepbeatz/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200503-4pm.jpeg)
 
-#### 6pm DJ Wilky
+#### 6pm DJ Wilky <a href="https://www.mixcloud.com/Glastonauts_Live/dj-wilky-eclectic-electronica/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200503-6pm.jpeg)
 
 ### Saturday May 2st
