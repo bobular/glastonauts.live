@@ -62,7 +62,7 @@
 #### 4pm Stuart D <a href="https://open.spotify.com/playlist/3OzQLqvkqxzXeg0vAhqonP" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
 ![cover art](assets/owner/images/20200430-4pm.jpeg)
 
-#### 8pm Alan & Steve <!-- UNCOMMENT ME <a href="https://open.spotify.com/playlist/6J2voTTN8KHl6SDcvmHafZ" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> -->
+#### 8pm Alan & Steve <a href="https://open.spotify.com/playlist/6J2voTTN8KHl6SDcvmHafZ" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200430-8pm.jpeg)
 
 
