@@ -1,3 +1,22 @@
+### Wednesday May 6th
+---
+
+#### 10am Esther & Glastonauts <a href="https://open.spotify.com/playlist/1CxbtfCWP0Bih1s4Vr75qa" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200429-10am.jpeg)
+
+#### 1pm Stella (replay from April 1st) <a href="https://open.spotify.com/playlist/2mcvAxnj3suURJATMCb5c7" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200401-2pm.jpeg)
+
+#### 4pm CD
+![cover art](assets/owner/images/20200506-4pm.jpeg)
+
+#### 6.30pm Bob <a href="https://open.spotify.com/playlist/62FqfqA9yoTyQJeYQly25N" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200429-6pm.jpeg)
+
+#### 8pm Bristolnauts (postponed to Sunday 8pm)
+![cover art](assets/owner/images/quiz-night.png)
+
+
 ### Tuesday May 5th
 ---
 
