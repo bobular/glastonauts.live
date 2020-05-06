@@ -4,7 +4,7 @@
 #### 2pm Brocc Oli
 ![cover art](assets/owner/images/20200507-2pm.jpeg)
 
-#### 4pm Judd and Bren
+#### 4pm Esther
 ![cover art](assets/owner/images/20200507-4pm.jpeg)
 
 #### 7pm Bob
