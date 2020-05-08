@@ -1,3 +1,18 @@
+### Thursday May 7th
+---
+
+#### 2pm Brocc Oli <a href="https://open.spotify.com/playlist/2q6F7OZhsSnMLe4IlPsbXs" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200507-2pm.jpeg)
+
+#### 4pm Esther <a href="https://open.spotify.com/playlist/4augnwO3h6NdMPjTda8jyL" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200507-4pm.jpeg)
+
+#### 7pm Bob <a href="https://open.spotify.com/playlist/5rQ7JqUCWPedMS2KxPrCh7" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200507-7pm.jpeg)
+
+#### 10pm LostLegend
+![cover art](assets/owner/images/20200507-10pm.jpeg)
+
 ### Wednesday May 6th
 ---
 
