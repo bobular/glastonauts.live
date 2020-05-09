@@ -27,7 +27,7 @@
 #### 7pm Bob <a href="https://open.spotify.com/playlist/5rQ7JqUCWPedMS2KxPrCh7" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200507-7pm.jpeg)
 
-#### 10pm LostLegend
+#### 10pm LostLegend <a href="https://www.mixcloud.com/Glastonauts_Live/lostlegend-give-trance-a-chance/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200507-10pm.jpeg)
 
 ### Wednesday May 6th
@@ -39,7 +39,7 @@
 #### 1pm Stella (replay from April 1st) <a href="https://open.spotify.com/playlist/2mcvAxnj3suURJATMCb5c7" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200401-2pm.jpeg)
 
-#### 4pm CD
+#### 4pm CD <a href="https://www.mixcloud.com/Glastonauts_Live/cd-presents-groove-factory-funky-house-classics/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200506-4pm.jpeg)
 
 #### 6.30pm Bob <a href="https://open.spotify.com/playlist/62FqfqA9yoTyQJeYQly25N" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
@@ -136,7 +136,7 @@
 #### 1pm Alex M <a href="https://open.spotify.com/playlist/0oSsb3n7QyXwCGFj3oyX9F?si=1PYjJoBdRXilk2E7JA38Sg" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
 ![cover art](assets/owner/images/20200429-1pm.jpeg)
 
-#### 4pm DJ Sebster
+#### 4pm DJ Sebster <a href=https://www.mixcloud.com/Glastonauts_Live/dj-sebster-the-jazzstep-session/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200429-4pm.jpeg)
 
 #### 6.30pm Bob <a href="https://open.spotify.com/playlist/72RxV9GnflNnJh5sUZBVpS" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
