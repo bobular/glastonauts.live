@@ -25,10 +25,10 @@
 #### 4pm Em <a href="https://open.spotify.com/playlist/4WjYQUZB9gHSymn5onC7m1" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200508-4pm.jpeg)
 
-#### 7pm DJ Wilky
+#### 7pm DJ Wilky <a href="https://www.mixcloud.com/Glastonauts_Live/dj-wilky-friday-up-your-friday-with-eclectic-electronica/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200508-7pm.jpeg)
 
-#### 9pm batch
+#### 9pm batch <a href="https://www.mixcloud.com/Glastonauts_Live/batch-god-rave-the-queen/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200508-9pm.jpeg)
 
 
