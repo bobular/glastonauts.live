@@ -1,3 +1,20 @@
+### Saturday May 9th
+---
+
+#### 1pm TomKat <a href="https://open.spotify.com/playlist/5NNe9MjaDbCewQFx3ckDIr" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200509-1pm.jpeg)
+
+#### 4pm Judd & Bren <a href="https://open.spotify.com/playlist/6DAoQL8xyZbUgSSVzfQKzR" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200509-4pm.jpeg)
+
+#### 7pm Collab party <a href="https://open.spotify.com/playlist/0T6beZeWtuosHFY4sfXyXv" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200509-7pm.jpeg)
+
+#### 10pm Phat Fest Takeover III
+![cover art](assets/owner/images/20200509-10pm.jpeg)
+
+#### 12.30am Ioannis
+
 ### Friday May 8th
 ---
 

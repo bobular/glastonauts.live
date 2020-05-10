@@ -1,17 +1,17 @@
-### Saturday May 9th
+### Sunday May 10th
 ---
 
-#### 1pm TomKat
-![cover art](assets/owner/images/20200509-1pm.jpeg)
+#### 10am Dan M (replay) <a href="https://open.spotify.com/playlist/1L0fonaflBnYNG2I2vYPv6" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200419-10am.jpeg)
 
-#### 4pm Judd & Bren
-![cover art](assets/owner/images/20200509-4pm.jpeg)
+#### 2pm Nicnoname
+![cover art](assets/owner/images/20200510-2pm.jpeg)
 
-#### 7pm Collab party
-![cover art](assets/owner/images/20200509-7pm.jpeg)
+#### 6pm Styles
+![cover art](assets/owner/images/20200418-8pm.jpeg)
 
-#### 10pm Phat Fest Takeover III
-![cover art](assets/owner/images/20200509-10pm.jpeg)
+#### 8pm Quiz Night! by the Bristolnauts
+![cover art](assets/owner/images/quiz-night.png)
 
 
 
