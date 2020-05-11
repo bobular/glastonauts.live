@@ -1,18 +1,10 @@
-### Sunday May 10th
+### Monday May 11th
 ---
 
-#### 10am Dan M (replay) <a href="https://open.spotify.com/playlist/1L0fonaflBnYNG2I2vYPv6" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
-![cover art](assets/owner/images/20200419-10am.jpeg)
+#### 1pm POLEM (repeat) <a href="https://open.spotify.com/playlist/4RfwPM6UKGdTgTYtV3qyA1" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200409-5pm.jpeg)
 
-#### 2pm Nicnoname
-![cover art](assets/owner/images/20200510-2pm.jpeg)
-
-#### 6pm Styles
-![cover art](assets/owner/images/20200418-8pm.jpeg)
-
-#### 8pm Quiz Night! by the Bristolnauts
-![cover art](assets/owner/images/quiz-night.png)
-
-
+#### 4pm KP (repeat) <a href="https://open.spotify.com/playlist/1E0tYs3A7pUKfOFVtAboyL" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200407-5pm.jpeg)
 
 [To the archives...](archive.html)
