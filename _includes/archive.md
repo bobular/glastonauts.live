@@ -35,9 +35,9 @@
 #### 7pm Collab party <a href="https://open.spotify.com/playlist/0T6beZeWtuosHFY4sfXyXv" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200509-7pm.jpeg)
 
-### Phat Fest Takeover II
+### Phat Fest Takeover III
 
-#### 10pm Dan M <a href="https://www.mixcloud.com/Glastonauts_Live/dan-m-phat-fest-takeover-iii/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
+#### 10pm Dan W <a href="https://www.mixcloud.com/Glastonauts_Live/dan-m-phat-fest-takeover-iii/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200509-10pm.jpeg)
 
 #### 11pm Josh <a href="https://www.mixcloud.com/Glastonauts_Live/josh-phat-fest-takeover-iii/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
