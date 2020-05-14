@@ -13,7 +13,7 @@
 #### 10am Dan M (replay) <a href="https://open.spotify.com/playlist/1L0fonaflBnYNG2I2vYPv6" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200419-10am.jpeg)
 
-#### 2pm Nicnoname
+#### 2pm Nicnoname <a href="https://www.mixcloud.com/Glastonauts_Live/nicnoname-rare-vinyl-roots-reggae-dj-set/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200510-2pm.jpeg)
 
 #### 6pm Styles
@@ -43,7 +43,9 @@
 #### 11pm Josh <a href="https://www.mixcloud.com/Glastonauts_Live/josh-phat-fest-takeover-iii/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200509-11pm.jpeg)
 
-#### 12.30am Ioannis
+#### 12.30am Ioannis <a href="https://www.mixcloud.com/Glastonauts_Live/ioannis-last-minute/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
+![cover art](assets/owner/images/20200509-12am.jpeg)
+
 
 ### Friday May 8th
 ---
