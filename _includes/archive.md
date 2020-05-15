@@ -1,3 +1,9 @@
+### Thursday May 14th
+---
+
+#### 8pm Judd <a href="https://open.spotify.com/playlist/2h40b4HapeCRDhLUOXrXAU" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> & Brocc Oli <a href="https://open.spotify.com/playlist/1RcrW0FysMQst20iUvmY4k" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200514-8pm.jpeg)
+
 ### Monday May 11th
 ---
 
