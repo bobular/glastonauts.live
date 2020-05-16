@@ -1,3 +1,15 @@
+### Friday May 15th
+---
+
+#### 4pm TomKat <a href="https://open.spotify.com/playlist/1C2j2IX93GmhhlfmcRqd4B" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200515-4pm.jpeg)
+
+#### 7pm Andy Davies
+![cover art](assets/owner/images/20200515-7pm.jpeg)
+
+#### 9pm Nicnoname
+![cover art](assets/owner/images/20200515-9pm.jpeg)
+
 ### Thursday May 14th
 ---
 
@@ -22,7 +34,7 @@
 #### 2pm Nicnoname <a href="https://www.mixcloud.com/Glastonauts_Live/nicnoname-rare-vinyl-roots-reggae-dj-set/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200510-2pm.jpeg)
 
-#### 6pm Styles
+#### 6pm Styles <a href="https://www.mixcloud.com/Glastonauts_Live/sir-styles-on-repeat-on-a-sunday-afternoon/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200418-8pm.jpeg)
 
 #### 8pm Quiz Night! by the Bristolnauts <a href="https://open.spotify.com/playlist/5REbe6a3wTODyRYraaU6x2" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
