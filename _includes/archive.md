@@ -2,7 +2,7 @@
 ### Sunday May 17th
 ---
 
-#### 10am numbernaut 
+#### 10am numbernaut <a href="https://open.spotify.com/playlist/75y91WlYu81XbT5HVnF2r8" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200517-10am.jpeg)
 
 #### 11am Alex M <a href="https://open.spotify.com/playlist/2Jabvf4UUmhGApy3d7OyxL" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
@@ -14,7 +14,7 @@
 #### 4pm Sal and Kez <a href="https://open.spotify.com/playlist/6lsaAftnoClhvE3Nw1jofl" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200517-4pm.jpeg)
 
-#### 5.30pm Bob 
+#### 5.30pm Bob <a href="https://open.spotify.com/playlist/7L3vzQGjnFEme4rI8r5MqJ" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200517-6pm.jpeg)
 
 #### 9.30pm Nicnoname
