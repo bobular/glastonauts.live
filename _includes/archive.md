@@ -1,14 +1,52 @@
+
+### Sunday May 17th
+---
+
+#### 10am numbernaut 
+![cover art](assets/owner/images/20200517-10am.jpeg)
+
+#### 11am Alex M <a href="https://open.spotify.com/playlist/2Jabvf4UUmhGApy3d7OyxL" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200517-11am.jpeg)
+
+#### 1pm Brocc Oli <a href="https://open.spotify.com/playlist/35XfRzfWBwL23hyWElbRXX" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200517-1pm.jpeg)
+
+#### 4pm Sal and Kez <a href="https://open.spotify.com/playlist/6lsaAftnoClhvE3Nw1jofl" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200517-4pm.jpeg)
+
+#### 5.30pm Bob 
+![cover art](assets/owner/images/20200517-6pm.jpeg)
+
+#### 9.30pm Nicnoname
+![cover art](assets/owner/images/20200517-9pm.jpeg)
+
+### Saturday May 16th
+---
+
+#### 1pm Gazelle <a href="https://www.mixcloud.com/Glastonauts_Live/gazelle-the-desert-session/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
+![cover art](assets/owner/images/20200516-1pm.jpeg)
+
+#### 3pm S&G Takeover Part I
+![cover art](assets/owner/images/20200516-3pm.jpeg)
+
+#### 7pm CD <a href="https://www.mixcloud.com/Glastonauts_Live/cd-nottopolous-covid-16th-of-may/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
+![cover art](assets/owner/images/20200516-8pm.jpeg)
+
+#### 8pm S&G Takeover Part II
+![cover art](assets/owner/images/20200516-7pm.jpeg)
+
 ### Friday May 15th
 ---
 
 #### 4pm TomKat <a href="https://open.spotify.com/playlist/1C2j2IX93GmhhlfmcRqd4B" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200515-4pm.jpeg)
 
-#### 7pm Andy Davies
+#### 7pm Andy Davies <a href="https://www.mixcloud.com/Glastonauts_Live/andy-davies-journey-through-sound-ii/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200515-7pm.jpeg)
 
-#### 9pm Nicnoname
+#### 9pm Nicnoname <a href="https://www.mixcloud.com/Glastonauts_Live/nicnoname-techno-set-extravaganza/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200515-9pm.jpeg)
+
 
 ### Thursday May 14th
 ---
