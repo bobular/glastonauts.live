@@ -8,7 +8,9 @@
 #### 4pm Bren
 ![cover art](assets/owner/images/20200520-4pm.jpeg)
 
-#### 7pm DJ TBC
+#### 7pm CD (TBC)
+![cover art](assets/owner/images/20200520-7pm.jpeg)
+
 
 
 [To the archives...](archive.html)
