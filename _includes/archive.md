@@ -23,17 +23,30 @@
 ### Saturday May 16th
 ---
 
+### S&G Takeover Part I
+
 #### 1pm Gazelle <a href="https://www.mixcloud.com/Glastonauts_Live/gazelle-the-desert-session/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200516-1pm.jpeg)
 
 #### 3pm S&G Takeover Part I
 ![cover art](assets/owner/images/20200516-3pm.jpeg)
 
-#### 7pm CD <a href="https://www.mixcloud.com/Glastonauts_Live/cd-nottopolous-covid-16th-of-may/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
-![cover art](assets/owner/images/20200516-8pm.jpeg)
+### S&G Takeover Part II
 
-#### 8pm S&G Takeover Part II
+#### 7pm CD <a href="https://www.mixcloud.com/Glastonauts_Live/cd-nottopolous-covid-16th-of-may/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200516-7pm.jpeg)
+
+### 8pm Dave
+![cover art](assets/owner/images/20200516-7-11pm.jpeg)
+
+#### 9pm Dan W <a href="https://www.mixcloud.com/Glastonauts_Live/dan-w-how-brilliant-you-are-mix/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
+![cover art](assets/owner/images/20200516-9pm.jpeg)
+
+#### 10pm Ioannis <a href="https://www.mixcloud.com/Glastonauts_Live/ioannis-random-folder/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
+![cover art](assets/owner/images/20200516-10pm.jpeg)
+
+#### 11pm Sir Styles
+![cover art](assets/owner/images/20200516-7-11pm.jpeg)
 
 ### Friday May 15th
 ---
