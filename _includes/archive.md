@@ -1,3 +1,16 @@
+### Wednesday May 20th
+---
+
+#### 1pm Em (replay) <a href="https://open.spotify.com/playlist/2y7OdEAwkVhKZBn7SHjLW0" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200420-2pm.jpeg)
+
+#### 4pm Bren <a href="https://open.spotify.com/playlist/3ExBGTcEPYrAThqCPQ5Ct3" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200520-4pm.jpeg)
+
+#### 7pm CD
+![cover art](assets/owner/images/20200520-7pm.jpeg)
+
+
 
 ### Sunday May 17th
 ---
