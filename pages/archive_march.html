@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Archive
+title: Archive (March)
 description: "previous playlists and DJ sets"
 header-img: "assets/owner/hero/archive-bg.jpg"
-permalink: ./archive.html
-in_navbar: true
+permalink: ./archive_march.html
+in_navbar: false
 ---
 
 <!-- intro -->
@@ -12,16 +12,14 @@ in_navbar: true
   <div class="flex-grid">
     <div class="flex-col schedule">
 
-      {% capture my_include %}{% include archive.md %}{% endcapture %}
+      {% capture my_include %}{% include archive_march.md %}{% endcapture %}
       {{ my_include | markdownify }}
 
-    </div>  
-
+    </div>
 
     <div class="flex-col links">
       {% include archive_links.html %}
     </div>
-
 
   </div>
 </div>
