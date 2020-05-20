@@ -8,7 +8,7 @@
 #### 4pm Bren
 ![cover art](assets/owner/images/20200520-4pm.jpeg)
 
-#### 7pm CD (TBC)
+#### 7pm CD
 ![cover art](assets/owner/images/20200520-7pm.jpeg)
 
 
