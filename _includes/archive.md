@@ -1,3 +1,13 @@
+### Thursday May 21st
+---
+
+#### 1pm Aidywag <a href="https://open.spotify.com/playlist/5h0CJqnYF4NvhomOvHCzmb" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200521-1pm.jpeg)
+
+#### 4pm Uly (replay) <a href="https://open.spotify.com/playlist/0XOXVBogPncXqeqq29QfRP" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200425-2pm.jpeg)
+
+
 ### Wednesday May 20th
 ---
 

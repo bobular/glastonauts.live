@@ -1,11 +1,14 @@
-### Thursday May 21st
+### Friday May 22nd
 ---
 
-#### 1pm Aidywag
-![cover art](assets/owner/images/20200521-1pm.jpeg)
+#### 4pm TomKat (replay) <a href="https://open.spotify.com/playlist/6Br6SHlDgMaSon4R68OTCD" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
+![cover art](assets/owner/images/20200425-5pm.jpeg)
 
-#### 4pm Uly (replay)
-![cover art](assets/owner/images/20200425-2pm.jpeg)
+#### 7pm Sal
+![cover art](assets/owner/images/20200522-7pm.jpeg)
+
+#### 9pm Dan M
+![cover art](assets/owner/images/20200522-9pm.jpeg)
 
 
 
