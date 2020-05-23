@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        https://replacecover.com/
+// @match        https://replacecover.com/*
 // @grant        none
 // ==/UserScript==
 
@@ -1818,16 +1818,11 @@
 
 
     let randomise = document.createElement('div');
-
+    let searchParams = new URLSearchParams(window.location.search)
+    let bg;
 
 
     setTimeout(function () {
-
-        let author = document.getElementsByClassName("c-canvasPreview--author")[0];
-        let pill = document.getElementsByClassName("c-canvasPreview--pill")[0];
-        let title = document.getElementsByClassName("c-canvasPreview--textarea")[0];
-
-        let bg = document.getElementsByClassName("c-canvasPreviewBox")[0];
 
         let setColours = function () {
             let randomCombo = palettes[Math.floor(Math.random() * palettes.length)];
@@ -1837,13 +1832,52 @@
             bg.style.backgroundColor = randomCombo[1];
         }
 
-        author.style.fontSize = "xxx-large";
+        let author = document.getElementsByClassName("c-canvasPreview--author")[0];
+        let pill = document.getElementsByClassName("c-canvasPreview--pill")[0];
+        let title = document.getElementsByClassName("c-canvasPreview--textarea")[0];
+        let alignLeft = false;
+
+        // set the icon
+        if (searchParams.has("type")) {
+            let type = searchParams.get("type");
+            let tiles = document.getElementsByClassName("c-smallThingsBox");
+            alignLeft = document.getElementsByClassName("ic-align-left")[0].parentElement;
+            if (type === 'DJ') {
+                tiles[48].click();
+                setTimeout(function () {
+                    alignLeft.click();
+                }, 500)
+            } else if (type === 'Playlist') {
+                tiles[5].click();
+
+            }
+        }
+
+
 
         document.getElementsByClassName("c-canvasEditor")[0].appendChild(randomise);
         randomise.innerHTML = '<div id="randomiseColors" class="c-tools-section c-tools-Randomise"><div class="c-tools-section--action"><span class="ic" style="color: rgb(145, 206, 207);">RND</span></div></div>'
         randomise.addEventListener("click", setColours);
 
+        setTimeout(function () {
 
-    }, 5000);
+            // set the author text
+            if (searchParams.has("author")) {
+                author.value = searchParams.get("author");
+            }
+
+            // set the title text
+            if (searchParams.has("title")) {
+                title.value = searchParams.get("title");
+            }
+
+            bg = document.getElementsByClassName("c-canvasPreviewBox")[0];
+            author.style.fontSize = "xxx-large";
+            setColours();
+
+
+        }, 1000)
+
+    }, 3000);
 
 })();
