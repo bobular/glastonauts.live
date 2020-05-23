@@ -20,7 +20,7 @@
 ### Sunday May 24th
 ---
 
-#### 10am koko
+#### 9am koko
 ![cover art](assets/owner/images/20200524-10am.jpeg)
 
 #### 1pm Judd
