@@ -1,20 +1,3 @@
-### Saturday May 23rd
----
-
-#### 11am Miss R
-![cover art](assets/owner/images/20200523-11am.jpeg)
-
-#### 1pm Esther
-![cover art](assets/owner/images/20200523-1pm.jpeg)
-
-#### 4pm Stella
-![cover art](assets/owner/images/20200523-4pm.jpeg)
-
-#### 7pm DJ Sebster
-![cover art](assets/owner/images/20200523-7pm.jpeg)
-
-#### 9pm Andy Davies b2b Sir Styles 
-![cover art](assets/owner/images/20200523-9pm.jpeg)
 
 
 ### Sunday May 24th

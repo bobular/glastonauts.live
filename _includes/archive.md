@@ -1,10 +1,28 @@
+### Saturday May 23rd
+---
+
+#### 11am Miss R <a href="https://open.spotify.com/playlist/54SBurXB5sCb1B2Rx2SXSO" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200523-11am.jpeg)
+
+#### 1pm Esther <a href="https://open.spotify.com/playlist/3tioUQoK65On3BwXRnvxOo" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200523-1pm.jpeg)
+
+#### 4pm Stella <a href="https://open.spotify.com/playlist/1QvnbM3hhLbt5Akbn8Lb0x" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+![cover art](assets/owner/images/20200523-4pm.jpeg)
+
+#### 7pm DJ Sebster <a href="https://www.mixcloud.com/Glastonauts_Live/dj-sebster-the-space-funk-session/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
+![cover art](assets/owner/images/20200523-7pm.jpeg)
+
+#### 9pm Andy Davies b2b Sir Styles 
+![cover art](assets/owner/images/20200523-9pm.jpeg)
+
 ### Friday May 22nd
 ---
 
 #### 4pm TomKat (replay) <a href="https://open.spotify.com/playlist/6Br6SHlDgMaSon4R68OTCD" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200425-5pm.jpeg)
 
-#### 7pm Sal
+#### 7pm Sal  <a href="https://www.mixcloud.com/Glastonauts_Live/sal-deep-prog-techno/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200522-7pm.jpeg)
 
 #### 9pm Dan M
@@ -30,9 +48,8 @@
 #### 4pm Bren <a href="https://open.spotify.com/playlist/3ExBGTcEPYrAThqCPQ5Ct3" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200520-4pm.jpeg)
 
-#### 7pm CD
+#### 7pm CD <a href="https://www.mixcloud.com/Glastonauts_Live/cd-progressive-journey-mix/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
 ![cover art](assets/owner/images/20200520-7pm.jpeg)
-
 
 
 ### Sunday May 17th
