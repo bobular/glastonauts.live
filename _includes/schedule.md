@@ -31,7 +31,11 @@
 #### 6pm Kelly
 ![cover art](assets/owner/images/20200525-6pm.jpeg)
 
+#### 9.30pm Bob
+![cover art](assets/owner/images/20200429-6pm.jpeg)
 
+#### 11pm Ioannis
+![cover art](assets/owner/images/20200525-11pm.jpeg)
 
 
 
