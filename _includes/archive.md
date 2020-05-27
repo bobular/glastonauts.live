@@ -20,13 +20,13 @@
 #### 4pm Ioannis (Live DJ Set) 
 ![cover art](assets/owner/images/20200525-4pm.jpeg)
 
-#### 6pm batch (Live DJ Set) 
+#### 6pm batch (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/batch-next-stop-funky-town/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200525-6pm.jpeg)
 
-#### 9pm Bob (Live DJ Set) 
+#### 9pm Bob <a href='https://open.spotify.com/playlist/2lTmPi4oqpnKzWwLAwi6m9' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200429-6pm.jpeg)
 
-#### 11pm Ioannis (Live DJ Set) 
+#### 11pm Ioannis (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/ioannis-11pm/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200525-11pm.jpeg)
 
 ### Sunday May 24
@@ -41,8 +41,12 @@
 #### 4pm nicnoname (Live DJ Set) 
 ![cover art](assets/owner/images/20200524-4pm.jpeg)
 
-#### 6pm Dave ) (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/dave-o-live-dj-set/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+#### 6pm Dave O (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/dave-o-live-dj-set/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200524-6pm.jpeg)
+
+#### 8pm Josh (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/josh-sunday-night/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20200524-8pm.jpeg)
+
 
 ### Saturday May 23
 ---
