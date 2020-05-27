@@ -1,20 +1,57 @@
-### Saturday May 23rd
+### Monday May 25
 ---
 
-#### 11am Miss R <a href="https://open.spotify.com/playlist/54SBurXB5sCb1B2Rx2SXSO" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+#### 1pm Darragh <a href='https://open.spotify.com/playlist/74Leb5DPqJE1Voh1V030VE' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200421-5pm.jpeg)
+
+#### 4pm Ioannis (Live DJ Set) 
+![cover art](assets/owner/images/20200525-4pm.jpeg)
+
+#### 6pm batch (Live DJ Set) 
+![cover art](assets/owner/images/20200525-6pm.jpeg)
+
+#### 9pm Bob (Live DJ Set) 
+![cover art](assets/owner/images/20200429-6pm.jpeg)
+
+#### 11pm Ioannis (Live DJ Set) 
+![cover art](assets/owner/images/20200525-11pm.jpeg)
+
+### Sunday May 24
+---
+
+#### 9am Koko <a href='https://open.spotify.com/playlist/11nec7NbvS9YTtuDlzxsyc' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200524-9am.jpeg)
+
+#### 1pm Judd <a href='https://open.spotify.com/playlist/3ojdBl3izonymKFd8jZ539' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200524-1pm.jpeg)
+
+#### 4pm nicnoname (Live DJ Set) 
+![cover art](assets/owner/images/20200524-4pm.jpeg)
+
+#### 6pm Dave ) (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/dave-o-live-dj-set/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20200524-6pm.jpeg)
+
+### Saturday May 23
+---
+
+#### 11am Miss R <a href='https://open.spotify.com/playlist/54SBurXB5sCb1B2Rx2SXSO' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200523-11am.jpeg)
 
-#### 1pm Esther <a href="https://open.spotify.com/playlist/3tioUQoK65On3BwXRnvxOo" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+#### 1pm Esther <a href='https://open.spotify.com/playlist/3tioUQoK65On3BwXRnvxOo' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200523-1pm.jpeg)
 
-#### 4pm Stella <a href="https://open.spotify.com/playlist/1QvnbM3hhLbt5Akbn8Lb0x" target="_blank" title="Go to playlist"> <i class="fab fa-spotify fa-inverse"></i></a> 
+#### 4pm Stella  <a href='https://open.spotify.com/playlist/1QvnbM3hhLbt5Akbn8Lb0x' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200523-4pm.jpeg)
 
-#### 7pm DJ Sebster <a href="https://www.mixcloud.com/Glastonauts_Live/dj-sebster-the-space-funk-session/" target="_blank" title="Go to recording"> <i class="fab fa-mixcloud fa-inverse"></i></a>
+#### 7pm DJ Sebster (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/cd-progressive-journey-mix/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200523-7pm.jpeg)
 
-#### 9pm Andy Davies b2b Sir Styles 
+#### 9pm Andy Davies b2b Sir Styles (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/andy-davies-b2b-sir-styles-live-dj-set/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200523-9pm.jpeg)
+
+#### 11pm Sir Styles (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/sir-styles-encore/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20200523-11pm.jpeg)
+
 
 ### Friday May 22nd
 ---
