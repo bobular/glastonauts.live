@@ -1,11 +1,14 @@
-### Thursday May 28
+### Friday May 29
 ---
 
-#### 1pm Bren
-![cover art](assets/owner/images/20200528-1pm.jpeg)
+#### 4pm BenCB (replay) 
+![cover art](assets/owner/images/20200529-4pm.jpeg)
 
-#### 4-8.30pm Stuart
-![cover art](assets/owner/images/20200528-4pm.jpeg)
+#### 7pm CD (Live DJ Set) 
+![cover art](assets/owner/images/20200529-7pm.jpeg)
+
+#### 9pm Dan W (Live DJ Set) 
+![cover art](assets/owner/images/20200529-9pm.jpeg)
 
 
 [To the archives...](archive.html)

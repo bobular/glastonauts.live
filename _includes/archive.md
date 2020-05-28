@@ -1,3 +1,13 @@
+### Thursday May 28
+---
+
+#### 1pm Bren <a href='https://open.spotify.com/playlist/3SooX2iljiwsI5oXWR2gPB' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200528-1pm.jpeg)
+
+#### 4-8.30pm Stuart <a href='https://open.spotify.com/playlist/5pWASIFsY37KfkXjHbZ5jF' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200528-4pm.jpeg)
+
+
 ### Wednesday May 27
 ---
 
