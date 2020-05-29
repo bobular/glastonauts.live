@@ -16,6 +16,8 @@
 
 ### Sunday May 31
 ---
+#### 11am Alex M (replay)
+![cover art](assets/owner/images/20200531-11am.jpeg)
 
 #### 1pm Master Q 
 ![cover art](assets/owner/images/20200531-1pm.jpeg)
