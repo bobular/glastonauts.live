@@ -1,16 +1,3 @@
-### Friday May 29
----
-
-#### 4pm BenCB (replay) 
-![cover art](assets/owner/images/20200529-4pm.jpeg)
-
-#### 7pm CD (Live DJ Set) 
-![cover art](assets/owner/images/20200529-7pm.jpeg)
-
-#### 9pm Dan W (Live DJ Set) 
-![cover art](assets/owner/images/20200529-9pm.jpeg)
-
-
 ### Saturday May 30
 ---
 
@@ -27,9 +14,20 @@
 ![cover art](assets/owner/images/20200530-9pm.jpeg)
 
 
+### Sunday May 31
+---
 
+#### 1pm Master Q 
+![cover art](assets/owner/images/20200531-1pm.jpeg)
 
+#### 4pm Gazelle (Live DJ Set) 
+![cover art](assets/owner/images/20200531-4pm.jpeg)
 
+#### 6pm Droppenkiken (aka DJ Sebster) (DJ Set replay) 
+![cover art](assets/owner/images/20200531-6pm.jpeg)
+
+#### 8pm LostLegend (Exclusive prerecorded DJ Set) 
+![cover art](assets/owner/images/20200531-8pm.jpeg)
 
 
 

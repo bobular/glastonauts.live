@@ -1,3 +1,16 @@
+### Friday May 29
+---
+
+#### 4pm BenCB (replay) <a href='https://open.spotify.com/playlist/5I2WTTUDG1IXLlYHoWjzRf' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200529-4pm.jpeg)
+
+#### 7pm CD (Live DJ Set) 
+![cover art](assets/owner/images/20200529-7pm.jpeg)
+
+#### 9pm Dan W (Live DJ Set) 
+![cover art](assets/owner/images/20200529-9pm.jpeg)
+
+
 ### Thursday May 28
 ---
 
