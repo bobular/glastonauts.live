@@ -1,15 +1,47 @@
+### Sunday May 31
+---
+#### 11am Alex M (replay) <a href='https://open.spotify.com/playlist/2Jabvf4UUmhGApy3d7OyxL' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200531-11am.jpeg)
+
+#### 1pm Master Q <a href='https://open.spotify.com/playlist/3htuFxHYKXKl97exVJhAqx' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200531-1pm.jpeg)
+
+#### 4pm Gazelle (Live DJ Set) 
+![cover art](assets/owner/images/20200531-4pm.jpeg)
+
+#### 6pm Droppenkiken (aka DJ Sebster) (DJ Set replay) 
+![cover art](assets/owner/images/20200531-6pm.jpeg)
+
+#### 8pm LostLegend (Exclusive prerecorded DJ Set) 
+![cover art](assets/owner/images/20200531-8pm.jpeg)
+
+### Saturday May 30
+---
+
+#### 12pm Ollie <a href='https://open.spotify.com/playlist/4Dx1988oWP7XymJ4Dv0BG4' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200530-12pm.jpeg)
+
+#### 4pm Kerry (replay) <a href='https://open.spotify.com/playlist/3LbxxBYQ4JBlwz8m2uVlxL' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200530-4pm.jpeg)
+
+#### 7pm Andy Davies (Live DJ Set) <a href='https://www.mixcloud.com/upload/Glastonauts_Live/andy-davies-another-journey-through-sound/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20200530-7pm.jpeg)
+
+#### 9pm Glastonauts <a href='https://open.spotify.com/playlist/55SnNxTQ2x96crA33BRdcW' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200530-9pm.jpeg)
+
+
 ### Friday May 29
 ---
 
 #### 4pm BenCB (replay) <a href='https://open.spotify.com/playlist/5I2WTTUDG1IXLlYHoWjzRf' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200529-4pm.jpeg)
 
-#### 7pm CD (Live DJ Set) 
+#### 7pm CD (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/cd-pandemic-at-the-disco/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200529-7pm.jpeg)
 
-#### 9pm Dan W (Live DJ Set) 
+#### 9pm Dan W (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/dan-w-states-of-independance/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200529-9pm.jpeg)
-
 
 ### Thursday May 28
 ---
