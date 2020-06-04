@@ -33,7 +33,7 @@
 #### 1pm Juddo Chop! 
 ![cover art](assets/owner/images/20200606-1pm.jpeg)
 
-#### 4pm Alex M (replay) 
+#### 4pm Alex M (updated replay) 
 ![cover art](assets/owner/images/20200606-4pm.jpeg)
 
 #### 7pm DJ Sebster (Live DJ Set) 
