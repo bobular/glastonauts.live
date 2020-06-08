@@ -76,3 +76,9 @@
 
 #### 7pm Lee (Live DJ Set) 
 ![cover art](assets/owner/images/20200603-7pm.jpeg)
+
+### Tuesday June 2
+---
+
+#### 8pm Ioannis (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/ioannis-minimal-ethnic-beats/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20200602-8pm.jpeg)
