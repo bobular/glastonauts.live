@@ -7,13 +7,13 @@
 #### 1pm Ollie <a href='https://open.spotify.com/playlist/21p42eoWaxDvmduLn4GpnX' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200607-1pm.jpeg)
 
-#### 4pm Savvides (Live DJ Set) 
+#### 4pm Savvides (Exclusive pre-recorded DJ Set) 
 ![cover art](assets/owner/images/20200607-4pm.jpeg)
 
 #### 6pm DJ Wilky (Live DJ Set) 
 ![cover art](assets/owner/images/20200607-6pm.jpeg)
 
-#### 9pm Bob 
+#### 9pm Bob <a href='https://open.spotify.com/playlist/6eoBLKY0kyLBlim6aOuOyi' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a> 
 ![cover art](assets/owner/images/20200607-9pm.jpeg)
 
 
