@@ -1,3 +1,70 @@
+### Sunday June 14
+---
+
+#### 10am Bob <a href='https://open.spotify.com/playlist/3riBoe1U3B3DXKywoLRnIb' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200614-10am.jpeg)
+
+#### 1pm Ollie  <a href='https://open.spotify.com/playlist/2VWsmcqyNXW4yF3cU1rwZe?si=iHo6liC7RWaw0VUaERp_qw' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200614-1pm.jpeg)
+
+#### 4pm Stella <a href='https://open.spotify.com/playlist/091wzfCxQrtpE3qwD9g8yS' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200614-4pm.jpeg)
+
+#### 7pm CD (Live DJ Set) 
+![cover art](assets/owner/images/20200614-7pm.jpeg)
+
+
+### Saturday June 13
+---
+#### 1pm Alex M (replay) <a href='https://open.spotify.com/playlist/5vbgPJJV0nnYEvu95x7k56' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200419-2pm.jpeg)
+
+#### 4pm biG (replay) <a href='https://open.spotify.com/playlist/0Sbh7OwlDiR6wZceGwkAyT' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200613-4pm.jpeg)
+
+#### 7pm Sir Styles (Live DJ Set) 
+![cover art](assets/owner/images/20200613-7pm.jpeg)
+
+#### 8pm Ioannis (Live DJ Set) 
+![cover art](assets/owner/images/20200613-7pm.jpeg)
+
+#### 10pm Bob (Live DJ Set) 
+![cover art](assets/owner/images/20200613-7pm.jpeg)
+
+#### 11pm Dan W (Live DJ Set) 
+![cover art](assets/owner/images/20200613-7pm.jpeg)
+
+
+
+### Friday June 12
+---
+
+#### 1pm Judd the Stud <a href='https://open.spotify.com/playlist/3mR3Cfdp6TA2KmxkFrMjQw' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200612-1pm.jpeg)
+
+#### 4pm Sarah/Snots (replay) <a href='https://open.spotify.com/playlist/0iiCvxkh26wQp9FRpcay30?si=ths_VcefTgKOurmp1svfVg' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200426-2pm.jpeg)
+
+#### 7pm Sal (Live DJ Set) 
+![cover art](assets/owner/images/20200612-7pm.jpeg)
+
+
+### Thursday June 11
+---
+
+#### 1pm Ollie presents 
+![cover art](assets/owner/images/20200611-1pm.jpeg)
+
+#### 2pm Bren <a href='https://open.spotify.com/playlist/7ym10SdgWJ5WRT4IRjgHLo' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200611-2pm.jpeg)
+
+#### 4pm Bruce Quilter <a href='https://open.spotify.com/playlist/4pL9y3ptdwAgEoWzhMJGg5?si=DtyZVMfYTGqt9CKJXQM4JQ' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200611-4pm.jpeg)
+
+#### 7pm Ollie <a href='https://open.spotify.com/playlist/0Xv00OA9usCOsKg19kDxH7?si=6yehphrMRNG4Yb-x7HhvGQ' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200611-7pm.jpeg)
+
+
 ### Wednesday June 10
 ---
 
@@ -45,8 +112,9 @@
 #### 7pm DJ Sebster (Live DJ Set) 
 ![cover art](assets/owner/images/20200606-7pm.jpeg)
 
-#### 9pm batch (Live DJ Set) 
+#### 9pm batch (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/batch-dont-techno-for-an-answer/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200606-9pm.jpeg)
+
 
 
 ### Friday June 5
@@ -55,10 +123,10 @@
 #### 4pm Ollie <a href='https://open.spotify.com/playlist/2M0Of3WNMyyOl525lfnlHE' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200605-4pm.jpeg)
 
-#### 7pm CD (Live DJ Set) 
+#### 7pm CD (Live DJ Set) <a href='https://www.mixcloud.com/upload/Glastonauts_Live/cd-presents-creatures-of-the-deep/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200605-7pm.jpeg)
 
-#### 9pm Andy Davies (Live DJ Set) 
+#### 9pm Andy Davies (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/andy-davies-yet-another-journey-through-sound/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200605-9pm.jpeg)
 
 
@@ -75,6 +143,7 @@
 ![cover art](assets/owner/images/20200604-7pm.jpeg)
 
 
+
 ### Wednesday June 3
 ---
 
@@ -87,8 +156,10 @@
 #### 4pm Esther <a href='https://open.spotify.com/playlist/1Thhzr1OGZCn9jlzYhV2qh' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200603-4pm.jpeg)
 
-#### 7pm Lee (Live DJ Set) 
+#### 7pm Gilly (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/gilly-lockdown-live-ii/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200603-7pm.jpeg)
+
+
 
 ### Tuesday June 2
 ---
