@@ -4,7 +4,7 @@
 #### 1pm Ollie  
 ![cover art](assets/owner/images/20200618-1pm.jpeg)
 
-#### 4pm Stuart D 
+#### 5pm Stuart D 
 ![cover art](assets/owner/images/20200618-4pm.jpeg)
 
 
