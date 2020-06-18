@@ -1,3 +1,19 @@
+### Wednesday June 17
+---
+
+#### 1pm Esther <a href='https://open.spotify.com/playlist/755ZyEbmUdoUvmM1NXEOO4' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200617-1pm.jpeg)
+
+#### 4pm Scott S <a href='https://open.spotify.com/playlist/32QwNlpACF6EyKIaFJrigF' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200617-4pm.jpeg)
+
+#### 7pm Savvides (replay, Prerecorded DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/savvides-exclusive-pre-recorded-dj-set/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20200607-4pm.jpeg)
+
+#### 9pm DTwo (Prerecorded DJ Set)
+![cover art](assets/owner/images/20200617-9pm.jpeg)
+
+
 ### Sunday June 14
 ---
 
