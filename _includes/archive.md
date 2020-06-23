@@ -1,3 +1,56 @@
+### Thursday June 18
+---
+
+#### 1pm Ollie  <a href='https://open.spotify.com/playlist/2mba3FtYphIXlonjSiCoEd' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200618-1pm.jpeg)
+
+#### 5pm Stuart D <a href='https://open.spotify.com/playlist/7ASM2ZYMlCFOcoWy9FXAhz' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200618-4pm.jpeg)
+
+
+
+### Friday June 19
+---
+
+#### 4pm Judd (replay)  <a href='https://open.spotify.com/playlist/0k1LCQH2y0PVVBvGORLCMO' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200417-2pm.jpeg)
+
+#### 7pm Glastonaut DJs 
+![cover art](assets/owner/images/20200619-7pm.jpeg)
+
+
+### Saturday June 20
+---
+
+#### 1pm Miss Q (replay)  <a href='https://open.spotify.com/playlist/0EaxRSNJ1LKTuZLzOwvVcE' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200501-1pm.jpeg)
+
+#### 4pm Vic K  <a href='https://open.spotify.com/playlist/4q13ggFa7wZF8V71EeKT7b' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200620-4pm.jpeg)
+
+#### 7pm Andy Davies (Live DJ Set) 
+![cover art](assets/owner/images/20200620-7pm.jpeg)
+
+#### 9pm batch (Live DJ Set) 
+![cover art](assets/owner/images/20200620-9pm.jpeg)
+
+
+### Sunday June 21
+---
+
+#### 10am Koko  <a href='https://open.spotify.com/playlist/11nec7NbvS9YTtuDlzxsyc' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200621-10am.jpeg)
+
+#### 1pm Bren  <a href='https://open.spotify.com/playlist/0LASmsLODJw5YwQEO6FdkF' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200621-1pm.jpeg)
+
+#### 4pm CD (Live DJ Set) 
+![cover art](assets/owner/images/20200621-4pm.jpeg)
+
+#### 6pm Dave O (Live DJ Set) 
+![cover art](assets/owner/images/20200621-6pm.jpeg)
+
+
 ### Wednesday June 17
 ---
 
