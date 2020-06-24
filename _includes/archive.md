@@ -1,3 +1,16 @@
+### Wednesday June 24
+---
+
+#### 1pm Em <a href='https://open.spotify.com/playlist/15LTjS9DAiPo3tjfu924n4' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200624-1pm.jpeg)
+
+#### 3pm Em <a href='https://open.spotify.com/playlist/3WfICy4cGVw3Y3r7A1g2po' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200624-3pm.jpeg)
+
+#### 7pm Glastonauts vs Effra FC  <a href='https://open.spotify.com/playlist/4zBuGgfX3I27xLA0ZO4u8e' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200624-7pm.jpeg)
+
+
 ### Thursday June 18
 ---
 
