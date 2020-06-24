@@ -7,6 +7,10 @@
 #### 3.30pm Em 
 ![cover art](assets/owner/images/20200624-3pm.jpeg)
 
+#### 7pm Glastonauts vs Effra FC
+![cover art](assets/owner/images/20200624-7pm.jpeg)
+
+
 
 ### Thursday June 25
 ---
