@@ -1,3 +1,61 @@
+### Sunday June 28
+---
+
+#### 10am Auntie B 
+![cover art](assets/owner/images/auntie_b600.jpeg)
+
+#### 5pm Em <a href='https://open.spotify.com/playlist/2Ej2JERZcipo7DPRDhfkfH' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200628-5pm.jpeg)
+
+#### 6pm CD (Live DJ Set) 
+![cover art](assets/owner/images/20200628-6pm.jpeg)
+
+#### 8pm batch (Live DJ Set) 
+![cover art](assets/owner/images/20200628-8pm.jpeg)
+
+#### 9pm Auntie B 
+![cover art](assets/owner/images/auntie_b600.jpeg)
+
+
+### Saturday June 27
+---
+
+#### 10am Auntie B 
+![cover art](assets/owner/images/auntie_b600.jpeg)
+
+#### 6pm biG <a href='https://open.spotify.com/playlist/3t6756doKov0e4CWXI9hYw' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200627-6pm.jpeg)
+
+#### 8pm Dan W (Live DJ Set) 
+![cover art](assets/owner/images/20200627-8pm.jpeg)
+
+#### 10pm Judd <a href='https://open.spotify.com/playlist/1DrCuhnglDmbUvqoI4V3ed' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200627-10pm.jpeg)
+
+
+### Friday June 26
+---
+
+#### 10am Auntie B 
+![cover art](assets/owner/images/auntie_b600.jpeg)
+
+#### 7pm Dan M <a href='https://open.spotify.com/playlist/0SXXmbGFyYz19yeSiqR59q' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200626-7pm.jpeg)
+
+#### 9pm Stuart D <a href='https://open.spotify.com/playlist/48MqviMQyDBVHA5dfGq9Bu' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200626-9pm.jpeg)
+
+#### 12am Auntie B 
+![cover art](assets/owner/images/auntie_b600.jpeg)
+
+
+### Thursday June 25
+---
+
+#### 10am Auntie B 
+![cover art](assets/owner/images/auntie_b600.jpeg)
+
+
 ### Wednesday June 24
 ---
 
@@ -9,43 +67,6 @@
 
 #### 7pm Glastonauts vs Effra FC  <a href='https://open.spotify.com/playlist/4zBuGgfX3I27xLA0ZO4u8e' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200624-7pm.jpeg)
-
-
-### Thursday June 18
----
-
-#### 1pm Ollie  <a href='https://open.spotify.com/playlist/2mba3FtYphIXlonjSiCoEd' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
-![cover art](assets/owner/images/20200618-1pm.jpeg)
-
-#### 5pm Stuart D <a href='https://open.spotify.com/playlist/7ASM2ZYMlCFOcoWy9FXAhz' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
-![cover art](assets/owner/images/20200618-4pm.jpeg)
-
-
-
-### Friday June 19
----
-
-#### 4pm Judd (replay)  <a href='https://open.spotify.com/playlist/0k1LCQH2y0PVVBvGORLCMO' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
-![cover art](assets/owner/images/20200417-2pm.jpeg)
-
-#### 7pm Glastonaut DJs 
-![cover art](assets/owner/images/20200619-7pm.jpeg)
-
-
-### Saturday June 20
----
-
-#### 1pm Miss Q (replay)  <a href='https://open.spotify.com/playlist/0EaxRSNJ1LKTuZLzOwvVcE' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
-![cover art](assets/owner/images/20200501-1pm.jpeg)
-
-#### 4pm Vic K  <a href='https://open.spotify.com/playlist/4q13ggFa7wZF8V71EeKT7b' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
-![cover art](assets/owner/images/20200620-4pm.jpeg)
-
-#### 7pm Andy Davies (Live DJ Set) 
-![cover art](assets/owner/images/20200620-7pm.jpeg)
-
-#### 9pm batch (Live DJ Set) 
-![cover art](assets/owner/images/20200620-9pm.jpeg)
 
 
 ### Sunday June 21
@@ -62,6 +83,42 @@
 
 #### 6pm Dave O (Live DJ Set) 
 ![cover art](assets/owner/images/20200621-6pm.jpeg)
+
+
+### Saturday June 20
+---
+
+#### 1pm Miss Q (replay) <a href='https://open.spotify.com/playlist/0EaxRSNJ1LKTuZLzOwvVcE' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200501-1pm.jpeg)
+
+#### 4pm Vic K <a href='https://open.spotify.com/playlist/4q13ggFa7wZF8V71EeKT7b' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200620-4pm.jpeg)
+
+#### 7pm Andy Davies (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/andy-davies-where-it-all-began/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20200620-7pm.jpeg)
+
+#### 9pm batch (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/batch-housebound/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20200620-9pm.jpeg)
+
+
+### Thursday June 18
+---
+
+#### 1pm Ollie  <a href='https://open.spotify.com/playlist/2mba3FtYphIXlonjSiCoEd' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200618-1pm.jpeg)
+
+#### 5pm Stuart D <a href='https://open.spotify.com/playlist/7ASM2ZYMlCFOcoWy9FXAhz' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200618-4pm.jpeg)
+
+
+### Friday June 19
+---
+
+#### 4pm Judd (replay)  <a href='https://open.spotify.com/playlist/0k1LCQH2y0PVVBvGORLCMO' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200417-2pm.jpeg)
+
+#### 7pm Glastonaut DJs 
+![cover art](assets/owner/images/20200619-7pm.jpeg)
 
 
 ### Wednesday June 17
@@ -192,12 +249,11 @@
 #### 4pm Alex M (replay) <a href='https://open.spotify.com/playlist/0oSsb3n7QyXwCGFj3oyX9F' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200606-4pm.jpeg)
 
-#### 7pm DJ Sebster (Live DJ Set) 
+#### 7pm DJ Sebster (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/dj-sebster-technos-new-shoes/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200606-7pm.jpeg)
 
 #### 9pm batch (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/batch-dont-techno-for-an-answer/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200606-9pm.jpeg)
-
 
 
 ### Friday June 5
