@@ -20,7 +20,7 @@
 ### Saturday July 4
 ---
 
-#### 1pm Em (replay) 
+#### 1.30pm Em (replay) 
 ![cover art](assets/owner/images/20200624-1pm.jpeg)
 
 #### 4pm Em (replay) 
