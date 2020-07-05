@@ -101,15 +101,6 @@
 ![cover art](assets/owner/images/20200620-9pm.jpeg)
 
 
-### Thursday June 18
----
-
-#### 1pm Ollie  <a href='https://open.spotify.com/playlist/2mba3FtYphIXlonjSiCoEd' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
-![cover art](assets/owner/images/20200618-1pm.jpeg)
-
-#### 5pm Stuart D <a href='https://open.spotify.com/playlist/7ASM2ZYMlCFOcoWy9FXAhz' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
-![cover art](assets/owner/images/20200618-4pm.jpeg)
-
 
 ### Friday June 19
 ---
@@ -119,6 +110,16 @@
 
 #### 7pm Glastonaut DJs 
 ![cover art](assets/owner/images/20200619-7pm.jpeg)
+
+### Thursday June 18
+---
+
+#### 1pm Ollie  <a href='https://open.spotify.com/playlist/2mba3FtYphIXlonjSiCoEd' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200618-1pm.jpeg)
+
+#### 5pm Stuart D <a href='https://open.spotify.com/playlist/7ASM2ZYMlCFOcoWy9FXAhz' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200618-4pm.jpeg)
+
 
 
 ### Wednesday June 17
