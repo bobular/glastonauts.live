@@ -1,3 +1,11 @@
+### Monday July 6
+---
+
+#### 9pm Glastonauts <a href='https://open.spotify.com/playlist/6d0ebihVV0idp9ajhae5XO' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200706-9pm.jpeg)
+
+
+
 ### Sunday July 5
 ---
 
