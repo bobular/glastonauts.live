@@ -7,10 +7,10 @@
 #### 5pm Em <a href='https://open.spotify.com/playlist/2Ej2JERZcipo7DPRDhfkfH' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200628-5pm.jpeg)
 
-#### 6pm CD (Live DJ Set) 
+#### 6pm CD (Live DJ Set) <a href='https://www.mixcloud.com/upload/Glastonauts_Live/cd-glastonbury-groove-armada-tribute-set/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200628-6pm.jpeg)
 
-#### 8pm batch (Live DJ Set) 
+#### 8pm batch (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/batch-annie-mac-arcadia-2019-recreation/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200628-8pm.jpeg)
 
 #### 9pm Auntie B 
@@ -26,7 +26,7 @@
 #### 6pm biG <a href='https://open.spotify.com/playlist/3t6756doKov0e4CWXI9hYw' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200627-6pm.jpeg)
 
-#### 8pm Dan W (Live DJ Set) 
+#### 8pm Dan W (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/dan-w-kezza-bday-set/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200627-8pm.jpeg)
 
 #### 10pm Judd <a href='https://open.spotify.com/playlist/1DrCuhnglDmbUvqoI4V3ed' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
@@ -78,7 +78,7 @@
 #### 1pm Bren  <a href='https://open.spotify.com/playlist/0LASmsLODJw5YwQEO6FdkF' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200621-1pm.jpeg)
 
-#### 4pm CD (Live DJ Set) 
+#### 4pm CD (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/cd-creatures-of-the-deep-pt2/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200621-4pm.jpeg)
 
 #### 6pm Dave O (Live DJ Set) 
