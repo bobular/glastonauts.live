@@ -14,7 +14,7 @@
 ### Saturday July 11
 ---
 
-#### 1pm Stella (replay) 
+#### 12pm Stella (replay) 
 ![cover art](assets/owner/images/20200523-4pm.jpeg)
 
 #### 4pm Judd 
