@@ -1,6 +1,12 @@
+### Thursday July 16
+---
 
+#### 7pm Bob
+![cover art](assets/owner/images/20200429-6pm.jpeg)
 
-### We'll be back on Thursday at 8pm for a half-playlist half-quiz...
+#### 8pm Jomo 
+![cover art](assets/owner/images/20200716-8pm.jpeg)
+
 
 
 [To the archives...](archive.html)
