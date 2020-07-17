@@ -11,6 +11,31 @@
 ![cover art](assets/owner/images/20200717-7pm.jpeg)
 
 
+### Saturday July 18
+---
+
+#### 1pm Em 
+![cover art](assets/owner/images/20200718-1pm.jpeg)
+
+#### 4pm Brocc Oli 
+![cover art](assets/owner/images/20200718-4pm.jpeg)
+
+#### 7pm LostLegend (Live DJ Set) 
+![cover art](assets/owner/images/20200718-7pm.jpeg)
+
+#### 9pm Ioannis (Live DJ Set) 
+![cover art](assets/owner/images/20200718-9pm.jpeg)
+
+
+### Sunday July 19
+---
+
+#### 10am Ioannis 
+![cover art](assets/owner/images/20200719-10am.jpeg)
+
+#### 4pm CD (Live DJ Set) 
+![cover art](assets/owner/images/20200719-4pm.jpeg)
+
 
 [To the archives...](archive.html)
 
