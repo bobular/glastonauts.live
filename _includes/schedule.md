@@ -30,8 +30,8 @@
 ### Sunday July 19
 ---
 
-#### 10am Ioannis 
-![cover art](assets/owner/images/20200719-10am.jpeg)
+#### 11:30am Ioannis 
+![cover art](assets/owner/images/20200719-11am.jpeg)
 
 #### 4pm CD (Live DJ Set) 
 ![cover art](assets/owner/images/20200719-4pm.jpeg)
