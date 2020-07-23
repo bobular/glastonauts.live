@@ -1,3 +1,42 @@
+### Sunday July 19
+---
+
+#### 10am Ode to Glastonauts <a href='https://open.spotify.com/playlist/0h6pOFJes2HfeMTMXLGRPR?si=elE6xTQ0Q3WHk2nUv2LquA' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200719-10am.jpeg)
+
+#### 4pm CD (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/cd-auralisms/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20200719-4pm.jpeg)
+
+
+### Saturday July 18
+---
+
+#### 1pm Em <a href='https://open.spotify.com/playlist/41MLlmIHKEXYtXO6Je45Zx' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200718-1pm.jpeg)
+
+#### 4pm Brocc Oli <a href='https://open.spotify.com/playlist/7wtwOt8Frc7KfGndNZH5mK' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200718-4pm.jpeg)
+
+#### 7pm LostLegend (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/lostlegend-collision/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20200718-7pm.jpeg)
+
+#### 9pm Ioannis (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/ioannis-through-the-cracks/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20200718-9pm.jpeg)
+
+
+### Friday July 17
+---
+
+#### 3pm Em (replay) 
+![cover art](assets/owner/images/20200628-5pm.jpeg)
+
+#### 4pm Scott (replay) 
+![cover art](assets/owner/images/20200617-4pm.jpeg)
+
+#### 7pm Andy Davies (Live DJ Set) 
+![cover art](assets/owner/images/20200717-7pm.jpeg)
+
+
 ### Thursday July 16
 ---
 
