@@ -1,3 +1,49 @@
+### Sunday July 26
+---
+
+#### 10am Melissa (replay) <a href='https://open.spotify.com/playlist/46AzDHhQwjY4IhbaIT0S7d' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a> 
+![cover art](assets/owner/images/20200607-10am.jpeg)
+
+#### 1pm TomKat (replay)  <a href='https://open.spotify.com/playlist/6BYNBRtJhL6aMEcwHNMs1s' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200418-2pm.jpeg)
+
+#### 4pm CD (Live DJ Set) 
+![cover art](assets/owner/images/20200726-4pm.jpeg)
+
+#### 6.30pm Community Hour <a href='https://open.spotify.com/playlist/6Gx77R6osPCaELKu5zCIhE?si=qvw4dWbMSli9Ogsyt2ZQiA' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20200726-6pm.jpeg)
+
+
+### Saturday July 25
+---
+
+#### 1pm Sal  <a href='https://open.spotify.com/playlist/3I2hlEeToPgTS2Yins44CV?si=RVYzlSRGTDq8A2tlizEqbg' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200725-1pm.jpeg)
+
+#### 4pm Scott S  <a href='https://open.spotify.com/playlist/57mAXa9uLBrHviYTNcFzKj' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200725-4pm.jpeg)
+
+#### 7pm Brocc Oli  <a href='https://open.spotify.com/playlist/15dxpwJKOdrgbRT3YMC5So' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200725-7pm.jpeg)
+
+#### 9pm Bob (Live DJ Set) 
+![cover art](assets/owner/images/20200725-9pm.jpeg)
+
+#### 10pm Dan M (Live DJ Set) 
+![cover art](assets/owner/images/20200725-10pm.jpeg)
+
+
+### Friday July 24
+---
+
+#### 4pm Em (replay) <a href='https://open.spotify.com/playlist/3P1KFf7pNnaoITPD3YNuCL' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200503-1pm.jpeg)
+
+#### 7pm TomKat (Live DJ Set) 
+![cover art](assets/owner/images/20200724-7pm.jpeg)
+
+
+
 ### Sunday July 19
 ---
 
