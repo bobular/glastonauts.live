@@ -10,7 +10,7 @@
 #### 4pm CD (Live DJ Set) 
 ![cover art](assets/owner/images/20200726-4pm.jpeg)
 
-#### 6.30pm Community Hour <a href='https://open.spotify.com/playlist/6Gx77R6osPCaELKu5zCIhE?si=qvw4dWbMSli9Ogsyt2ZQiA' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+#### 6.30pm Community Hour  <a href='https://open.spotify.com/playlist/6Gx77R6osPCaELKu5zCIhE' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200726-6pm.jpeg)
 
 
