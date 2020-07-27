@@ -17,7 +17,7 @@
 ### Saturday July 25
 ---
 
-#### 1pm Sal  <a href='https://open.spotify.com/playlist/3I2hlEeToPgTS2Yins44CV?si=RVYzlSRGTDq8A2tlizEqbg' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+#### 1pm Sal  <a href='https://open.spotify.com/playlist/3I2hlEeToPgTS2Yins44CV?si=RVYzlSRGTDq8A2tlizEqbg' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a> (second half airs next weekend, so spoiler warning!)
 ![cover art](assets/owner/images/20200725-1pm.jpeg)
 
 #### 4pm Scott S  <a href='https://open.spotify.com/playlist/57mAXa9uLBrHviYTNcFzKj' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
