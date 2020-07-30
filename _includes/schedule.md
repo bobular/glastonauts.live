@@ -4,8 +4,11 @@
 #### 4pm Bruce Q 
 ![cover art](assets/owner/images/20200731-4pm.jpeg)
 
-#### 7pm Ioannis (Live DJ Set) 
+#### 7pm Berko Massive 
 ![cover art](assets/owner/images/20200731-7pm.jpeg)
+
+#### 9pm Ioannis (Live DJ Set) 
+![cover art](assets/owner/images/20200731-9pm.jpeg)
 
 
 ### Saturday August 1
