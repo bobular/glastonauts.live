@@ -36,7 +36,10 @@
 #### 1pm Aidywag 
 ![cover art](assets/owner/images/20200802-1pm.jpeg)
 
-#### 4pm CD (Live DJ Set) 
+#### 4pm Vic (last hour replay) 
+![cover art](assets/owner/images/20200620-4pm.jpeg)
+
+#### 5pm CD (Live DJ Set)
 ![cover art](assets/owner/images/20200802-4pm.jpeg)
 
 
