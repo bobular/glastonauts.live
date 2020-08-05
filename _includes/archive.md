@@ -26,7 +26,7 @@
 #### 7pm Vic (2/3 replay)  <a href='https://open.spotify.com/playlist/4q13ggFa7wZF8V71EeKT7b' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200620-4pm.jpeg)
 
-#### 9pm DJ Sebster (Live DJ Set) 
+#### 9pm DJ Sebster (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/dj-sebster-the-water-margin/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a> 
 ![cover art](assets/owner/images/20200801-9pm.jpeg)
 
 
