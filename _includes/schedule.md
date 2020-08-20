@@ -1,17 +1,38 @@
-### Sunday August 16
+### Friday August 21
 ---
 
-#### 9am Ioannis (replay from April) 
-![cover art](assets/owner/images/20200412-10am.jpeg)
+#### 6pm Bruce Q (replay) 
+![cover art](assets/owner/images/20200611-4pm.jpeg)
 
-#### 1pm Ollie (replay from April) 
-![cover art](assets/owner/images/20200423-2pm.jpeg)
+#### 9pm Dan W (Live DJ Set) 
+![cover art](assets/owner/images/20200821-9pm.jpeg)
 
-#### 4pm Melissa 
-![cover art](assets/owner/images/20200816-4pm.jpeg)
 
-#### 6pm CD 
-![cover art](assets/owner/images/20200816-6pm.jpeg)
+### Saturday August 22
+---
+
+#### 4pm Bren (replay) 
+![cover art](assets/owner/images/20200528-1pm.jpeg)
+
+#### 7pm CD (Live DJ Set) 
+![cover art](assets/owner/images/20200822-7pm.jpeg)
+
+
+
+### Sunday August 23
+---
+
+#### 10am Stuart D (replay) 
+![cover art](assets/owner/images/20200705-9am.jpeg)
+
+#### 2pm Dan M (replay) 
+![cover art](assets/owner/images/20200626-7pm.jpeg)
+
+#### 4pm Bob (Live DJ Set) 
+![cover art](assets/owner/images/20200823-4pm.jpeg)
+
+#### 6pm DJ Sebster (Live DJ Set) 
+![cover art](assets/owner/images/20200823-6pm.jpeg)
 
 
 

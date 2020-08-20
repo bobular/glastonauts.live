@@ -1,3 +1,27 @@
+### Sunday August 16
+---
+
+#### 9am Ioannis (replay from April)  <a href='https://open.spotify.com/playlist/50o86yXKzlDUFM28AZqQl1' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200412-10am.jpeg)
+
+#### 1pm Ollie (replay from April)  <a href='https://open.spotify.com/playlist/69LPs2hYkdIMtPaXVp2fHl' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200423-2pm.jpeg)
+
+#### 4pm Melissa  <a href='https://open.spotify.com/playlist/44kj6K1tvMPhAEblsa6gMf' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200816-4pm.jpeg)
+
+#### 6pm CD  <a href='https://www.mixcloud.com/Glastonauts_Live/cd-presents-back-to-brixton/' target='_blank' title='Go to playlist'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20200816-6pm.jpeg)
+
+
+
+### Friday August 14
+---
+
+#### 9pm batch (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/batch-surviving-the-heat-rave/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20200814-9pm.jpeg)
+
+
 
 ### Sunday August 9
 ---
