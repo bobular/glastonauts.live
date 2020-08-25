@@ -1,3 +1,41 @@
+### Sunday August 23
+---
+
+#### 10am Stuart D (replay)  <a href='https://open.spotify.com/playlist/6xrnP6ZObd0f3NOJlcgf5z' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200705-9am.jpeg)
+
+#### 2pm Dan M (replay)  <a href='https://open.spotify.com/playlist/0SXXmbGFyYz19yeSiqR59q' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200626-7pm.jpeg)
+
+#### 4pm Bob (Live DJ Set) 
+![cover art](assets/owner/images/20200823-4pm.jpeg)
+
+#### 6pm DJ Sebster (Live DJ Set)  <a href='https://www.mixcloud.com/Glastonauts_Live/dj-sebster-summer-of-dove/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20200823-6pm.jpeg)
+
+
+
+### Saturday August 22
+---
+
+#### 4pm Bren (replay)  <a href='https://open.spotify.com/playlist/3SooX2iljiwsI5oXWR2gPB' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200528-1pm.jpeg)
+
+#### 7pm CD (Live DJ Set)  <a href='https://www.mixcloud.com/Glastonauts_Live/cd-presents-itll-be-alright-on-the-night/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20200822-7pm.jpeg)
+
+
+
+### Friday August 21
+---
+
+#### 6pm Bruce Q (replay)  <a href='https://open.spotify.com/playlist/4pL9y3ptdwAgEoWzhMJGg5' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200611-4pm.jpeg)
+
+#### 9pm Dan W (Live DJ Set) 
+![cover art](assets/owner/images/20200821-9pm.jpeg)
+
+
 ### Sunday August 16
 ---
 
@@ -35,7 +73,7 @@
 #### 3pm TomKat (replay from 3 April)  <a href='https://open.spotify.com/playlist/31wgITq10JZW3u0GaYbbCY' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200403-5pm.jpeg)
 
-#### 6pm CD (Live DJ Set) 
+#### 6pm CD (Live DJ Set)  <a href='https://www.mixcloud.com/Glastonauts_Live/cd-presents-back-to-brixton/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200809-6pm.jpeg)
 
 
