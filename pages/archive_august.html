@@ -1,0 +1,25 @@
+---
+layout: page
+title: Archive (August)
+description: "previous playlists and DJ sets"
+header-img: "assets/owner/hero/archive-bg.jpg"
+permalink: ./archive_august.html
+in_navbar: false
+---
+
+<!-- intro -->
+<div class="intro">
+  <div class="flex-grid">
+    <div class="flex-col schedule">
+
+      {% capture my_include %}{% include archive_august.md %}{% endcapture %}
+      {{ my_include | markdownify }}
+
+    </div>
+
+    <div class="flex-col links">
+      {% include archive_links.html %}
+    </div>
+
+  </div>
+</div>

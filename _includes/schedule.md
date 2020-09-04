@@ -1,27 +1,17 @@
-### Friday August 28
+### Sunday September 6
 ---
 
-#### 4pm Scott (replay) 
-![cover art](assets/owner/images/20200725-4pm.jpeg)
+#### 12pm Stuart D 
+![cover art](assets/owner/images/20200906-12pm.jpeg)
 
-#### 7pm LostLegend (Live DJ Set) 
-![cover art](assets/owner/images/20200828-7pm.jpeg)
+#### 3pm Ollie 
+![cover art](assets/owner/images/20200906-3pm.jpeg)
 
-### Saturday August 29
----
+#### 5pm Darragh (Exclusive Pre-recorded DJ Set) 
+![cover art](assets/owner/images/20200906-5pm.jpeg)
 
-#### 4pm Glastonauts DJs (Live DJ Sets) (weather and 3G permitting)
-![cover art](assets/owner/images/20200829-4pm.jpeg)
-
-### Sunday August 30
----
-
-#### 4pm Gags 
-![cover art](assets/owner/images/20200830-4pm.jpeg)
-
-#### 7pm CD (Live DJ Set) 
-![cover art](assets/owner/images/20200830-7pm.jpeg)
-
+#### 6pm DJ Sebster (Live DJ Set) 
+![cover art](assets/owner/images/20200906-6pm.jpeg)
 
 [To the archives...](archive.html)
 
