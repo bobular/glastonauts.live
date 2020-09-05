@@ -10,7 +10,7 @@
 #### 5pm Darragh (Exclusive Pre-recorded DJ Set) 
 ![cover art](assets/owner/images/20200906-5pm.jpeg)
 
-#### 6pm DJ Sebster (Live DJ Set) 
+#### 6.30pm DJ Sebster (Live DJ Set) 
 ![cover art](assets/owner/images/20200906-6pm.jpeg)
 
 [To the archives...](archive.html)
