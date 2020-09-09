@@ -4,7 +4,7 @@
 #### 4pm Gags 
 ![cover art](assets/owner/images/20200830-4pm.jpeg)
 
-#### 7pm CD (Live DJ Set) 
+#### 7pm CD (Live DJ Set)  <a href='https://www.mixcloud.com/craig-drennan/chunky-loops-for-the-soul/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200830-7pm.jpeg)
 
 
@@ -21,9 +21,12 @@
 #### 4pm Scott (replay) <a href='https://open.spotify.com/playlist/57mAXa9uLBrHviYTNcFzKj' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200725-4pm.jpeg)
 
-#### 7pm LostLegend (Live DJ Set) 
+#### 7pm LostLegend (Exclusive pre-recorded DJ Set)  <a href='https://www.mixcloud.com/Glastonauts_Live/lostlegend-presents-hardnfast/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200828-7pm.jpeg)
 
+### 9pm LostLegend - Funky Disco Mix
+
+### 10pm Dan M (Live DJ Set)
 
 ### Sunday August 23
 ---
@@ -34,7 +37,7 @@
 #### 2pm Dan M (replay)  <a href='https://open.spotify.com/playlist/0SXXmbGFyYz19yeSiqR59q' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200626-7pm.jpeg)
 
-#### 4pm Bob (Live DJ Set) 
+#### 4pm Bob (Live DJ Set)  <a href='https://www.mixcloud.com/Glastonauts_Live/bob-progressions/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200823-4pm.jpeg)
 
 #### 6pm DJ Sebster (Live DJ Set)  <a href='https://www.mixcloud.com/Glastonauts_Live/dj-sebster-summer-of-dove/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
