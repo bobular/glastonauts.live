@@ -62,11 +62,11 @@ Upbeat Psy fun mixed with bouncy sillyness
 #### 10am Melissa (replay)
 ![cover art](assets/owner/images/20200816-4pm.jpeg)
 
-#### 12pm Bren (replay)
-![cover art](assets/owner/images/20200621-1pm.jpeg)
-
-#### 3pm Aidywag (replay)
+#### 12pm Aidywag (replay)
 ![cover art](assets/owner/images/20200802-1pm.jpeg)
+
+#### 3pm Bren (replay)
+![cover art](assets/owner/images/20200621-1pm.jpeg)
 
 #### 6pm CD (Live DJ Set) 
 ![cover art](assets/owner/images/20200920-6pm.jpeg)
