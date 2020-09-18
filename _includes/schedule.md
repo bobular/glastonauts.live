@@ -11,34 +11,13 @@
 ![cover art](assets/owner/images/20200705-4pm.jpeg)
 
 
+
 ### Friday September 18
 ---
 
-<div style="width: 400px">
-Nothing scheduled on Glastonauts Live, but <a href='http://www.yellow-submarine.online/'>Yellow Submarine</a> has a full schedule:
+#### 10pm Dan M (Live DJ Set) 
+![cover art](assets/owner/images/20200918-10pm.jpeg)
 
-<pre style="margin-top: 10px">
-17:00 - 18:30   
-Maciej - Venga Ya!  
-Alternative Latin
-
-18:30 - 20:00  
-Gags - Connoisseur Canapés  
-Blues, Americana, Vintage, Jazz, Electronic, Soul, Funk, Reggae, Alternative, House, Breaks, D&B
-
-20:00 - 22:00  
-Liamego - House  
-Deep, funky and sometimes dark nudisco and house music
-
-22:00 - 00:00  
-Keni - Techno  
-Melodic, Progressive Techno and house
-
-00:00 - 02:00  
-Noisy Boysie - PsyTrance  
-Upbeat Psy fun mixed with bouncy sillyness
-</pre>
-</div>
 
 ### Saturday September 19
 ---
