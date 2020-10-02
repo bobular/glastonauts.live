@@ -39,5 +39,8 @@
 #### 6pm CD (Live DJ Set) 
 ![cover art](assets/owner/images/20201004-6pm.jpeg)
 
+#### 8pm Ioannis (Live DJ Set) 
+![cover art](assets/owner/images/20201004-8pm.jpeg)
+
 [To the archives...](archive.html)
 
