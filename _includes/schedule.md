@@ -15,10 +15,10 @@
 ### Saturday October 3
 ---
 
-#### 2.30pm Brocc Oli (replay) 
+#### 2pm Brocc Oli (replay) 
 ![cover art](assets/owner/images/20200618-1pm.jpeg)
 
-#### 5pm Jomo 
+#### 4.30pm Jomo 
 ![cover art](assets/owner/images/20201003-5pm.jpeg)
 
 #### 7pm DJ Sebster (Live DJ Set) 
