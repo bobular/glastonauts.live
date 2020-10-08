@@ -10,14 +10,15 @@
 #### 5:00pm Bob <a href='https://open.spotify.com/playlist/3hWG55YqbPSscj0qz0X1AO' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200429-6pm.jpeg)
 
-#### 6:00pm CD (Live DJ Set) 
+#### 6:00pm CD (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/cd-isolation/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201004-6pm.jpeg)
 
-#### 8:00pm Ioannis (Live DJ Set) 
+#### 8:00pm Ioannis (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/ioannis-house-works/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201004-8pm.jpeg)
 
 
-### Saturday October 3
+
+###Saturday October 3
 ---
 
 #### 2:00pm Brocc Oli (replay) <a href='https://open.spotify.com/playlist/4i9hL7u39kNTr8zWhh7Da9' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
@@ -30,7 +31,7 @@
 </div>
 ![cover art](assets/owner/images/20201003-4pm.jpeg)
 
-#### 7:00pm DJ Sebster (Live DJ Set) 
+#### 7:00pm DJ Sebster (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/dj-sebster-now-thats-what-i-call-deep-vol2/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201003-7pm.jpeg)
 
 ### Friday October 2
