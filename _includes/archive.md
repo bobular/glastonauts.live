@@ -1,3 +1,42 @@
+### Sunday October 11
+---
+
+#### 11:00am Bruce Q (replay) <a href='https://open.spotify.com/playlist/6PxAuLj9RnKHUDLXgDdXEh' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200406-2pm.jpeg)
+
+#### 4:00pm Brocc Oli <a href='https://open.spotify.com/playlist/2EygY8ZZpfcmoAGPjX0YMd' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201011-4pm.jpeg)
+
+#### 6:00pm CD (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/cd-something-electronica-this-way-comes/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20201011-6pm.jpeg)
+
+#### 8:00pm Corbbs (Live DJ Set) 
+![cover art](assets/owner/images/20201011-8pm.jpeg)
+
+
+### Saturday October 10
+---
+
+#### 6:30pm Melissa <a href='https://open.spotify.com/playlist/0ez9kXNfwkdY6NZyPlI9Df' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201010-6pm.jpeg)
+
+#### 9:00pm LostLegend <a href='https://www.mixcloud.com/Glastonauts_Live/lostlegend-submerge/' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201010-9pm.jpeg)
+
+
+### Friday October 9
+---
+
+#### 3:00pm Brocc Oli <a href='https://open.spotify.com/playlist/6plGdDHNwURUjio6zxDbBM' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201009-3pm.jpeg)
+
+#### 6:00pm Community Hour with Bob & Miss R <a href='https://open.spotify.com/playlist/7JPlBpIkl7IhoyMTm1bflq' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200410-8pm.jpeg)
+
+#### 7:00pm Joey Bush (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/joey-bush-extraterrestrial/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20201009-7pm.jpeg)
+
+
 ### Sunday October 4
 ---
 
