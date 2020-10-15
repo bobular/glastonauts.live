@@ -14,7 +14,7 @@
 #### 2:00pm Sal (replay) 
 ![Artwork TBC](assets/owner/images/20200725-1pm.jpeg)
 
-#### 5:00pm Esther 
+#### 5:00pm Esther (new playlist)
 ![Artwork TBC](assets/owner/images/20201017-5pm.jpeg)
 
 #### 7:00pm Dave O (Live DJ Set) 
