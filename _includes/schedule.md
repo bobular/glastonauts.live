@@ -1,10 +1,10 @@
 ### Friday October 16
 ---
 
-#### 1:00pm Glastonauts (replay) 
+#### 3:00pm Glastonauts (replay) 
 ![cover art](assets/owner/images/20200411-8pm.jpeg)
 
-#### 7:00pm Corbbs (Live DJ Set) 
+#### 9:00pm Corbbs (Live DJ Set) 
 ![cover art](assets/owner/images/20201016-9pm.jpeg)
 
 
