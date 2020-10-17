@@ -29,7 +29,7 @@
 ### Sunday October 18
 ---
 
-#### 11:40am Stuart D (replay) 
+#### 11:00am Stuart D (replay) 
 ![cover art](assets/owner/images/20200505-4pm.jpeg)
 
 #### 3:00pm Em (replay) 
