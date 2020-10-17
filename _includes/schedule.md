@@ -11,6 +11,9 @@
 ### Saturday October 17
 ---
 
+#### 11:00am Hide U (replay) 
+![cover art](assets/owner/images/20200809-12pm.jpeg)
+
 #### 2:00pm Sal (replay) 
 ![cover art](assets/owner/images/20200725-1pm.jpeg)
 
