@@ -1,16 +1,16 @@
 ### Sunday October 18
 ---
 
-#### 11:00am Stuart D (updated replay) <a href='https://open.spotify.com/playlist/7Me8qOaCLi7YROKG1Zvo8W' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+#### 11:40am Stuart D (replay) <a href='https://open.spotify.com/playlist/7Me8qOaCLi7YROKG1Zvo8W' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200505-4pm.jpeg)
 
 #### 3:00pm Em (replay) <a href='https://open.spotify.com/playlist/7Me8qOaCLi7YROKG1Zvo8W' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200503-1pm.jpeg)
 
-#### 6:00pm CD (Live DJ Set) 
+#### 6:00pm CD (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/cd-serves-sunday-roast/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201018-6pm.jpeg)
 
-#### 8:00pm DJ Sebster (Live DJ Set) 
+#### 8:00pm DJ Sebster (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/dj-sebster-now-thats-what-i-call-deep-vol3/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201018-8pm.jpeg)
 
 
@@ -26,10 +26,10 @@
 #### 5:00pm Esther <a href='https://open.spotify.com/playlist/1ZQxszbMZI9loGJIcKhJlo' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201017-5pm.jpeg)
 
-#### 7:00pm Dave O (Live DJ Set) 
+#### 7:00pm Dave O (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/dave-o-live-dj-set-october-17th/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201017-7pm.jpeg)
 
-#### 9:00pm batch (Live DJ Set) 
+#### 9:00pm batch (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/batch-tier-two-steppin/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201017-9pm.jpeg)
 
 
@@ -39,7 +39,7 @@
 #### 3:00pm Glastonauts (replay) <a href='https://open.spotify.com/playlist/3PJcANn5A6XdsggiAMECwg' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200411-8pm.jpeg)
 
-#### 9:00pm Corbbs (Live DJ Set) 
+#### 9:00pm Corbbs (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/corbbs-save-the-rave/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201016-9pm.jpeg)
 
 
