@@ -1,3 +1,28 @@
+### Sunday October 25
+---
+
+#### 3:00pm Sal (replay) <a href='https://open.spotify.com/playlist/3dpeyNxqWpGP5tEcME5avj' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200801-4pm.jpeg)
+
+#### 6:00pm CD (Live DJ Set) 
+![cover art](assets/owner/images/20201025-6pm.jpeg)
+
+
+
+### Saturday October 24
+---
+
+#### 4:00pm Bruce Q <a href='https://open.spotify.com/user/brucequilter/playlist/0xLs2oQt5wFRzh967EnO3D' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201024-4pm.jpeg)
+
+#### 7:00pm Andy Davies (Live DJ Set) 
+![cover art](assets/owner/images/20201024-7pm.jpeg)
+
+#### 10:00pm Dan M aka The Mess (Live DJ Set) 
+![cover art](assets/owner/images/20201024-10pm.jpeg)
+
+
+
 ### Sunday October 18
 ---
 
