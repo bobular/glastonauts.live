@@ -1,0 +1,27 @@
+---
+layout: page
+title: Archive
+description: "previous playlists and DJ sets"
+header-img: "assets/owner/hero/archive-bg.jpg"
+permalink: ./archive.html
+in_navbar: true
+---
+
+<!-- intro -->
+<div class="intro">
+  <div class="flex-grid">
+    <div class="flex-col schedule">
+
+      {% capture my_include %}{% include archive.md %}{% endcapture %}
+      {{ my_include | markdownify }}
+
+    </div>  
+
+
+    <div class="flex-col links">
+      {% include archive_links.html %}
+    </div>
+
+
+  </div>
+</div>
