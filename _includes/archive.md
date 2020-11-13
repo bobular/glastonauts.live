@@ -1,3 +1,11 @@
+### Thursday November 12
+---
+
+#### 7:00pm Bob (CH new albums special)
+![cover art](assets/owner/images/20200429-6pm.jpeg)
+
+#### 8:00pm Jomo and Gurj 
+![cover art](assets/owner/images/20200716-8pm.jpeg)
 
 ### Sunday November 8
 ---
@@ -8,7 +16,7 @@
 #### 4:00pm Nicnoname (Live DJ Set) 
 ![cover art](assets/owner/images/20201108-4pm.jpeg)
 
-#### 5:00pm CD (Live DJ Set) 
+#### 5:00pm CD (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/cd-randomizationalering/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201108-5pm.jpeg)
 
 
@@ -24,7 +32,7 @@
 #### 6:00pm Andy Davies (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/andy-davies-a-groove-to-remember/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201107-6pm.jpeg)
 
-#### 8:00pm Dan W (Live DJ Set) 
+#### 8:00pm Dan W (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/dan-w-biden-time/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201107-8pm.jpeg)
 
 
