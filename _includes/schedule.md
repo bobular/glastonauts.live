@@ -4,7 +4,7 @@
 #### 6:00pm Esther (replay) 
 ![cover art](assets/owner/images/20200603-4pm.jpeg)
 
-#### 9:00pm LostLegend (Live DJ Set) 
+#### 9:00pm LostLegend (Exclusive pre-recorded mix) 
 ![cover art](assets/owner/images/20201120-9pm.jpeg)
 
 
