@@ -4,7 +4,7 @@
 #### 11:00am Glastonauts (replay) <a href='https://open.spotify.com/playlist/4gOqR40q1Vu0TlKrzV9E9h' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200328-7pm.jpeg)
 
-#### 5:00pm CD (Live DJ Set) 
+#### 5:00pm CD (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/cd-the-amazing-techno-coloured-dreamcoat-returns/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201115-5pm.jpeg)
 
 
@@ -17,11 +17,11 @@
 #### 3:00pm Fat Tez (brand new) <a href='https://open.spotify.com/playlist/6JnzIWcUwOQssUMtX7Pbuq' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201114-3pm.jpeg)
 
-#### 6:00pm Andy Davies (Live DJ Set) 
+#### 6:00pm Andy Davies (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/andy-davies-a-time-before-face-masks/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201114-6pm.jpeg)
 
 
-#### 8:00pm Nicnoname (Live DJ Set) 
+#### 8:00pm Nicnoname (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/nicnoname-9495/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201114-8pm.jpeg)
 
 ### Thursday November 12
