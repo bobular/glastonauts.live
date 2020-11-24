@@ -1,3 +1,30 @@
+### Saturday November 21
+---
+
+#### 12:00pm Ollie (replay) <a href='https://open.spotify.com/playlist/2M0Of3WNMyyOl525lfnlHE' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200605-4pm.jpeg)
+
+#### 3:00pm Fat Tez <a href='https://open.spotify.com/playlist/7D7uu2zSlUipJYsovxmCSA' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201121-3pm.jpeg)
+
+#### 6:00pm Andy Davies (Live DJ Set) 
+![cover art](assets/owner/images/20201121-6pm.jpeg)
+
+#### 9:00pm Ioannis (Live DJ Set) 
+![cover art](assets/owner/images/20201121-9pm.jpeg)
+
+### Friday November 20
+---
+
+#### 6:00pm Esther (replay) <a href='https://open.spotify.com/playlist/1Thhzr1OGZCn9jlzYhV2qh' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200603-4pm.jpeg)
+
+#### 9:00pm LostLegend (exclusive mix) <a href='https://www.mixcloud.com/Glastonauts_Live/lostlegend-give-trance-a-chance-part-2/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20201120-9pm.jpeg)
+
+
+
+
 ### Sunday November 15
 ---
 
