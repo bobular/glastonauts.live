@@ -7,10 +7,10 @@
 #### 3:00pm Fat Tez <a href='https://open.spotify.com/playlist/7D7uu2zSlUipJYsovxmCSA' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201121-3pm.jpeg)
 
-#### 6:00pm Andy Davies (Live DJ Set) 
+#### 6:00pm Andy Davies (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/andy-davies-timeless/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201121-6pm.jpeg)
 
-#### 9:00pm Ioannis (Live DJ Set) 
+#### 9:00pm Ioannis (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/ioannis-partys-not-over/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201121-9pm.jpeg)
 
 ### Friday November 20
