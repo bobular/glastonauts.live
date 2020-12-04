@@ -1,27 +1,36 @@
-### Friday November 27
+### Friday December 4
 ---
 
-#### 4:00pm Bruce Q 
-![cover art](assets/owner/images/20201127-4pm.jpeg)
+#### 6:00pm Brocc Oli 
+![cover art](assets/owner/images/20201204-6pm.jpeg)
 
-#### 7:00pm Andy Davies (Live DJ Set) 
-![cover art](assets/owner/images/20201127-7pm.jpeg)
+#### 9:00pm Ioannis (Live DJ Set) 
+![cover art](assets/owner/images/20201204-9pm.jpeg)
 
-#### 9:00pm Dan W (Live DJ Set) 
-![cover art](assets/owner/images/20201127-9pm.jpeg)
-
-
-### Saturday November 28
+### Saturday December 5
 ---
 
-#### 2:00pm Em 
-![cover art](assets/owner/images/20201128-2pm.jpeg)
+#### 3:00pm Waxy McWaxface 
+![cover art](assets/owner/images/20201205-3pm.jpeg)
 
-#### 5:00pm Fat Tez 
-![cover art](assets/owner/images/20201128-5pm.jpeg)
+#### 6:00pm Fat Tez 
+![cover art](assets/owner/images/20201205-6pm.jpeg)
 
-#### 8:00pm sal (Live DJ Set) 
-![cover art](assets/owner/images/20201128-8pm.jpeg)
+#### 9:00pm DJ Sebster (Live DJ Set) 
+![cover art](assets/owner/images/20201205-9pm.jpeg)
+
+
+### Sunday December 6
+---
+
+#### 12:00pm Stuart D (replay)
+![cover art](assets/owner/images/20200406-5pm.jpeg)
+
+#### 6:00pm Bob 
+![cover art](assets/owner/images/20200429-6pm.jpeg)
+
+
+
 
 
 [To the archives...](archive.html)
