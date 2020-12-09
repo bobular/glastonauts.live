@@ -4,7 +4,7 @@
 #### 12:00pm Stuart D (replay) <a href='https://open.spotify.com/playlist/72NVdkCzQXf3yXVvpo1FdU' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200406-5pm.jpeg)
 
-#### 6:00pm Bob <a href='https://www.mixcloud.com/Glastonauts_Live/community-hour-2020-12-06-non-xmas-special-talk-radio/' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>  <a href='https://open.spotify.com/playlist/4XzCBhuF17885TVmDLZqs9' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+#### 6:00pm Bob <a href='https://www.mixcloud.com/Glastonauts_Live/community-hour-2020-12-06-non-xmas-special-talk-radio/' target='_blank' title='Go to playlist'> <i class='fab fa-mixcloud fa-inverse'></i></a>  <a href='https://open.spotify.com/playlist/4XzCBhuF17885TVmDLZqs9' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20200429-6pm.jpeg)
 
 ### Saturday December 5
