@@ -1,3 +1,39 @@
+### Sunday December 13
+---
+
+#### 3:00pm Fat Tez <a href='https://open.spotify.com/playlist/7vFItam5GBsvgSIVRRVJUH' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201213-3pm.jpeg)
+
+#### 5:00pm Judd, Bob & Glastonauts <a href='https://open.spotify.com/playlist/4trQucbNZW74aNLnxJxysJ' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a> (coming soon to Mixcloud)
+![cover art](assets/owner/images/20201213-5pm.jpeg)
+
+
+### Saturday December 12
+---
+
+#### 4:00pm Fat Tez & The Crack Heads <a href='https://open.spotify.com/playlist/1kViMkbGHZ5j1jmbHgE5nn' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201212-4pm.jpeg)
+
+#### 7:00pm Mermaida (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/mermaida-a-gift-of-the-waves/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20201212-7pm.jpeg)
+
+#### 9:00pm LostLegend (Live DJ Set) 
+![cover art](assets/owner/images/20201212-9pm.jpeg)
+
+
+### Friday December 11
+---
+
+#### 4:00pm Bruce (replay) <a href='https://open.spotify.com/playlist/3u6NKwI9MOF17G1BAEUoJm' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200402-5pm.jpeg)
+
+#### 7:00pm Waxy O'Connor <a href='https://open.spotify.com/playlist/0KqzV1Pnq7F0oFwCeE0y6w' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201211-7pm.jpeg)
+
+#### 9:00pm Andy Davies (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/andy-davies-nobody-listens-to-tech-no/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20201211-9pm.jpeg)
+
+
 ### Sunday December 6
 ---
 
