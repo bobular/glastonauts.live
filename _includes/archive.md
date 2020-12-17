@@ -4,7 +4,7 @@
 #### 3:00pm Fat Tez <a href='https://open.spotify.com/playlist/7vFItam5GBsvgSIVRRVJUH' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201213-3pm.jpeg)
 
-#### 5:00pm Judd, Bob & Glastonauts <a href='https://open.spotify.com/playlist/4trQucbNZW74aNLnxJxysJ' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a> (coming soon to Mixcloud)
+#### 5:00pm Judd, Bob & Glastonauts  <a href='https://www.mixcloud.com/Glastonauts_Live/community-hour-2020-12-13-judd-and-bobs-festive-top-40-special-talk-radio/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a> <a href='https://open.spotify.com/playlist/4trQucbNZW74aNLnxJxysJ' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201213-5pm.jpeg)
 
 
@@ -17,7 +17,7 @@
 #### 7:00pm Mermaida (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/mermaida-a-gift-of-the-waves/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201212-7pm.jpeg)
 
-#### 9:00pm LostLegend (Live DJ Set) 
+#### 9:00pm LostLegend (Live DJ Set) <a href='https://www.mixcloud.com/Glastonauts_Live/lostlegend-the-time-tunnel/' target='_blank' title='Go to recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201212-9pm.jpeg)
 
 
