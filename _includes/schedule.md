@@ -31,7 +31,7 @@
 ### Sunday December 20
 ---
 
-#### 3:00pm Bren 
+#### 4:00pm Bren 
 ![cover art](assets/owner/images/20201220-3pm.jpeg)
 
 #### 7:00pm Bob (Live DJ Set) 
