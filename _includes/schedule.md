@@ -31,6 +31,9 @@
 ### Sunday December 20
 ---
 
+#### 2:00pm Bob
+![cover art](assets/owner/images/20201220-2pm.jpeg)
+
 #### 4:00pm Bren 
 ![cover art](assets/owner/images/20201220-3pm.jpeg)
 
