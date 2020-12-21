@@ -37,7 +37,7 @@
 #### 4:00pm Sebastian <a href='https://open.spotify.com/playlist/5OknGqdGTvoeelkYwxdLro' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201218-4pm.jpeg)
 
-#### 7:00pm Miss R and Bob  <a href='https://www.mixcloud.com/Glastonauts_Live/community-hour-2020-12-18-secret-tuna-special-talk-radio/' target='_blank' title='Go to recording'> <a href='https://open.spotify.com/playlist/02kovwsBYlsjJ3RoW4SKh8' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+#### 7:00pm Miss R and Bob  <a href='https://www.mixcloud.com/Glastonauts_Live/community-hour-2020-12-18-secret-tuna-special-talk-radio/' target='_blank' title='Go to recording'><i class='fab fa-mixcloud fa-inverse'></i></a> <a href='https://open.spotify.com/playlist/02kovwsBYlsjJ3RoW4SKh8' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201218-7pm.jpeg)
 
 #### 9:00pm Fat Tez <a href='https://open.spotify.com/playlist/285AW58S1bJBU3zxRXxzoQ' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
