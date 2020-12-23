@@ -2,8 +2,10 @@
 layout: page
 title:
 description: "Glastonauts' community lockdown radio"
-header-img: "assets/owner/hero/home-bg.png"
+header-img: "assets/owner/hero/home-header-bg.png"
+header-logo-img: "assets/owner/hero/home-header-fg.png"
 footer-img: "assets/owner/hero/footer-bg.png"
+footer-logo-img: "assets/owner/tertiary_logo.svg"
 permalink: ./index.html
 ---
 
@@ -72,7 +74,7 @@ permalink: ./index.html
   <div class="flex-grid">
 
     <div class="flex-col schedule">
-
+      <h2>Line Up</h2>
       {% capture my_include %}{% include schedule.md %}{% endcapture %}
       {{ my_include | markdownify }}
 
