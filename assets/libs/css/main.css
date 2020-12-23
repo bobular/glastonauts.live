@@ -155,6 +155,11 @@ a.pink:focus {
 }
 
 
+.row.no-margin {
+    margin-left: 0;
+    margin-right: 0;
+}
+
 /* .link-button>div {
     color: #ffffff;
     font-size: 10px;
