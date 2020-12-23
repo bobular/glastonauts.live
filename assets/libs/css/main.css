@@ -49,7 +49,7 @@ a {
 a:hover,
 a:focus {
     text-shadow: none;
-    color: #FF69B3;
+    color: #40E2ED;
     outline: none;
     text-decoration: none;
 }
@@ -154,11 +154,11 @@ a.pink:focus {
     color: #349FA6;
 }
 
-
 .row.no-margin {
     margin-left: 0;
     margin-right: 0;
 }
+
 
 /* .link-button>div {
     color: #ffffff;
