@@ -1,61 +1,33 @@
-### Thursday December 24
+### Sunday December 20
 ---
 
-#### 12:00pm Glastonauts 
-![cover art](assets/owner/images/20201224-12pm.jpeg)
+#### 2:00pm Bob <a href='https://open.spotify.com/playlist/7EI62hI1flZvTvxZ8CdO0F' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201220-2pm.jpeg)
 
-#### 7:00pm Bob 
-![cover art](assets/owner/images/20200429-6pm.jpeg)
+#### 4:00pm Bren <a href='https://open.spotify.com/playlist/3W6QqpGlCf1hmDDWiHZ1xr' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201220-3pm.jpeg)
 
-#### 8:00pm Andy Davies (Live DJ Set) 
-![cover art](assets/owner/images/20201224-8pm.jpeg)
+#### 7:00pm Bob (Live DJ Set) 
+![cover art](assets/owner/images/20201220-7pm.jpeg)
+
+#### 9:30pm Ioannis / Stuart D (Live DJ Set) 
+![cover art](assets/owner/images/20201220-9pm.jpeg)
 
 
-### Friday December 25
+### Saturday December 19
 ---
 
-#### 12:00pm Glastonauts 
-![cover art](assets/owner/images/20201224-12pm.jpeg)
+#### 1:00pm Em (replay) <a href='https://open.spotify.com/playlist/41MLlmIHKEXYtXO6Je45Zx' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20200718-1pm.jpeg)
 
-#### 7:00pm Bob 
-![cover art](assets/owner/images/20200429-6pm.jpeg)
+#### 4:00pm Fat Tez <a href='https://open.spotify.com/playlist/45ZMGPufF0VYEGbibOF4rr' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201219-4pm.jpeg)
 
-#### 8:00pm batch (Live DJ Set) 
-![cover art](assets/owner/images/20201225-8pm.jpeg)
+#### 7:00pm Andy Davies (Live DJ Set) 
+![cover art](assets/owner/images/20201219-7pm.jpeg)
 
-
-### Saturday December 26
----
-
-#### 11:30am Stuart D (replay) 
-![cover art](assets/owner/images/20200705-9am.jpeg)
-
-#### 3:30pm Claudia 
-![cover art](assets/owner/images/20201226-3pm.jpeg)
-
-#### 5:30pm Melissa (replay) 
-![cover art](assets/owner/images/20201010-6pm.jpeg)
-
-#### 8:00pm Dave O (Live DJ Set) 
-![cover art](assets/owner/images/20201226-8pm.jpeg)
-
-#### 10:00pm Dan W (Live DJ Set) 
-![cover art](assets/owner/images/20201226-10pm.jpeg)
-
-### Sunday December 27
----
-
-#### 10:00am Gags 
-![cover art](assets/owner/images/20201227-10am.jpeg)
-
-#### 1:00pm Bren (replay) 
-![cover art](assets/owner/images/20200611-2pm.jpeg)
-
-#### 3:00pm TomKat (replay) 
-![cover art](assets/owner/images/20200403-5pm.jpeg)
-
-#### 6:00pm Gilly (Live DJ Set) 
-![cover art](assets/owner/images/20201227-6pm.jpeg)
+#### 9:00pm Bren <a href='https://open.spotify.com/playlist/5Dwli4Nc5YTsrXO37gC7oS' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201219-9pm.jpeg)
 
 
 
