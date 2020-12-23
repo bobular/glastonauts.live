@@ -1,10 +1,10 @@
 body {
-  font-family: 'Open Sans', 'Times New Roman', serif;
+  font-family: 'Rubik', 'Open Sans', sans-serif;
   font-size: 3rem;
-  color: #dddddd;
-  background-color: #30292B;
-  background-image: url('/assets/owner/pattern.jpg');
-  background-attachment: fixed;
+  color: #3B5658;
+  background-color: #D9E7E8;
+  /* background-image: url('/assets/owner/pattern.jpg'); */
+  /* background-attachment: fixed; */
 }
 p {
   line-height: 1.5;
@@ -19,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Rubik', 'Open Sans', sans-serif;
   font-weight: 800;
 }
 a {
@@ -55,6 +55,8 @@ hr.small {
   top: 0;
   left: 0;
   width: 100%;
+  height: 50px;
+  margin: 0;
   z-index: 3;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -68,14 +70,20 @@ hr.small {
   font-weight: 800;
   letter-spacing: 1px;
 }
+
+.container-body {
+  padding-left: 0;
+  padding-right: 0;
+  max-width: 1000px;
+}
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    background: transparent;
+    background: #2F6C9A;
     border-bottom: 1px solid transparent;
   }
   .navbar-custom .navbar-brand {
     color: white;
-    padding: 20px;
+    /* padding:  20px; */
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
@@ -83,7 +91,7 @@ hr.small {
   }
   .navbar-custom .nav li a {
     color: white;
-    padding: 20px;
+    /* padding: 20px; */
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
@@ -137,7 +145,24 @@ hr.small {
     transform: translate3d(0, 100%, 0);
   }
 }
-.intro-header {
+
+.navbar-header, .navbar-nav {
+  background-color: #2F6C9A;
+  color: #ffffff;
+}
+
+.navbar-default .navbar-toggle {
+  text-shadow: none;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    outline: 0;
+    color: #ffffff;
+    transition: color .3s;
+    text-shadow: none;
+}
+
+.intro-header, footer {
   background: no-repeat center center;
   background-color: #808080;
   background-attachment: scroll;
@@ -145,8 +170,21 @@ hr.small {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
+  margin-top: 50px;
+  height: 250px;
 }
+
+.subheading {
+  color: #ffffff;
+  background-color: #349FA6;
+  text-align: center;
+  text-shadow: none;
+  font-size: 2rem;
+  height: 50px;
+  line-height: 50px;
+}
+
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
@@ -159,6 +197,10 @@ hr.small {
   .intro-header .page-heading {
     padding: 150px 0;
   }
+
+  .intro-header, footer {
+    height: 440px;
+  } 
 }
 .intro-header .site-heading,
 .intro-header .page-heading {
@@ -168,7 +210,7 @@ hr.small {
 .intro-header .page-heading h1 {
   margin-top: 0;
   font-size: 30px;
-  text-shadow: 1px 1px 4px #000;
+  text-shadow: none;
 }
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
@@ -178,13 +220,13 @@ hr.small {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
-  text-shadow: 1px 1px 4px #000;
+  text-shadow: none;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
     font-size: 80px;
-    text-shadow: 1px 1px 4px #000;
+    text-shadow: none;
   }
 }
 .intro-header .post-heading h1 {
@@ -200,7 +242,7 @@ hr.small {
   font-size: 24px;
   margin: 10px 0 30px;
   font-weight: 600;
-  text-shadow: 1px 1px 4px #000;
+  text-shadow: none;
 }
 .intro-header .post-heading .meta {
   font-family: 'Lora', 'Times New Roman', serif;
@@ -281,7 +323,7 @@ hr.small {
 }
 footer {
   padding: 50px 0 65px;
-  background-color: #223333;
+  background-color: transparent; 
 }
 footer .list-inline {
   margin: 0;
