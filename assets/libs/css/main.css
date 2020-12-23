@@ -282,11 +282,10 @@ a.pink:focus {
 .footer-bg {
     background: no-repeat center bottom;
     background-size: contain;
-    
 }
 
 .footer-logo {
-    width: 250px;
+    width: 150px;
     text-align: center;
     position: absolute;
     bottom: 20px;
@@ -329,10 +328,12 @@ a.pink:focus {
     .footer-bg {
         height: 440px;
     }
+    .footer-logo {
+        width: 250px;
+    }
 }
 
 @media only screen and (min-width: 2100px) {
-
     .footer-bg {
         height: 540px;
     }
