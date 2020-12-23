@@ -149,6 +149,11 @@ a.pink:focus {
     display: none;
 }
 
+.fa,
+.fab {
+    color: #349FA6;
+}
+
 
 /* .link-button>div {
     color: #ffffff;
@@ -282,15 +287,18 @@ a.pink:focus {
 .footer-bg {
     background: no-repeat center bottom;
     background-size: contain;
+    width: 100%;
+    height: 0;
+    padding-top: 22.17%;
 }
 
 .footer-logo {
-    width: 150px;
-    text-align: center;
-    position: absolute;
-    bottom: 20px;
-    left: 50%;
-    transform: translateX(-50%);
+    background: no-repeat center center;
+    background-attachment: scroll;
+    background-size: 180px;
+    height: 40px;
+    width: 100%;
+    background-color: #65B2B6;
 }
 
 .header-fg {
@@ -329,7 +337,8 @@ a.pink:focus {
         height: 440px;
     }
     .footer-logo {
-        width: 250px;
+        height: 90px;
+        background-size: 25%;
     }
 }
 

@@ -2,21 +2,27 @@
 <html lang="en">
 
 <head>
-{% include head.html %}
-<link rel="shortcut icon" href="/favicon.ico">
-<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/libs/css/404.css">
+  {% include head.html %}
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/libs/css/404.css">
 </head>
 
 <body>
 
-    {% include nav.html %}
-		
-			{{ content }}
-	
+  {% include nav.html %}
+
+  {{ content }}
+
 </body>
 
-  {% include footer.html %}
+{% include footer.html %}
 
-  {% include Scroll_to_Top.html %}
+{% include Scroll_to_Top.html %}
 
 </html>
