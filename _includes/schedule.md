@@ -25,7 +25,7 @@
 ### Saturday December 26
 
 #### 11:00am Stuart D (replay) 
-![cover art](assets/owner/images/20200705-9am.jpeg)
+![cover art](assets/owner/images/20201224-11am.jpeg)
 
 #### 3:00pm Claudia 
 ![cover art](assets/owner/images/20201226-3pm.jpeg)
@@ -47,7 +47,7 @@
 ![cover art](assets/owner/images/20201227-10am.jpeg)
 
 #### 1:00pm Bren (replay) 
-![cover art](assets/owner/images/20200611-2pm.jpeg)
+![cover art](assets/owner/images/20201227-1pm.jpeg)
 
 #### 3:00pm Judd 
 ![cover art](assets/owner/images/20201227-3pm.jpeg)
