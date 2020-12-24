@@ -1,56 +1,61 @@
 <!-- Footer -->
 <footer>
-    <div class="container">
-        <div class="row">
+    <div class="footer-bg" 
+        style="background-image: url('{{ site.baseurl }}/{% if page.footer-img %}{{ page.footer-img }}{% else %}{{ site.footer-img }}{% endif %}')">
+    </div>
+    <div class="footer-logo" 
+    style="background-image: url('{{ site.baseurl }}/{{ page.footer-logo-img }}')">
+    </div>
+    <div class="copyright">
+        <div class="row no-margin extra-vert-padding">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <p class="copyright text-muted">{{ site.title }} &copy;  {{ site.time | date: '%Y' }}</p>
-<center>
-    <h6>
-        Covers generated using 
-        <a href="https://replacecover.com/">Replace Cover</a>
-    </h6>
-    <h6>
-        Powered by 
-        <a href="http://icecast.org/">Icecast</a> - 
-        <a href="https://github.com/">Github</a> - 
-        <a href="https://github.com/jekyll/">Jekyll</a> - 
-        <a href="https://github.com/madforjekyll/madforjekyll.github.io">MAD4Jekyll</a>
-    </h6>
-</center>
+                <p class="copyright-text">{{ site.title }} &copy; {{ site.time | date: '%Y' }}</p>
+                <center>
+                    <div>
+                        Legacy covers generated using
+                        <a href="https://replacecover.com/">Replace Cover</a>
+                    </div>
+                    <div>
+                        Powered by
+                        <a href="http://icecast.org/">Icecast</a> -
+                        <a href="https://github.com/">Github</a> -
+                        <a href="https://github.com/jekyll/">Jekyll</a> 
+                    </div>
+                </center>
             </div>
         </div>
     </div>
 </footer>
 
-<!-- jQuery -->    
+<!-- jQuery -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
- <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
 <!-- include image popups -->
 <script src="{{ site.url }}/assets/libs/js/jquery.magnific-popup.js"></script>
 
 <script type="text/javascript">
-      $(document).ready(function($) {
+    $(document).ready(function ($) {
         $('a.popup').magnificPopup({
-         type: 'image',
-	  gallery:{
-         enabled:true,
-         navigateByImgClick: true,
-         preload: [0,1] // Will preload 0 - before current, and 1 after the current image
-       },
-image: {
-      titleSrc: function(item) {
-              return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
+            type: 'image',
+            gallery: {
+                enabled: true,
+                navigateByImgClick: true,
+                preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+            },
+            image: {
+                titleSrc: function (item) {
+                    return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
+                }
             }
-        }
-          // other options
-      });
-});
-    </script>
+            // other options
+        });
+    });
+</script>
 
 <script src="{{ site.url }}/assets/libs/js/retina.min.js"></script>
 <!-- include Masonry -->
-<script src="{{ site.url }}/assets/libs/js/isotope.pkgd.min.js"></script> 
+<script src="{{ site.url }}/assets/libs/js/isotope.pkgd.min.js"></script>
 <!-- include mousewheel plugins -->
 <script src="{{ site.url }}/assets/libs/js/jquery.mousewheel.min.js"></script>
 <!-- include carousel plugins -->
@@ -60,7 +65,7 @@ image: {
 <!-- include custom script -->
 <script src="{{ site.url }}/assets/libs/js/scripts.js"></script>
 <!-- Modernizr -->
- <script src="{{ site.url }}/assets/libs/js/modernizr.js"></script>
+<script src="{{ site.url }}/assets/libs/js/modernizr.js"></script>
 
 <!-- Footnotes -->
 <script src="{{ site.url }}/assets/libs/js/bigfoot.js" type="text/javascript"></script>

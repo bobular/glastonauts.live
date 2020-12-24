@@ -1,5 +1,4 @@
 ### Thursday December 24
----
 
 #### 12:00pm Glastonauts 
 ![cover art](assets/owner/images/20201224-12pm.jpeg)
@@ -12,7 +11,6 @@
 
 
 ### Friday December 25
----
 
 #### 12:00pm Glastonauts 
 ![cover art](assets/owner/images/20201224-12pm.jpeg)
@@ -25,10 +23,9 @@
 
 
 ### Saturday December 26
----
 
 #### 11:00am Stuart D (replay) 
-![cover art](assets/owner/images/20200705-9am.jpeg)
+![cover art](assets/owner/images/20201224-11am.jpeg)
 
 #### 3:00pm Claudia 
 ![cover art](assets/owner/images/20201226-3pm.jpeg)
@@ -45,13 +42,12 @@
 
 
 ### Sunday December 27
----
 
 #### 10:00am Gags 
 ![cover art](assets/owner/images/20201227-10am.jpeg)
 
 #### 1:00pm Bren (replay) 
-![cover art](assets/owner/images/20200611-2pm.jpeg)
+![cover art](assets/owner/images/20201227-1pm.jpeg)
 
 #### 3:00pm Judd 
 ![cover art](assets/owner/images/20201227-3pm.jpeg)
@@ -60,5 +56,4 @@
 ![cover art](assets/owner/images/20201227-6pm.jpeg)
 
 
-[To the archives...](archive.html)
-
+<a class="link-button pink" href="archive.html" id="direct-url" data-toggle="tooltip" target="_blank" title="To the archives"> To the archives </a>
