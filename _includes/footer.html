@@ -3,25 +3,24 @@
     <div class="footer-bg" 
         style="background-image: url('{{ site.baseurl }}/{% if page.footer-img %}{{ page.footer-img }}{% else %}{{ site.footer-img }}{% endif %}')">
     </div>
-    <div class="footer-logo" 
+    <div class="footer-logo extra-vert-padding" 
     style="background-image: url('{{ site.baseurl }}/{{ page.footer-logo-img }}')">
     </div>
     <div class="copyright">
-        <div class="row no-margin">
+        <div class="row no-margin extra-vert-padding">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <p class="copyright-text">{{ site.title }} &copy; {{ site.time | date: '%Y' }}</p>
                 <center>
-                    <h6>
+                    <div>
                         Covers generated using
                         <a href="https://replacecover.com/">Replace Cover</a>
-                    </h6>
-                    <h6>
+                    </div>
+                    <div>
                         Powered by
                         <a href="http://icecast.org/">Icecast</a> -
                         <a href="https://github.com/">Github</a> -
-                        <a href="https://github.com/jekyll/">Jekyll</a> -
-                        <!-- <a href="https://github.com/madforjekyll/madforjekyll.github.io">MAD4Jekyll</a> -->
-                    </h6>
+                        <a href="https://github.com/jekyll/">Jekyll</a> 
+                    </div>
                 </center>
             </div>
         </div>
