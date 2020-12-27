@@ -6,26 +6,25 @@
 
     <meta name="description" content="{{ site.description }}">
     <meta name="robots" content="noindex" />
-    
-        <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ site.url }}/assets/libs/css/bootstrap.min.css">
-   
+
     <!-- Pygments Github CSS -->
     <!-- <link rel="stylesheet" href="{{ site.url }}/assets/libs/css/syntax.css"> -->
 
-    
+
     <!-- Custom Fonts -->
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/fontawesome.min.css"> -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/v4-shims.css">
-    <!-- <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css"> -->
-    <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
-
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&display=swap" rel="stylesheet">
     <!-- JS -->
     <!-- jQuery -->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
@@ -35,10 +34,10 @@
 
     <!-- Modernizr -->
     <script src="{{ root_url }}/assets/libs/js/modernizr.js"></script>
-    
+
     <script src="{{ root_url }}/assets/libs/js/nativeflashradiov4.js"></script>
 
-    
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -50,10 +49,10 @@
     <link rel="stylesheet" href=" {{ site.url }}/assets/libs/css/main.css">
     <link rel="stylesheet" href="{{root_url}}/assets/libs/css/intro.css" type="text/css" media="screen" />
 
-    
 
-{% if jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
+
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
 
 </head>

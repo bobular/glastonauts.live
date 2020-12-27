@@ -164,32 +164,12 @@ a.pink:focus {
     margin-right: 0;
 }
 
-
-/* .link-button>div {
-    color: #ffffff;
-    font-size: 10px;
-    font-weight: initial;
-    font-style: normal;
-    text-align: center;
-    margin: 0px 0px 0px 0px
+.svg-cover, .img-responsive {
+    max-width: 80%;
+    margin-top: 20px;
+    margin-bottom: 40px;
 }
 
-.button>i {
-    color: #fff;
-    font-size: 1em;
-    background: rgba(0%, 0%, 0%, 0.2);
-    border-radius: 100px;
-    border: 0px solid transparent;
-    border-width: 0px 0px 0px 0px;
-    padding: 5px 5px 5px 5px;
-    margin: 0px 0px 0px 10px;
-    position: static;
-    box-shadow: inset 0px 1px 2px rgba(0, 0, 0, 0.4), inset 0px -1px 0px rgba(255, 255, 255, .5)
-}
-
-.button>.ld {
-    font-size: initial
-} */
 
 @media only screen and (min-width: 768px) {
     .navbar-custom {
@@ -531,7 +511,6 @@ footer .copyright {
     padding-top: 30px;
     padding-bottom: 40px;
 }
-
 
 .floating-label-form-group {
     font-size: 14px;

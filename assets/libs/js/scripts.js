@@ -198,6 +198,15 @@
 				}
 			});
 		}
+
+		
+		// var $covers = $(".svg-cover");
+
+		// $covers.each( function () {
+		// 	// alert("Takis");
+		// 	$(this).contents().find('#settitle').text($(this).data("settitle"));
+		// 	$(this).contents().find('#contributor').text($(this).data("contributor"));
+		// })
 	});
 	
 
