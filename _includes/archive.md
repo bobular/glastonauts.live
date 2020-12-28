@@ -1,3 +1,62 @@
+### Sunday December 27
+
+#### 10:00am Gags  <a href='https://www.mixcloud.com/garethshapiro/waking-up-in-the-lounge-xmas-special-2020/' target='_blank' title='Go to recording'><i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20201227-10am.jpeg) 
+
+#### 1:00pm Bren (replay)  <a href='https://open.spotify.com/playlist/7ym10SdgWJ5WRT4IRjgHLo' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201227-1pm.jpeg)
+
+#### 3:00pm Judd  <a href='https://open.spotify.com/playlist/236dtIIVl65igFtpww83hD' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201227-3pm.jpeg)
+
+#### 6:00pm Gilly (Live DJ Set) 
+![cover art](assets/owner/images/20201227-6pm.jpeg)
+
+
+
+### Saturday December 26
+
+#### 11:00am Stuart D (replay) <a href='https://open.spotify.com/playlist/6xrnP6ZObd0f3NOJlcgf5z' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201224-11am.jpeg)
+
+#### 3:00pm Claudia <a href='https://open.spotify.com/playlist/4cRQbeYtBZ0XJGa0pXmTP7' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201226-3pm.jpeg)
+
+#### 5:00pm Fat Tez <a href='https://open.spotify.com/playlist/5UZtSMLpDl7ZbUuZVUZqKN' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
+![cover art](assets/owner/images/20201226-5pm.jpeg)
+
+#### 8:00pm Josh & Dave O (Live DJ Set) 
+![cover art](assets/owner/images/20201226-8pm.jpeg)
+
+#### 10:00pm Dan W (Live DJ Set) 
+![cover art](assets/owner/images/20201226-10pm.jpeg)
+
+
+
+### Friday December 25
+
+#### 12:00pm Glastonauts 
+![cover art](assets/owner/images/20201224-12pm.jpeg)
+
+#### 7:00pm Bob 
+![cover art](assets/owner/images/20200429-6pm.jpeg)
+
+#### 8:00pm batch (Live DJ Set) 
+![cover art](assets/owner/images/20201225-8pm.jpeg)
+
+
+### Thursday December 24
+
+#### 12:00pm Glastonauts 
+![cover art](assets/owner/images/20201224-12pm.jpeg)
+
+#### 7:00pm Bob 
+![cover art](assets/owner/images/20200429-6pm.jpeg)
+
+#### 8:00pm Andy Davies (Live DJ Set)  <a href='https://www.mixcloud.com/Glastonauts_Live/andy-davies-twas-the-night-before/' target='_blank' title='Go to recording'><i class='fab fa-mixcloud fa-inverse'></i></a>
+![cover art](assets/owner/images/20201224-8pm.jpeg)
+
+
 ### Sunday December 20
 ---
 
@@ -7,10 +66,10 @@
 #### 4:00pm Bren <a href='https://open.spotify.com/playlist/3W6QqpGlCf1hmDDWiHZ1xr' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201220-3pm.jpeg)
 
-#### 7:00pm Bob (Live DJ Set) 
+#### 7:00pm Bob (Live DJ Set)   <a href='https://www.mixcloud.com/Glastonauts_Live/bob-progressions-2/' target='_blank' title='Go to recording'><i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201220-7pm.jpeg)
 
-#### 9:30pm Ioannis / Stuart D (Live DJ Set) 
+#### 9:30pm Ioannis / Stuart D (Live DJ Set)   <a href='https://www.mixcloud.com/Glastonauts_Live/ioannis-featuring-stuart-d-the-darlings/' target='_blank' title='Go to recording'><i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201220-9pm.jpeg)
 
 
@@ -23,7 +82,7 @@
 #### 4:00pm Fat Tez <a href='https://open.spotify.com/playlist/45ZMGPufF0VYEGbibOF4rr' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201219-4pm.jpeg)
 
-#### 7:00pm Andy Davies (Live DJ Set) 
+#### 7:00pm Andy Davies (Live DJ Set)   <a href='https://www.mixcloud.com/Glastonauts_Live/andy-davies-progressive-breaks-bass/' target='_blank' title='Go to recording'><i class='fab fa-mixcloud fa-inverse'></i></a>
 ![cover art](assets/owner/images/20201219-7pm.jpeg)
 
 #### 9:00pm Bren <a href='https://open.spotify.com/playlist/5Dwli4Nc5YTsrXO37gC7oS' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
