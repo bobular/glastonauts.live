@@ -61,7 +61,7 @@ class SvgCoverTag < Liquid::Tag
       output += "<object id=\"#{randId}\" class=\"svg-cover img-responsive\" data-contributor=\"#{cntr}\" data-settitle=\"#{ttl}\""
       output += "data=\"assets/svg/#{settype}.svg\" type=\"image/svg+xml\"/>"
       output += '</object>'
-      output += "<a class=\"download-button link-button pink\" data-target=\"#{randId}\" data-toggle=\"tooltip\" data-original-title=\"Download\"> Dw </a>"
+      # output += "<a class=\"download-button link-button pink\" data-target=\"#{randId}\" data-toggle=\"tooltip\" data-original-title=\"Download\"> Dw </a>"
     end
     output += '{:/}'
     # Render it on the page by returning it
