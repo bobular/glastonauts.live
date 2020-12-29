@@ -5,16 +5,17 @@ class SvgCoverTag < Liquid::Tag
     super
     input.gsub! '~~', '"'
     @input = input
+    
   end
-
+  
   def render(context)
-
+    
     # Set defaults first, replace with your values!
     cntr = "xxxxxx"
     ttl = "yyyyy"
     time = "zzzzz"
     type = "playlist"
-
+    
     # Attempt to parse the JSON if any is passed in
     begin
       if( !@input.nil? && !@input.empty? )
@@ -29,6 +30,9 @@ class SvgCoverTag < Liquid::Tag
         spotify = jdata['spotify'].strip
         mixcloud = jdata['mixcloud'].strip
         filename = jdata['filename'].strip
+        
+        string_length = 8
+        randId = rand(36**string_length).to_s(36)
         
         
       end
@@ -54,9 +58,10 @@ class SvgCoverTag < Liquid::Tag
     if filename && filename.length > 0
       output += "<img src=\"assets/owner/images/#{filename}.jpeg\" alt=\"cover art\" class=\"svg-cover img-responsive\">"
     else
-      output += "<object class=\"svg-cover img-responsive\" data-contributor=\"#{cntr}\" data-settitle=\"#{ttl}\""
+      output += "<object id=\"#{randId}\" class=\"svg-cover img-responsive\" data-contributor=\"#{cntr}\" data-settitle=\"#{ttl}\""
       output += "data=\"assets/svg/#{settype}.svg\" type=\"image/svg+xml\"/>"
       output += '</object>'
+      output += "<a class=\"download-button link-button pink\" data-target=\"#{randId}\" data-toggle=\"tooltip\" data-original-title=\"Download\"> Dw </a>"
     end
     output += '{:/}'
     # Render it on the page by returning it
