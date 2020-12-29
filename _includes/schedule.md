@@ -1,2 +1,11 @@
-### See you on NYE!
+### Thursday December 31
+
+
+{% cover {"filename": "", "time": "6:00pm", "cntr": "Bob", "ttl": "Slightly uplifting mix", "settype": "dgt-dj", "spotify": "", "mixcloud": ""} %}
+
+{% cover {"filename": "20201231-disco-debra", "time": "7:00pm", "cntr": "Disco Debra", "ttl": "Disco Debra's Dance Extravaganza", "settype": "playlist", "spotify": "", "mixcloud": ""} %}
+
+{% cover {"filename": "", "time": "10:00pm", "cntr": "Glastonauts", "ttl": "DIY NYE PARTY", "settype": "playlist", "spotify": "", "mixcloud": ""} %}
+
+{% cover {"filename": "", "time": "12:15am", "cntr": "Special Guests", "ttl": "Happy New Zealand!", "settype": "dgt-dj", "spotify": "", "mixcloud": ""} %}
 
