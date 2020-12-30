@@ -13,7 +13,7 @@
 ### Wednesday January 1
 
 
-{% cover {~~filename~~: ~~~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Judd (replay)~~, ~~ttl~~: ~~Wham Bam, Thank You Shazam!~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Judd~~, ~~ttl~~: ~~Womxn~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~20210101-lostlegend-escape~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~LostLegend~~, ~~ttl~~: ~~Escape From Plague Island~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
