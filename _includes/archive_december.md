@@ -32,7 +32,7 @@
 
 {% cover {~~filename~~: ~~~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~The Return of the Deejay~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Dave O~~, ~~ttl~~: ~~Tunes I've robbed off Sal~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~09:30pm~~, ~~cntr~~: ~~Dave O~~, ~~ttl~~: ~~Tunes I've robbed off Sal~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~~~, ~~time~~: ~~11:00pm~~, ~~cntr~~: ~~Dan W~~, ~~ttl~~: ~~Leftovers~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
