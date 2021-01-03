@@ -24,21 +24,17 @@
 
 ### Saturday December 26
 
-#### 11:00am Stuart D (replay) <a href='https://open.spotify.com/playlist/6xrnP6ZObd0f3NOJlcgf5z' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
-![cover art](assets/owner/images/20201224-11am.jpeg)
+{% cover {~~filename~~: ~~20200705-9am~~, ~~time~~: ~~11:00am~~, ~~cntr~~: ~~Stuart D (replay)~~, ~~ttl~~: ~~Chill~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/6xrnP6ZObd0f3NOJlcgf5z~~, ~~mixcloud~~: ~~~~} %}
 
-#### 3:00pm Claudia <a href='https://open.spotify.com/playlist/4cRQbeYtBZ0XJGa0pXmTP7' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
-![cover art](assets/owner/images/20201226-3pm.jpeg)
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Claudia~~, ~~ttl~~: ~~Quiet~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/4cRQbeYtBZ0XJGa0pXmTP7~~, ~~mixcloud~~: ~~~~} %}
 
-#### 5:00pm Fat Tez <a href='https://open.spotify.com/playlist/5UZtSMLpDl7ZbUuZVUZqKN' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
-![cover art](assets/owner/images/20201226-5pm.jpeg)
+{% cover {~~filename~~: ~~20201226-5pm~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~LOVE DEATH + FUNK~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/5UZtSMLpDl7ZbUuZVUZqKN~~, ~~mixcloud~~: ~~~~} %}
 
-#### 8:00pm Josh & Dave O (Live DJ Set) 
-![cover art](assets/owner/images/20201226-8pm.jpeg)
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~The Return of the Deejay~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
-#### 10:00pm Dan W (Live DJ Set) 
-![cover art](assets/owner/images/20201226-10pm.jpeg)
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Dave O~~, ~~ttl~~: ~~Tunes I've robbed off Sal~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~11:00pm~~, ~~cntr~~: ~~Dan W~~, ~~ttl~~: ~~Leftovers~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
 
 ### Friday December 25
