@@ -39,26 +39,20 @@
 
 ### Friday December 25
 
-#### 12:00pm Glastonauts 
-![cover art](assets/owner/images/20201224-12pm.jpeg)
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~12:00pm~~, ~~cntr~~: ~~Glastonauts~~, ~~ttl~~: ~~Festive Top 40, and then some...~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/1OtgEinTf7FMWkZ4IeF57V~~, ~~mixcloud~~: ~~~~} %}
 
-#### 7:00pm Bob 
-![cover art](assets/owner/images/20200429-6pm.jpeg)
+{% cover {~~filename~~: ~~20200429-6pm~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Community Hour~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
-#### 8:00pm batch (Live DJ Set) 
-![cover art](assets/owner/images/20201225-8pm.jpeg)
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~batch~~, ~~ttl~~: ~~¡Feliz Navidance!~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~https://www.mixcloud.com/Glastonauts_Live/batch-feliz-navidance/~~, ~~mixcloud~~: ~~~~} %}
 
 
 ### Thursday December 24
 
-#### 12:00pm Glastonauts 
-![cover art](assets/owner/images/20201224-12pm.jpeg)
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~12:00pm~~, ~~cntr~~: ~~Glastonauts~~, ~~ttl~~: ~~Festive Top 40, and then some...~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/1OtgEinTf7FMWkZ4IeF57V~~, ~~mixcloud~~: ~~~~} %}
 
-#### 7:00pm Bob 
-![cover art](assets/owner/images/20200429-6pm.jpeg)
+{% cover {~~filename~~: ~~20200429-6pm~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Community Hour~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
-#### 8:00pm Andy Davies (Live DJ Set)  <a href='https://www.mixcloud.com/Glastonauts_Live/andy-davies-twas-the-night-before/' target='_blank' title='Go to recording'><i class='fab fa-mixcloud fa-inverse'></i></a>
-![cover art](assets/owner/images/20201224-8pm.jpeg)
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Twas The Night Before~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~https://www.mixcloud.com/Glastonauts_Live/andy-davies-twas-the-night-before/~~, ~~mixcloud~~: ~~~~} %}
 
 
 ### Sunday December 20
