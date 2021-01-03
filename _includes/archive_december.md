@@ -12,17 +12,14 @@
 
 ### Sunday December 27
 
-#### 10:00am Gags  <a href='https://www.mixcloud.com/garethshapiro/waking-up-in-the-lounge-xmas-special-2020/' target='_blank' title='Go to recording'><i class='fab fa-mixcloud fa-inverse'></i></a>
-![cover art](assets/owner/images/20201227-10am.jpeg) 
 
-#### 1:00pm Bren (replay)  <a href='https://open.spotify.com/playlist/7ym10SdgWJ5WRT4IRjgHLo' target='_blank' title='Go to playlist'> <i class='fab fa-spotify fa-inverse'></i></a>
-![cover art](assets/owner/images/20201227-1pm.jpeg)
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~10:00am~~, ~~cntr~~: ~~Gags~~, ~~ttl~~: ~~Waking Up In The Lounge Special~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/garethshapiro/waking-up-in-the-lounge-xmas-special-2020/~~} %}
 
-{% cover {"filename": "", "time": "3:00pm", "cntr": "Judd", "ttl": "Wham Bam, Thank You Shazam!", "settype": "playlist", "spotify": "https://open.spotify.com/playlist/236dtIIVl65igFtpww83hD", "mixcloud": ""} %}
+{% cover {~~filename~~: ~~20200611-2pm~~, ~~time~~: ~~1:00pm~~, ~~cntr~~: ~~Bren (replay)~~, ~~ttl~~: ~~Scouse in the House~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/7ym10SdgWJ5WRT4IRjgHLo~~, ~~mixcloud~~: ~~~~} %}
 
-#### 6:00pm Gilly (Live DJ Set) 
-![cover art](assets/owner/images/20201227-6pm.jpeg)
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Judd~~, ~~ttl~~: ~~Wham Bam, Thank You Shazam~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/236dtIIVl65igFtpww83hD~~, ~~mixcloud~~: ~~~~} %}
 
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Gilly and Bilko~~, ~~ttl~~: ~~'Quite Simply Mad' 2020~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
 
 ### Saturday December 26
