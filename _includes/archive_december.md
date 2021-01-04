@@ -7,7 +7,7 @@
 
 {% cover {"filename": "", "time": "10:00pm", "cntr": "Glastonauts", "ttl": "DIY NYE PARTY", "settype": "playlist", "spotify": "https://open.spotify.com/playlist/6SdB1mgayYPzJUB8WkeSXP", "mixcloud": ""} %}
 
-{% cover {"filename": "", "time": "12:15am", "cntr": "CD", "ttl": "Best Of 2020 Mix", "settype": "dgt-dj", "spotify": "", "mixcloud": ""} %}
+{% cover {"filename": "20210101-12am", "time": "12:15am", "cntr": "CD", "ttl": "Best Of 2020 Mix", "settype": "dgt-dj", "spotify": "", "mixcloud": ""} %}
 
 
 ### Sunday December 27
@@ -30,9 +30,9 @@
 
 {% cover {~~filename~~: ~~20201226-5pm~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~LOVE DEATH + FUNK~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/5UZtSMLpDl7ZbUuZVUZqKN~~, ~~mixcloud~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~The Return of the Deejay~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~The Return of the Deejay~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/josh-the-return-of-the-deejay-vinyl-only/~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~time~~: ~~09:30pm~~, ~~cntr~~: ~~Dave O~~, ~~ttl~~: ~~Tunes I've robbed off Sal~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~9:30pm~~, ~~cntr~~: ~~Dave O~~, ~~ttl~~: ~~Tunes I've robbed off Sal~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~~~, ~~time~~: ~~11:00pm~~, ~~cntr~~: ~~Dan W~~, ~~ttl~~: ~~Leftovers~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
