@@ -43,13 +43,13 @@
       </g>
     </g>
     <text fill="#ffffff" font-size="35.294px" font-weight="bold" letter-spacing="5.8824" stroke-width="3.5294" text-align="center" text-anchor="middle">
-      <tspan id="contributor" x="299.95694" y="90.654732">Line Up</tspan>
+      <tspan id="contributor" x="299.95694" y="90.654732"></tspan>
     </text>
     <text fill="#ffffff" font-size="25px" text-align="center" text-anchor="middle">
-      <tspan id="settype" x="299.95694" y="140">Playlist</tspan>
+      <tspan id="settype" x="299.95694" y="140"></tspan>
     </text>
     <text fill="#ffffff" font-size="28.235px" font-weight="bold" stroke-width="3.5294" text-align="center" text-anchor="middle">
-      <tspan id="settitle" x="299.62088" y="530.06653">Listen</tspan>
+      <tspan id="settitle" x="299.62088" y="530.06653"></tspan>
     </text>
   </g>
 </svg>
