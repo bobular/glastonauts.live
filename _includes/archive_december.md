@@ -1,11 +1,11 @@
 ### Thursday December 31
 
 
-{% cover {"filename": "", "time": "6:00pm", "cntr": "Bob", "ttl": "Slightly uplifting mix", "settype": "dgt-dj", "spotify": "", "mixcloud": "https://www.mixcloud.com/Glastonauts_Live/bob-slightly-uplifting-nye-mix/"} %}
+{% cover {"filename": "", "time": "6:00pm", "cntr": "Bob", "ttl": "Slightly uplifting mix", "settype": "dgt-dj", "spotify": "", "mixcloud": "https://www.mixcloud.com/Glastonauts_Live/bob-slightly-uplifting-nye-mix/", ~~bg~~:~~#FF8169~~} %}
 
 {% cover {"filename": "20201231-disco-debra", "time": "7:00pm", "cntr": "Disco Debra", "ttl": "Disco Debra's Dance Extravaganza", "settype": "playlist", "spotify": "https://open.spotify.com/playlist/2TegRkgEOzMuSmwq2sMolH", "mixcloud": ""} %}
 
-{% cover {"filename": "", "time": "10:00pm", "cntr": "Glastonauts", "ttl": "DIY NYE PARTY", "settype": "playlist", "spotify": "https://open.spotify.com/playlist/6SdB1mgayYPzJUB8WkeSXP", "mixcloud": ""} %}
+{% cover {"filename": "", "time": "10:00pm", "cntr": "Glastonauts", "ttl": "DIY NYE PARTY", "settype": "colab", "spotify": "https://open.spotify.com/playlist/6SdB1mgayYPzJUB8WkeSXP", "mixcloud": ""} %}
 
 {% cover {"filename": "20210101-12am", "time": "12:15am", "cntr": "CD", "ttl": "Best Of 2020 Mix", "settype": "dgt-dj", "spotify": "", "mixcloud": ""} %}
 
@@ -19,7 +19,7 @@
 
 {% cover {~~filename~~: ~~~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Judd~~, ~~ttl~~: ~~Wham Bam, Thank You Shazam~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/236dtIIVl65igFtpww83hD~~, ~~mixcloud~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Gilly and Bilko~~, ~~ttl~~: ~~'Quite Simply Mad' 2020~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Gilly and Bilko~~, ~~ttl~~: ~~'Quite Simply Mad' 2020~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~:~~#E3BD4D~~} %}
 
 
 ### Saturday December 26
@@ -30,11 +30,11 @@
 
 {% cover {~~filename~~: ~~20201226-5pm~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~LOVE DEATH + FUNK~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/5UZtSMLpDl7ZbUuZVUZqKN~~, ~~mixcloud~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~The Return of the Deejay~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/josh-the-return-of-the-deejay-vinyl-only/~~} %}
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~The Return of the Deejay~~, ~~settype~~: ~~vin-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/josh-the-return-of-the-deejay-vinyl-only/~~, ~~bg~~:~~#2F6C9A~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~time~~: ~~9:30pm~~, ~~cntr~~: ~~Dave O~~, ~~ttl~~: ~~Tunes I've robbed off Sal~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~9:30pm~~, ~~cntr~~: ~~Dave O~~, ~~ttl~~: ~~Tunes I've robbed off Sal~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~:~~#FF69B3~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~time~~: ~~11:00pm~~, ~~cntr~~: ~~Dan W~~, ~~ttl~~: ~~Leftovers~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~11:00pm~~, ~~cntr~~: ~~Dan W~~, ~~ttl~~: ~~Leftovers~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~:~~#69B8FF~~} %}
 
 
 ### Friday December 25
@@ -43,7 +43,7 @@
 
 {% cover {~~filename~~: ~~20200429-6pm~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Community Hour~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~batch~~, ~~ttl~~: ~~¡Feliz Navidance!~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~https://www.mixcloud.com/Glastonauts_Live/batch-feliz-navidance/~~, ~~mixcloud~~: ~~~~} %}
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~batch~~, ~~ttl~~: ~~¡Feliz Navidance!~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~https://www.mixcloud.com/Glastonauts_Live/batch-feliz-navidance/~~, ~~mixcloud~~: ~~~~, ~~bg~~:~~#B069FF~~} %}
 
 
 ### Thursday December 24
@@ -52,7 +52,7 @@
 
 {% cover {~~filename~~: ~~20200429-6pm~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Community Hour~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Twas The Night Before~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~https://www.mixcloud.com/Glastonauts_Live/andy-davies-twas-the-night-before/~~, ~~mixcloud~~: ~~~~} %}
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Twas The Night Before~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~https://www.mixcloud.com/Glastonauts_Live/andy-davies-twas-the-night-before/~~, ~~mixcloud~~: ~~~~, ~~bg~~:~~#FF69B3~~} %}
 
 
 ### Sunday December 20

@@ -139,7 +139,7 @@
 			$(this).contents().find('#settype').text(showTypes[$(this).data("settype")]);
 			$(this).contents().find('#background').attr("fill",$(this).data("bg"));
 
-			if ($(this).data("bg").toLowerCase() === "#cbdee0") {
+			if ($(this).data("bg") && $(this).data("bg").toLowerCase() === "#cbdee0") {
 				$(this).contents().find('#Logo-final,#playlist').attr("fill","#29878D");
 				$(this).contents().find('#contributor,#settype,#settitle').parent().attr("fill","#29878D");
 			}
