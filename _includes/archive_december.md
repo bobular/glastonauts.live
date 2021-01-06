@@ -28,7 +28,7 @@
 
 {% cover {~~filename~~: ~~~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Claudia~~, ~~ttl~~: ~~Quiet~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/4cRQbeYtBZ0XJGa0pXmTP7~~, ~~mixcloud~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20201226-5pm~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~LOVE DEATH + FUNK~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/5UZtSMLpDl7ZbUuZVUZqKN~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/josh-the-return-of-the-deejay-vinyl-only/~~} %}
+{% cover {~~filename~~: ~~20201226-5pm~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~LOVE DEATH + FUNK~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/5UZtSMLpDl7ZbUuZVUZqKN~~, ~~mixcloud~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~The Return of the Deejay~~, ~~settype~~: ~~vin-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/josh-the-return-of-the-deejay-vinyl-only/~~, ~~bg~~:~~#2F6C9A~~} %}
 
