@@ -58,6 +58,7 @@ class SvgCoverTag < Liquid::Tag
     
     output += "</h4>"
 
+    
     if filename && filename.length > 0
       output += "<img src=\"assets/owner/images/#{filename}.jpeg\" alt=\"cover art\" class=\"svg-cover img-responsive\">"
     else
