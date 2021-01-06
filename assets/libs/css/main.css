@@ -164,6 +164,14 @@ a.pink:focus {
     margin-right: 0;
 }
 
+.svg-cover,
+.img-responsive {
+    max-width: 80%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    animation: fadeIn ease 2s;
+}
+
 @keyframes fadeIn {
     0% {
         opacity: 0;
