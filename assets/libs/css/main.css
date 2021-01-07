@@ -169,10 +169,11 @@ a.pink:focus {
     max-width: 80%;
     margin-top: 20px;
     margin-bottom: 40px;
-    animation: fadeIn ease 2s;
+    animation: none;
+    /* animation: fadeIn ease 2s; */
 }
 
-@keyframes fadeIn {
+/* @keyframes fadeIn {
     0% {
         opacity: 0;
     }
@@ -181,7 +182,7 @@ a.pink:focus {
         opacity: 1;
     }
     ;
-}
+} */
 
 @media only screen and (min-width: 768px) {
     .navbar-custom {
