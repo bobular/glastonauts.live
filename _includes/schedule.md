@@ -16,4 +16,6 @@
 
 ### Sunday January 10
 
+{% cover {"filename": "20210110-cd-something3", "time": "5:00pm", "cntr": "CD", "ttl": "Something Electronic III", "settype": "pre-dj", "spotify": "", "mixcloud": "", "bg": "#E3BD4D"} %}
+
 {% cover {"filename": "", "time": "8:00pm", "cntr": "Stuart D", "ttl": "2020 Albums on Loop Part I", "settype": "playlist", "spotify": "", "mixcloud": "", "bg": "#29878D"} %}
