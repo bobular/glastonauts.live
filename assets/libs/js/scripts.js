@@ -1,7 +1,7 @@
 (function( $ ){
 	
 	/* ********* WINDOW LOAD ********** */
-	jQuery(window).load(function() {
+	// jQuery(window).load(function() {
 
 		const showTypes = {
 			'playlist': 'Playlist',
@@ -26,24 +26,22 @@
 			'talk': '#talk'
 		}
 
-		
-	
 		let $covers = $(".svg-cover");
 
-		$covers.each(function () {
-			$(this).contents().find('#settitle').text($(this).data("settitle"));
-			$(this).contents().find('#contributor').text($(this).data("contributor"));
-			$(this).contents().find('#settype').text(showTypes[$(this).data("settype")]);
-			$(this).contents().find('#background').attr("fill",$(this).data("bg"));
+		let editSvg = function (svg) {
+			$(svg).contents().find('#settitle').text($(svg).data("settitle"));
+			$(svg).contents().find('#contributor').text($(svg).data("contributor"));
+			$(svg).contents().find('#settype').text(showTypes[$(svg).data("settype")]);
+			$(svg).contents().find('#background').attr("fill",$(svg).data("bg"));
 
-			if ($(this).data("bg") && $(this).data("bg").toLowerCase() === "#cbdee0") {
-				$(this).contents().find('#Logo-final,#playlist').attr("fill","#29878D");
-				$(this).contents().find('#contributor,#settype,#settitle').parent().attr("fill","#29878D");
+			if ($(svg).data("bg") && $(svg).data("bg").toLowerCase() === "#cbdee0") {
+				$(svg).contents().find('#Logo-final,#playlist').attr("fill","#29878D");
+				$(svg).contents().find('#contributor,#settype,#settitle').parent().attr("fill","#29878D");
 			}
 			
-			if ($(this).data("settype") === 'vin-dj') {
-				let $vin = $(this).contents().find('#vinyl-dj'); 
-				$vin.find('#vinyl-colour').attr("fill", $(this).data("bg"));
+			if ($(svg).data("settype") === 'vin-dj') {
+				let $vin = $(svg).contents().find('#vinyl-dj'); 
+				$vin.find('#vinyl-colour').attr("fill", $(svg).data("bg"));
 				
 			}
 			$(this).contents().find(showIcons[$(this).data("settype")]).removeAttr("display");
@@ -51,6 +49,7 @@
 		})
 
 	});
+	// });
 	
 
 } )( jQuery );

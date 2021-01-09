@@ -173,17 +173,6 @@ a.pink:focus {
     /* animation: fadeIn ease 2s; */
 }
 
-/* @keyframes fadeIn {
-    0% {
-        opacity: 0;
-    }
-    ;
-    100% {
-        opacity: 1;
-    }
-    ;
-} */
-
 @media only screen and (min-width: 768px) {
     .navbar-custom {
         background: #2F6C9A;
@@ -671,4 +660,12 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #0085a1;
+}
+
+
+/* TOOLS */
+
+.montage-container {
+    background-color: #E7EFF1;
+    padding: 20px;
 }
