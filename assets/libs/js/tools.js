@@ -1,7 +1,7 @@
 (function ($) {
 
-    let width = 800;
-    let margin = 5;
+    let width = 1200;
+    let margin = 10;
     let $schedule = $('.schedule');
     let $montage = $('#montage');
     $schedule.hide();
