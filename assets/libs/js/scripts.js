@@ -45,9 +45,9 @@
 			$(svg).contents().find(showIcons[$(svg).data("settype")]).removeAttr("display");
 		}
 	$covers.each(function () {
-		$(this).on('load', function () {
-			editSvg(this);
-		});
+		editSvg(this);
+		// $(this).on('load', function () {
+		// });
 	});
 	// });
 	
