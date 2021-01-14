@@ -15,7 +15,7 @@
 
 {% cover {~~filename~~: ~~~~, ~~time~~: ~~7:30pm~~, ~~cntr~~: ~~Sir Styles~~, ~~ttl~~: ~~A Special Thing~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF8169~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~CD~~, ~~ttl~~: ~~Techno Hour~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#2F6C9A~~} %}
+{% cover {~~filename~~: ~~20210116-cd-hour-of-power~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~CD~~, ~~ttl~~: ~~Techno Hour~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#2F6C9A~~} %}
 
 
 ### Sunday January 17
