@@ -1,21 +1,31 @@
-### Friday January 8
+### Friday January 15
 
-{% cover {"filename": "20210108-tez-custard-creams", "time": "6:00pm", "cntr": "Fat Tez", "ttl": "Custard Creams", "settype": "playlist", "spotify": "", "mixcloud": "", "bg": "#1C5659"} %}
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Gary P (DJ Twice)~~, ~~ttl~~: ~~South African Bangers~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
 
-{% cover {"filename": "20210108-seb-dusk-dawn", "time": "9:00pm", "cntr": "DJ Sebster", "ttl": "From Dusk Til Dawn", "settype": "dgt-dj", "spotify": "", "mixcloud": "", "bg": "#FF69B3"} %}
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#B069FF~~} %}
 
-
-### Saturday January 9
-
-{% cover {"filename": "20210109-waxy-back-sack", "time": "5:00pm", "cntr": "Waxy", "ttl": "Back, Sack and Dance", "settype": "playlist", "spotify": "", "mixcloud": "", "bg": "#1C5659"} %}
-
-{% cover {"filename": "", "time": "7:00pm", "cntr": "Andy Davies", "ttl": "Live DJ Set", "settype": "dgt-dj", "spotify": "", "mixcloud": "", "bg": "#B069FF"} %}
-
-{% cover {"filename": "20210109-nathan-trance", "time": "9:00pm", "cntr": "Nathan", "ttl": "Trance Party", "settype": "playlist", "spotify": "", "mixcloud": "", "bg": "#29878D"} %}
+{% cover {~~filename~~: ~~20210115-danw-dr~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~Dan W~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#69B8FF~~} %}
 
 
-### Sunday January 10
+### Saturday January 16
 
-{% cover {"filename": "20210110-cd-something3", "time": "5:00pm", "cntr": "CD", "ttl": "Something Electronic III", "settype": "pre-dj", "spotify": "", "mixcloud": "", "bg": "#E3BD4D"} %}
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~1:30pm~~, ~~cntr~~: ~~Family Q~~, ~~ttl~~: ~~Ready Steady Pop!~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
 
-{% cover {"filename": "", "time": "8:00pm", "cntr": "Stuart D", "ttl": "2020 Albums on Loop Part I", "settype": "playlist", "spotify": "", "mixcloud": "", "bg": "#29878D"} %}
+{% cover {~~filename~~: ~~20210116-tez-acid-jazz~~, ~~time~~: ~~4:30pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Acid Jazz Reflux~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
+
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~7:30pm~~, ~~cntr~~: ~~Sir Styles~~, ~~ttl~~: ~~A Special Thing~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF8169~~} %}
+
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~CD~~, ~~ttl~~: ~~Techno Hour~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#2F6C9A~~} %}
+
+
+### Sunday January 17
+
+{% cover {~~filename~~: ~~20200612-1pm~~, ~~time~~: ~~12:00pm~~, ~~cntr~~: ~~Judd The Stud~~, ~~ttl~~: ~~Cowboy~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Bruce Q~~, ~~ttl~~: ~~Q'ing Up For Country~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
+
+{% cover {~~filename~~: ~~ch~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Community Hour~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~The Indie Fix~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#2F6C9A~~} %}
+
+{% cover {~~filename~~: ~~20210117-ioannis-mmxx~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~Ioannis~~, ~~ttl~~: ~~MMXX~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}

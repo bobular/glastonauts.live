@@ -41,7 +41,7 @@
 
 {% cover {~~filename~~: ~~~~, ~~time~~: ~~12:00pm~~, ~~cntr~~: ~~Glastonauts~~, ~~ttl~~: ~~Festive Top 40, and then some...~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/1OtgEinTf7FMWkZ4IeF57V~~, ~~mixcloud~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20200429-6pm~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Community Hour~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
+{% cover {~~filename~~: ~~20200429-6pm~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Community Hour~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~batch~~, ~~ttl~~: ~~¡Feliz Navidance!~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~https://www.mixcloud.com/Glastonauts_Live/batch-feliz-navidance/~~, ~~mixcloud~~: ~~~~, ~~bg~~:~~#B069FF~~} %}
 
@@ -50,7 +50,7 @@
 
 {% cover {~~filename~~: ~~~~, ~~time~~: ~~12:00pm~~, ~~cntr~~: ~~Glastonauts~~, ~~ttl~~: ~~Festive Top 40, and then some...~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/1OtgEinTf7FMWkZ4IeF57V~~, ~~mixcloud~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20200429-6pm~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Community Hour~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
+{% cover {~~filename~~: ~~20200429-6pm~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Community Hour~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Twas The Night Before~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~https://www.mixcloud.com/Glastonauts_Live/andy-davies-twas-the-night-before/~~, ~~mixcloud~~: ~~~~, ~~bg~~:~~#FF69B3~~} %}
 

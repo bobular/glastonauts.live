@@ -9,6 +9,18 @@ class SvgCoverTag < Liquid::Tag
   end
   
   def render(context)
+
+    showTypes = {
+			'playlist' => 'Playlist',
+			'repeat' => 'Playlist Replay',
+			'dgt-dj' => 'Live DJ Set',
+			'vin-dj' => 'Live DJ Set',
+			'pre-dj' => 'Pre-recorded DJ Set',
+			'colab' => 'Collaborative Playlist',
+			'quiz' => 'Quiz',
+			'talk' => 'Live Radio Show'
+		}
+
     
     # Set defaults first, replace with your values!
     cntr = "xxxxxx"
@@ -105,8 +117,8 @@ class SvgCoverTag < Liquid::Tag
     if mixcloud && mixcloud.length > 0
       output += "<a href='#{mixcloud}' target='_blank' title='Go to show recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>"
     end
+    output += "</h4><h5>#{showTypes[settype]}</h5>"
     
-    output += "</h4>"
 
     
     if filename && filename.length > 0

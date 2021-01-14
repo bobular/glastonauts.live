@@ -1,5 +1,4 @@
 (function( $ ){
-
 	/* ********* WINDOW LOAD ********** */
 	// jQuery(window).load(function() {
 
@@ -11,6 +10,7 @@
 			'pre-dj': 'Pre-recorded DJ Set',
 			'colab': 'Collaborative Playlist',
 			'quiz': 'Quiz',
+			'talk': 'Live Radio Show'
 		}
 
 
@@ -22,6 +22,7 @@
 			'pre-dj': '#dgt-dj',
 			'colab': '#playlist',
 			'quiz': '#quiz',
+			'talk': '#talk'
 		}
 
 		let $covers = $(".svg-cover");
