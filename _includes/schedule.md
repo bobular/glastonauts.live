@@ -1,6 +1,6 @@
 ### Friday January 15
 
-{% cover {~~filename~~: ~~~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Gary P (DJ Twice)~~, ~~ttl~~: ~~South African Bangers~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
+{% cover {~~filename~~: ~~20210115-djtwice-sa-bangers~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Gary P (DJ Twice)~~, ~~ttl~~: ~~South African Bangers~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
 
 {% cover {~~filename~~: ~~~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#B069FF~~} %}
 
