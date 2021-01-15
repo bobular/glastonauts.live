@@ -2,7 +2,7 @@
 
 {% cover {~~filename~~: ~~20210115-djtwice-sa-bangers~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Gary P (DJ Twice)~~, ~~ttl~~: ~~South African Bangers~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#B069FF~~} %}
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~Friday Night Disco~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#B069FF~~} %}
 
 {% cover {~~filename~~: ~~20210115-danw-dr~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~Dan W~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#69B8FF~~} %}
 
