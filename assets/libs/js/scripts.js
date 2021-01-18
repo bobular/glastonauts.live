@@ -1,5 +1,4 @@
 (function( $ ){
-	
 	/* ********* WINDOW LOAD ********** */
 	// jQuery(window).load(function() {
 
@@ -44,10 +43,12 @@
 				$vin.find('#vinyl-colour').attr("fill", $(svg).data("bg"));
 				
 			}
-			$(this).contents().find(showIcons[$(this).data("settype")]).removeAttr("display");
-			console.log($(this).contents().find(showIcons[$(this).data("settype")]));
-		})
-
+			$(svg).contents().find(showIcons[$(svg).data("settype")]).removeAttr("display");
+		}
+	$covers.each(function () {
+		editSvg(this);
+		// $(this).on('load', function () {
+		// });
 	});
 	// });
 	

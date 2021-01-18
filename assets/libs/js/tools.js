@@ -1,6 +1,8 @@
 (function ($) {
 
-    let width = 900;
+    let windowHeight = window.innerHeight - 30;
+    let windowWidth = window.innerWidth - 30;
+    // let width = windowHeight > 800 ? 800 : windowHeight;
     let margin = 5;
     let $schedule = $('.schedule');
     let $montage = $('#montage');
@@ -41,8 +43,9 @@
     /* ********* WINDOW LOAD ********** */
     jQuery(window).load(function () {
 
-        console.log($montage);
+        // $('h4').remove();
         let $dates = $('h3');
+
 
         let row_count = $dates.length;
         let column_count = 0;
@@ -55,13 +58,11 @@
         // build an index of covers per row
 
         $dates.each(function (i) {
-            console.log("P", i)
             let count = 0;
             // not efficient but it would do
             $covers.each(function (k) {
                 if ($(this).isAfter($dates[i]) &&
                     ($(this).isBefore($dates[i + 1]) || $dates[i + 1] === undefined)) {
-                    console.log(k);
                     if (Array.isArray(cells[i])) {
                         cells[i].push($(this))
                     } else {
@@ -84,11 +85,9 @@
             let $row = $montage.children('.montage-row').last();
             // row.forEach(function(cell, j) {
             for (let k = 0; k < column_count; k++) {
-                console.log(i, k)
                 cell = row[k] ? row[k] :
                     '<img src="assets/owner/images/montage-filler.jpeg" alt="cover art" class="filler cover img-responsive">';
                 if (cell) {
-                    // console.log(cell);
                     $row.append(cell);
 
                 } else {
@@ -97,16 +96,30 @@
             }
         })
 
-        let availWidth = width - column_count * margin * 2;
-        $montage.width(width);
+        // let dimension = column_count > row_count ? column_count : row_count;
+        let dimension = 0;
+        // let units = windowHeight > windowWidth ? windowWidth : windowHeight;
+        let units = 0;
+        // let availUnits;
+        if (windowHeight > windowWidth) {
+            dimension = column_count;
+            units = windowWidth
+        } else {
+            dimension = row_count;
+            units = windowHeight;
+        }
+        console.log(dimension, units);
+        let availUnits = units - dimension * margin * 2;
+        let coverSize = availUnits / dimension;
+        $montage.width((coverSize + margin * 2) * column_count);
+        $montage.height((coverSize + margin * 2) * row_count);
         $('.cover, .svg-cover').css("margin", margin)
-            .width(availWidth / column_count)
-            .height(availWidth / column_count);
+            .width(availUnits / dimension)
+            .height(availUnits / dimension);
 
         $('.filler').click(function () {
             $('.selected').removeClass('selected');
             $(this).addClass('selected');
-            console.log(this);
         })
 
         $('.move').click(function () {
@@ -129,7 +142,7 @@
         });
 
 
-        $('.montage-row').height(width / row_count).width(width);
+        $('.montage-row').height(coverSize + 10).width((coverSize + 10) * column_count + 1);
         $montage.show();
 
     });
