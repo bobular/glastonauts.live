@@ -4,9 +4,9 @@
 
 {% cover {~~filename~~: ~~~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Bruce Q~~, ~~ttl~~: ~~Q'ing Up For Country~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/0Kf7H0JIbg9L6r2h1CpWw9~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
 
-{% cover {~~filename~~: ~~ch~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Community Hour~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~ch~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Community Hour~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/community-hour-2021-01-17-talk-radio/~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~The Indie Fix~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#2F6C9A~~} %}
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~The Indie Fix~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/the-indie-fix-with-josh-2021-01-17-talk-radio/~~, ~~bg~~: ~~#2F6C9A~~} %}
 
 ### Saturday January 16
 
@@ -16,16 +16,16 @@
 
 {% cover {~~filename~~: ~~~~, ~~time~~: ~~7:30pm~~, ~~cntr~~: ~~Sir Styles~~, ~~ttl~~: ~~A Special Thing~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF8169~~} %}
 
-{% cover {~~filename~~: ~~20210116-cd-hour-of-power~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~CD~~, ~~ttl~~: ~~Techno Hour~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#2F6C9A~~} %}
+{% cover {~~filename~~: ~~20210116-cd-hour-of-power~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~CD~~, ~~ttl~~: ~~Techno Hour~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/cd-the-hour-of-power/~~, ~~bg~~: ~~#2F6C9A~~} %}
 
 
 ### Friday January 15
 
 {% cover {~~filename~~: ~~20210115-djtwice-sa-bangers~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Gary P (DJ Twice)~~, ~~ttl~~: ~~South African Bangers~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/6BDYj7ijGkkGh17WqSE0sG~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~Friday Night Disco~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#B069FF~~} %}
+{% cover {~~filename~~: ~~~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~Friday Night Disco~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/josh-friday-night-disco/~~, ~~bg~~: ~~#B069FF~~} %}
 
-{% cover {~~filename~~: ~~20210115-danw-dr~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~Dan W~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#69B8FF~~} %}
+{% cover {~~filename~~: ~~20210115-danw-dr~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~Dan W~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/dan-w-dr-winterbottom/~~, ~~bg~~: ~~#69B8FF~~} %}
 
 
 
