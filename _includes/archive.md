@@ -4,7 +4,7 @@
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210117~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Bruce Q~~, ~~ttl~~: ~~Q'ing Up For Country~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/0Kf7H0JIbg9L6r2h1CpWw9~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
 
-{% cover {~~filename~~: ~~ch~~, ~~date~~: ~~20210117~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Community Hour~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/community-hour-2021-01-17-talk-radio/~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~ch~~, ~~date~~: ~~20210117~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Community Hour~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~https://open.spotify.com/playlist/2VgNvmromnMO67O0a0ojwC~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/community-hour-2021-01-17-talk-radio/~~, ~~bg~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210117~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~The Indie Fix~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/the-indie-fix-with-josh-2021-01-17-talk-radio/~~, ~~bg~~: ~~#2F6C9A~~} %}
 
