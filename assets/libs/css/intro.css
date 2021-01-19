@@ -93,9 +93,9 @@
     flex-grow: 3;
 }
 
-.schedule .img-responsive {
+/* .schedule .img-responsive {
     max-width: 80%;
-}
+} */
 
 .schedule hr {
     max-width: 70%;

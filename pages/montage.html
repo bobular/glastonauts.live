@@ -1,0 +1,14 @@
+---
+layout: tools
+title: "Montage generator"
+description: "Glastonauts' montage generator"
+permalink: ./montage.html
+---
+
+<div class="schedule">
+  {% capture my_include %}{% include schedule.md %}{% endcapture %}
+  {{ my_include | markdownify }}
+</div>
+
+<div id="montage" class="montage-container">
+</div>

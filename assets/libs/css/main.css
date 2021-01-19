@@ -164,25 +164,16 @@ a.pink:focus {
     margin-right: 0;
 }
 
+.cover,
 .svg-cover,
 .img-responsive {
-    max-width: 80%;
+    width: 80%;
+    max-width:600px;
     margin-top: 20px;
     margin-bottom: 40px;
     animation: none;
     /* animation: fadeIn ease 2s; */
 }
-
-/* @keyframes fadeIn {
-    0% {
-        opacity: 0;
-    }
-    ;
-    100% {
-        opacity: 1;
-    }
-    ;
-} */
 
 @media only screen and (min-width: 768px) {
     .navbar-custom {
@@ -671,4 +662,12 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #0085a1;
+}
+
+
+/* TOOLS */
+
+.montage-container {
+    background-color: #E7EFF1;
+    padding: 20px;
 }
