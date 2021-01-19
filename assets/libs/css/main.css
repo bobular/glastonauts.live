@@ -167,7 +167,7 @@ a.pink:focus {
 .cover,
 .svg-cover,
 .img-responsive {
-    max-width: 80%;
+    max-width:600px;
     margin-top: 20px;
     margin-bottom: 40px;
     animation: none;
