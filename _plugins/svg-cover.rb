@@ -1,4 +1,6 @@
+require 'net/http'
 require 'json'
+require 'date'
 
 class SvgCoverTag < Liquid::Tag
   def initialize(tag_name, input, tokens)
@@ -28,7 +30,9 @@ class SvgCoverTag < Liquid::Tag
     time = "zzzzz"
     type = "playlist"
     bg = "#29878D"
-
+    dateString = "20000101"
+    today = Date.today;
+    # mixcloudApiUrl = "https://api.mixcloud.com/Glastonauts_Live/the-indie-fix-with-josh-2021-01-17-talk-radio/"
     
     # Attempt to parse the JSON if any is passed in
     begin
@@ -39,17 +43,17 @@ class SvgCoverTag < Liquid::Tag
         cntr = jdata['cntr'].strip
         ttl = jdata['ttl'].strip
         time = jdata['time'].strip
-        # archive = jdata['archive'].strip
         settype = jdata['settype'].strip
         spotify = jdata['spotify'].strip
         mixcloud = jdata['mixcloud'].strip
         filename = jdata['filename'].strip
-
+        
         bg = jdata['bg'].strip
         
         string_length = 8
         randId = rand(36**string_length).to_s(36)
         
+        dateString = jdata['date'] ? jdata['date'].strip : dateString
         
       end
 
@@ -116,7 +120,22 @@ class SvgCoverTag < Liquid::Tag
     end 
 
     if mixcloud && mixcloud.length > 0
-      output += "<a href='#{mixcloud}' target='_blank' title='Go to show recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>"
+      date = Date.strptime(dateString,"%Y%m%d")
+      daysDiff = (date...today).count
+
+      if daysDiff > 7
+        output += "<a href='#{mixcloud}' target='_blank' title='Go to show recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>"
+      else
+        apiUrl = mixcloud.gsub('//www.', '//api.')
+        apiUri = URI(apiUrl)
+        mixcloudResponse = Net::HTTP.get(apiUri)
+        mixcloudData = JSON.parse(mixcloudResponse)
+        
+        if mixcloudData["key"]
+          output += "<a href='#{mixcloud}' target='_blank' title='Go to show recording'> <i class='fab fa-mixcloud fa-inverse'></i></a>"
+        end  
+        # output += " #{daysDiff}"
+      end
     end
     output += "</h4><h5>#{showTypes[settype]}</h5>"
     
