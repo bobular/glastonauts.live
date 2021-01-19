@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+}
+.montage-container {
+    /* margin:10px; */
+    /* width: 800px; */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+
+.svg-cover {
+    font-family: 'Rubik', 'Open Sans', sans-serif;
+}
+
+.cover,
+.svg-cover {
+    box-sizing: border-box;
+}
+
+.selected {
+    border: 4px solid rebeccapurple;
+}
+
+.filler {
+    cursor: pointer;
+}
+
+
+/* Toolbar */
+
+.toolbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    bottom: 0;
+    top: 0;
+    right: 0;
+    width: 60px;
+    min-height: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.toolbar button {
+    /* float:  */
+    height: 50px;
+    width: 50px;
+    /* display: inline-block; */
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: black;
+}
+
+.toolbar .move {
+    cursor: pointer;
+}
+
+.main {
+    padding: 16px;
+    margin-bottom: 30px;
+}
