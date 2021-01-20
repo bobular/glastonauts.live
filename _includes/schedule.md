@@ -1,3 +1,10 @@
+### Thursday January 21
+
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210121~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Beth~~, ~~ttl~~: ~~Playing Games~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
+
+{% cover {~~filename~~: ~~jomo-gurj-quiz-thing~~, ~~date~~: ~~20210121~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Jomo & Gurj~~, ~~ttl~~: ~~Themed quizzy thing 4~~, ~~settype~~: ~~quiz~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+
 ### Friday January 22
 
 
@@ -16,7 +23,7 @@
 
 {% cover {~~filename~~: ~~20210123-tez-brazil~~, ~~date~~: ~~20210123~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Alan Brazil~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210123~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Humf & Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#E3BD4D~~} %}
+{% cover {~~filename~~: ~~20210123-andy-mic-tech~~, ~~date~~: ~~20210123~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Humf & Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#E3BD4D~~} %}
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210123~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Night Drive~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#69B8FF~~} %}
 
