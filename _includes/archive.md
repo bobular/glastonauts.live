@@ -16,7 +16,7 @@
 
 {% cover {~~filename~~: ~~20210116-tez-acid-jazz~~, ~~date~~: ~~20210116~~, ~~time~~: ~~4:30pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Acid Jazz Reflux~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/3VN3etNuP86zgHpwyzD4oC~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210116~~, ~~time~~: ~~7:30pm~~, ~~cntr~~: ~~Sir Styles~~, ~~ttl~~: ~~A Special Thing~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF8169~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210116~~, ~~time~~: ~~7:30pm~~, ~~cntr~~: ~~Sir Styles~~, ~~ttl~~: ~~A Special Thing~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/LemoniRadio/lemoniradio-live-misfits-presents-sir-styles/~~, ~~bg~~: ~~#FF8169~~} %}
 
 {% cover {~~filename~~: ~~20210116-cd-hour-of-power~~, ~~date~~: ~~20210116~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~CD~~, ~~ttl~~: ~~Hour of Power~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/cd-the-hour-of-power/~~, ~~bg~~: ~~#2F6C9A~~} %}
 
