@@ -25,7 +25,7 @@
 
 {% cover {~~filename~~: ~~20210123-andy-mic-tech~~, ~~date~~: ~~20210123~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Humf & Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#E3BD4D~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210123~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Night Drive~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#69B8FF~~} %}
+{% cover {~~filename~~: ~~20210123-bob-night-drive~~, ~~date~~: ~~20210123~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Night Drive~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#69B8FF~~} %}
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210123~~, ~~time~~: ~~12:30am~~, ~~cntr~~: ~~numbernaut~~, ~~ttl~~: ~~not doing very well~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#2F6C9A~~} %}
 
