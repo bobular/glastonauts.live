@@ -27,7 +27,7 @@
 
 {% cover {~~filename~~: ~~20210123-bob-night-drive~~, ~~date~~: ~~20210123~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Night Drive~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#69B8FF~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210123~~, ~~time~~: ~~12:30am~~, ~~cntr~~: ~~numbernaut~~, ~~ttl~~: ~~not doing very well~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#2F6C9A~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210123~~, ~~time~~: ~~12:00am~~, ~~cntr~~: ~~numbernaut~~, ~~ttl~~: ~~not doing very well~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#2F6C9A~~} %}
 
 
 ### Sunday January 24
