@@ -144,10 +144,6 @@ class SvgCoverTag < Liquid::Tag
     if filename && filename.length > 0
       output += "<img src=\"assets/owner/images/#{filename}.jpeg\" alt=\"cover art\" class=\"cover img-responsive\">"
     else
-      # output += "<object id=\"#{randId}\" class=\"svg-cover img-responsive\" data-contributor=\"#{cntr}\" data-settitle=\"#{ttl}\" data-settype=\"#{settype}\" data-bg=\"#{bg}\""
-      # output += "data=\"assets/svg/glastonaut.svg\" type=\"image/svg+xml\"/>"
-      # output += '</object>'
-      # output += "<a class=\"download-button link-button pink\" data-target=\"#{randId}\" data-toggle=\"tooltip\" data-original-title=\"Download\"> Dw </a>"
       output += inlineSvg
     end
     output += '{:/}'

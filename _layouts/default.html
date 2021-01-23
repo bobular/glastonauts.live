@@ -2,6 +2,12 @@
 <html lang="en">
 
 <head>
+    <style>
+        :root {
+          --header-bg-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
+          --header-fg-image: url('{{ site.baseurl }}/{{ page.header-logo-img }}');
+        }
+    </style>
     {% include head.html %}
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">

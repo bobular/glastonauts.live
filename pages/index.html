@@ -1,15 +1,16 @@
 ---
 layout: page
-title:
-description: "Glastonauts' community lockdown radio"
+title: "Glastonauts"
+description: "Community lockdown radio"
 header-img: "assets/owner/hero/home-header-bg.png"
 header-logo-img: "assets/owner/hero/home-header-fg.png"
 footer-img: "assets/owner/hero/footer-bg.png"
 footer-logo-img: "assets/owner/tertiary_logo.svg"
 permalink: ./index.html
+header-class: "schedule-header"
 ---
 
-    <div id="myradiodivcontainer" style='height:85px; width:100%;
+    <div id="myradiodivcontainer" style='height:85px;
     -webkit-border-top-left-radius: 0;
       -webkit-border-top-right-radius: 0;
       -webkit-border-bottom-right-radius: 0;
@@ -23,8 +24,7 @@ permalink: ./index.html
       border-bottom-right-radius: 0;
       border-bottom-left-radius: 0;
       border: 0px none rgb(255, 255, 255);
-      margin-top: 80px;
-      margin-bottom: 40px';
+      margin: 20px 15px 0px 15px;'
       >
     </div>
 
@@ -76,12 +76,12 @@ permalink: ./index.html
   <div class="flex-grid">
 
     <div class="flex-col schedule">
-      <h2>Line Up</h2>
+      <h2 id="lineup">Line Up</h2>
       {% capture my_include %}{% include schedule.md %}{% endcapture %}
       {{ my_include | markdownify }}
 
       <div style="margin-top: 30px;">
-        <a class="link-button pink" href="archive.html" id="direct-url" data-toggle="tooltip" target="_blank"
+        <a class="link-button primary" href="archive.html" id="direct-url" data-toggle="tooltip" target="_blank"
         title="To the archives"> To the archives </a>
       </div>
 
