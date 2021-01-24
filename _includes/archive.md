@@ -1,3 +1,38 @@
+### Sunday January 24
+
+{% cover {~~filename~~: ~~20210124-cd-prog-princess-13~~, ~~date~~: ~~20210124~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~CD~~, ~~ttl~~: ~~The Prog and the Princess 13~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/cd-the-prog-the-princess-part-13/~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210124~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~Stuart D~~, ~~ttl~~: ~~2020 Albums on Loop Part II~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/21svqBfzH4aTm1ab3Q8zkN~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
+
+
+### Saturday January 23
+
+{% cover {~~filename~~: ~~20210123-waxy-rubber-bands~~, ~~date~~: ~~20210123~~, ~~time~~: ~~2:00pm~~, ~~cntr~~: ~~Waxy~~, ~~ttl~~: ~~Rubber Bands~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/3LIPxX3ESQXvDyQCTr9HB2~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20210123-tez-brazil~~, ~~date~~: ~~20210123~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Alan Brazil~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/4F4CPGBevYpraLLm1dgy4M~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20210123-andy-mic-tech~~, ~~date~~: ~~20210123~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Humf & Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#E3BD4D~~} %}
+
+{% cover {~~filename~~: ~~20210123-bob-night-drive~~, ~~date~~: ~~20210123~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Night Drive~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/bob-night-drive/~~, ~~bg~~: ~~#69B8FF~~} %}
+
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210123~~, ~~time~~: ~~12:30am~~, ~~cntr~~: ~~numbernaut~~, ~~ttl~~: ~~not doing very well~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/numbernaut-not-doing-very-well/~~, ~~bg~~: ~~#2F6C9A~~} %}
+
+
+### Friday January 22
+
+{% cover {~~filename~~: ~~20200408-2pm~~, ~~date~~: ~~20210122~~, ~~time~~: ~~1:00pm~~, ~~cntr~~: ~~Em~~, ~~ttl~~: ~~Aussie Songs~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/2GF67kaFKsEbFJLYoas1yB~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20200407-2pm~~, ~~date~~: ~~20210122~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Brocc Oli~~, ~~ttl~~: ~~Lake Placid Blue~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/2f6QwnoQTox3lWxNmbSaCU~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210122~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~Friday Night Disco Part II~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/josh-friday-night-disco-part-ii/~~, ~~bg~~: ~~#B069FF~~} %}
+
+
+### Thursday January 21
+
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210121~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Beth~~, ~~ttl~~: ~~Playing Games~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/4yfdCPPHCDrPFFenwANvpl~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
+
+{% cover {~~filename~~: ~~jomo-gurj-quiz-thing~~, ~~date~~: ~~20210121~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Jomo & Gurj~~, ~~ttl~~: ~~Themed quizzy thing 4~~, ~~settype~~: ~~quiz~~, ~~spotify~~: ~~https://open.spotify.com/playlist/6bAbp5dvrCyq8JxRP7T5EO~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
 ### Sunday January 17
 
 {% cover {~~filename~~: ~~20200612-1pm~~, ~~date~~: ~~20210117~~, ~~time~~: ~~12:00pm~~, ~~cntr~~: ~~Judd The Stud~~, ~~ttl~~: ~~Cowboy~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/3mR3Cfdp6TA2KmxkFrMjQw~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
