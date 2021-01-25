@@ -11,7 +11,7 @@
 
 {% cover {~~filename~~: ~~20210123-tez-brazil~~, ~~date~~: ~~20210123~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Alan Brazil~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/4F4CPGBevYpraLLm1dgy4M~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20210123-andy-mic-tech~~, ~~date~~: ~~20210123~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Humf & Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#E3BD4D~~} %}
+{% cover {~~filename~~: ~~20210123-andy-mic-tech~~, ~~date~~: ~~20210123~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Humf & Andy Davies~~, ~~ttl~~: ~~Mic Tech 1....2~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/humf-andy-davies-mic-tech-12/~~, ~~bg~~: ~~#E3BD4D~~} %}
 
 {% cover {~~filename~~: ~~20210123-bob-night-drive~~, ~~date~~: ~~20210123~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Night Drive~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/bob-night-drive/~~, ~~bg~~: ~~#69B8FF~~} %}
 
