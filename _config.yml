@@ -21,7 +21,7 @@ search: true
 share: true
 comments: true
 
-icecast: "http://glastonauts.live:8000"
+icecast: "https://glastonauts.live/stream"
 
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
 readtime: true
