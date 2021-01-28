@@ -47,7 +47,7 @@
 ### Saturday January 16
 
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210116~~, ~~time~~: ~~1:30pm~~, ~~cntr~~: ~~Family Q~~, ~~ttl~~: ~~Ready Steady Pop!~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210116~~, ~~time~~: ~~1:30pm~~, ~~cntr~~: ~~Family Q~~, ~~ttl~~: ~~Ready Steady Pop!~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/6QwoR0HS1NmDxNpLemLPLO~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
 
 {% cover {~~filename~~: ~~20210116-tez-acid-jazz~~, ~~date~~: ~~20210116~~, ~~time~~: ~~4:30pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Acid Jazz Reflux~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/3VN3etNuP86zgHpwyzD4oC~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
 
