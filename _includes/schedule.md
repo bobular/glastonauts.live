@@ -15,7 +15,7 @@
 ### Sunday January 31
 
 
-{% cover {~~filename~~: ~~20200423-2pm~~, ~~date~~: ~~20210131~~, ~~time~~: ~~2:00pm~~, ~~cntr~~: ~~Ollie~~, ~~ttl~~: ~~Cool Vibrations~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20200423-2pm~~, ~~date~~: ~~20210131~~, ~~time~~: ~~1:00pm~~, ~~cntr~~: ~~Ollie~~, ~~ttl~~: ~~Cool Vibrations~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210131~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Bren~~, ~~ttl~~: ~~Who Sampled Me?~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
 
