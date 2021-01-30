@@ -19,4 +19,4 @@
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210131~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Bren~~, ~~ttl~~: ~~Who Sampled Me?~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
 
-<!-- {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210131~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Kez & Tez~~, ~~ttl~~: ~~The Tez & Kez Show~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %} -->
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210131~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Bren~~, ~~ttl~~: ~~We Sampled You!~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
