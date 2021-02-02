@@ -1,3 +1,25 @@
+### Sunday January 31
+
+{% cover {~~filename~~: ~~20200423-2pm~~, ~~date~~: ~~20210131~~, ~~time~~: ~~1:00pm~~, ~~cntr~~: ~~Ollie~~, ~~ttl~~: ~~Cool Vibrations~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/69LPs2hYkdIMtPaXVp2fHl~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210131~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Bren~~, ~~ttl~~: ~~Who Sampled Me?~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/4GjdjTFLn0hbPZqny5IUGc~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
+
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210131~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Bren~~, ~~ttl~~: ~~We Sampled You!~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/57SToZU7ggXvWZP5QINe0m~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
+
+
+### Saturday January 30
+
+{% cover {~~filename~~: ~~20200409-2pm~~, ~~date~~: ~~20210130~~, ~~time~~: ~~1:00pm~~, ~~cntr~~: ~~Esther~~, ~~ttl~~: ~~Beginning at the End~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/4iOebFbVchFxQn8WL3Uj9D~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20210130-fat-tez-junglist-french~~, ~~date~~: ~~20210130~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Junglist vs French classics~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/6X7YqdkpkQQ9ULuVDv6hqA~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210130~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Why So Serious?~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/andy-davies-why-so-serious/~~, ~~bg~~: ~~#69B8FF~~} %}
+
+{% cover {~~filename~~: ~~20210130-nathan-this-blows~~, ~~date~~: ~~20210130~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~Nathan~~, ~~ttl~~: ~~This Blows!!!~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/2ZoZYanbFQQo1PO36H0Srq~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210130~~, ~~time~~: ~~12:00am~~, ~~cntr~~: ~~numbernaut~~, ~~ttl~~: ~~half-an-hour adventure~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/numbernaut-half-an-hour-adventure/~~, ~~bg~~: ~~#FF8169~~} %}
+
+
 ### Sunday January 24
 
 {% cover {~~filename~~: ~~20210124-cd-prog-princess-13~~, ~~date~~: ~~20210124~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~CD~~, ~~ttl~~: ~~The Prog and the Princess 13~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/cd-the-prog-the-princess-part-13/~~, ~~bg~~: ~~~~} %}
