@@ -1,0 +1,463 @@
+---
+---
+
+/* Main */
+
+body {
+    font-family: 'Rubik', 'Open Sans', sans-serif;
+    font-size: 18pt;
+    color: #3B5658;
+    background-color: #D9E7E8;
+    -webkit-tap-highlight-color: #0085a1;
+}
+
+p {
+    line-height: 1.5;
+    margin: 30px 0;
+    a {
+        text-decoration: none;
+    }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Rubik', 'Open Sans', sans-serif;
+    font-weight: 800;
+}
+
+h2 {
+    font-size: 40pt;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 20pt;
+    font-weight: 300;
+}
+
+h4 {
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+h5 {
+    font-weight: normal;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: normal;
+    &:hover,
+    &:focus {
+        text-shadow: none;
+        color: #40E2ED;
+        outline: none;
+        text-decoration: none;
+    }
+}
+
+
+/* Navbar */
+
+.navbar-custom {
+    background: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    margin: 0;
+    z-index: 3;
+    .navbar-brand,
+    .nav li a {
+        font-size: 14pt;
+    }
+}
+
+.navbar-header {
+    height: 55px;
+    background-color: #2F6C9A;
+    color: #ffffff;
+}
+
+.navbar-nav {
+    background-color: #2F6C9A;
+    color: #ffffff;
+}
+
+.navbar-default .navbar-toggle {
+    text-shadow: none;
+    border: none;
+    /* padding: 4px 15px; */
+    margin-right: 15px;
+    &:focus,
+    &:hover {
+        outline: 0;
+        color: #ffffff;
+        transition: color .3s;
+        text-shadow: none;
+    }
+}
+
+
+/* Headrr */
+
+
+/* Footer */
+
+
+/* Content */
+
+.container-body {
+    padding-left: 0;
+    padding-right: 0;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex-grid {
+    display: flex;
+    flex-flow: wrap-reverse;
+    justify-content: space-between;
+}
+
+.flex-col,
+.faul {
+    margin-left: 0px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.flex-col.schedule {
+    flex-grow: 3;
+}
+
+.schedule hr {
+    max-width: 70%;
+    margin-left: 0;
+    border-color: #FFFFFF;
+}
+
+div.text-playlist {
+    display: none;
+    font-size: 15px;
+}
+
+.text-playlist ol {
+    margin-block-start: 0em;
+    padding-inline-start: 1em;
+}
+
+.expand {
+    cursor: pointer;
+}
+
+
+/* Buttons */
+
+.link-button {
+    cursor: pointer;
+    display: inline-block;
+    white-space: nowrap;
+    background: url('/assets/svg/primary_button.svg') no-repeat;
+    background-size: 100% 100%;
+    color: #fff;
+    font-size: 16pt;
+    line-height: 50px;
+    font-family: 'Rubik', 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    width: 250px;
+    height: 60px;
+    text-align: center;
+    margin-bottom: 15px;
+    &.primary {
+        background: url('/assets/svg/primary_button.svg') no-repeat;
+        background-size: 100% 100%;
+    }
+    &.secondary {
+        background: url('/assets/svg/secondary_button.svg') no-repeat;
+        background-size: 100% 100%;
+    }
+}
+
+a {
+    &.primary {
+        &:hover,
+        &:focus {
+            color: #AF146E;
+        }
+    }
+    &.secondary {
+        &:hover,
+        &:focus {
+            color: #40E2ED;
+        }
+    }
+}
+
+.altlink {
+    color: #29878D;
+}
+
+.schedule hr {
+    display: none;
+}
+
+.fa,
+.fab {
+    color: #349FA6;
+}
+
+.row.no-margin {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+
+/* Covers */
+
+.cover,
+.svg-cover,
+.img-responsive {
+    width: 100%;
+    max-width: 600px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    animation: none;
+}
+
+
+/* player */
+
+#myradiodivcontainer {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1060px;
+}
+
+@media only screen and (min-width: 768px) {
+    .navbar-custom {
+        background: #2F6C9A;
+        border-bottom: 1px solid transparent;
+        .navbar-brand {
+            color: white;
+            &:hover,
+            &:focus {
+                color: rgba(255, 255, 255, 0.8);
+            }
+        }
+        .nav li a {
+            color: white;
+            &:hover,
+            &:focus {
+                color: rgba(255, 255, 255, 0.8);
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: 1170px) {
+    .navbar-custom {
+        transition: background-color 0.3s;
+        transform: translate3d(0, 0, 0);
+        backface-visibility: hidden;
+        &.is-fixed {
+            /* when the user scrolls down, we hide the header right above the viewport */
+            position: fixed;
+            top: -70px;
+            background-color: #2F6C9A;
+            transition: transform 0.3s;
+            .navbar-brand {
+                color: #ffffff;
+                &:hover,
+                &:focus {
+                    color: #3B5658;
+                }
+            }
+            .nav li a {
+                color: #ffffff;
+                &:hover,
+                &:focus {
+                    color: #FF69B3;
+                }
+            }
+        }
+        &.is-visible {
+            /* if the user changes the scrolling direction, we show the header */
+            -webkit-transform: translate3d(0, 100%, 0);
+            -moz-transform: translate3d(0, 100%, 0);
+            -ms-transform: translate3d(0, 100%, 0);
+            -o-transform: translate3d(0, 100%, 0);
+            transform: translate3d(0, 100%, 0);
+        }
+    }
+}
+
+.schedule-container,
+.archive-container,
+.other-container {
+    position: relative;
+    width: 100%;
+    max-width: 1060px;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 2rem;
+}
+
+.header {
+    background: var(--header-bg-image) no-repeat center bottom;
+    background-color: transparent;
+    background-attachment: scroll;
+    background-size: cover;
+    margin-top: 50px;
+    height: 150px;
+    position: relative;
+}
+
+.footer-bg {
+    background-color: transparent;
+    background-attachment: scroll;
+    background-size: cover;
+    margin-top: 50px;
+    height: 150px;
+    position: relative;
+    background-size: contain;
+    width: 100%;
+    height: 0;
+    padding-top: 22.17%;
+}
+
+.footer-logo {
+    background: no-repeat center center;
+    background-attachment: scroll;
+    background-size: 180px;
+    height: 80px;
+    width: 100%;
+    background-color: #65B2B6;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.header-fg {
+    background: var(--header-fg-image) no-repeat center center;
+    background-attachment: scroll;
+    background-size: contain;
+    height: 150px;
+}
+
+.subheading {
+    color: #ffffff;
+    background-color: #349FA6;
+    text-align: center;
+    text-shadow: none;
+    font-size: 14pt;
+    height: 55px;
+    line-height: 55px;
+}
+
+@media only screen and (min-width: 768px) {
+    .header,
+    .header-fg,
+    .footer-bg {
+        height: 440px;
+    }
+    .footer-logo {
+        height: 140px;
+        background-size: 25%;
+    }
+}
+
+@media only screen and (min-width: 2100px) {
+    .footer-bg {
+        height: 540px;
+    }
+}
+
+footer {
+    padding: 50px 0 0 0;
+    background-color: transparent;
+    .copyright {
+        font-size: 10pt;
+        text-align: center;
+        background-color: #349FA6;
+        padding: 0;
+        margin-top: 0;
+    }
+}
+
+.copyright-text {
+    color: #ffffff;
+    margin: 10px 0;
+    >.h6 {
+        font-weight: normal !important;
+    }
+}
+
+
+/* New mobile layout */
+
+#lineup,
+#listen {
+    margin-top: 45px;
+    margin-bottom: 40px;
+}
+
+@media only screen and (max-width: 768px) {
+    #myradiodivcontainer {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    #listen {
+        margin-top: 60px;
+        margin-bottom: 30px;
+    }
+    .link-button {
+        width: 100%;
+    }
+    h2 {
+        margin-top: 0;
+        font-size: 50pt;
+    }
+    h3 {
+        margin-top: 0;
+        margin-bottom: 40px;
+        font-size: 22pt;
+    }
+    .header.schedule-header {
+        background: url('/assets/owner/hero/header-mobile.jpeg') no-repeat center bottom;
+        height: 336px;
+        background-size: 100%;
+        background-color: #28396D;
+    }
+    .header-fg.schedule-header {
+        background: none;
+    }
+    .schedule-container,
+    .archive-container,
+    .other-container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    div.text-playlist {
+        font-size: 12px;
+    }
+}
+
+
+/* TOOLS */
+
+.montage-container {
+    background-color: #E7EFF1;
+    padding: 20px;
+}
