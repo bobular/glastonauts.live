@@ -1,3 +1,33 @@
+### Sunday February 7
+
+
+{% cover {~~filename~~: ~~20200520-4pm~~, ~~date~~: ~~20210207~~, ~~time~~: ~~11:00am~~, ~~cntr~~: ~~Bren~~, ~~ttl~~: ~~Acoustic Vibes~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/3ExBGTcEPYrAThqCPQ5Ct3~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20200618-4pm~~, ~~date~~: ~~20210207~~, ~~time~~: ~~2:00pm~~, ~~cntr~~: ~~Stuart D~~, ~~ttl~~: ~~Lockdown Nordics~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/7ASM2ZYMlCFOcoWy9FXAhz~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20210207-kez-tez-movie-night~~, ~~date~~: ~~20210207~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Kez and Tez~~, ~~ttl~~: ~~Tez and Kez's Movie soundtrack show~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~https://open.spotify.com/playlist/3TiolCP1xHiLMb14lzc9ww~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/kez-and-tez-movie-night-talk-radio/~~, ~~bg~~: ~~~~} %}
+
+
+### Saturday February 6
+
+{% cover {~~filename~~: ~~20200430-1pm~~, ~~date~~: ~~20210206~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Kathey~~, ~~ttl~~: ~~Afternoon tunes~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/5JTQgMxRMJHUjVnsE1OHol~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20210206-phat-takeover-4~~, ~~date~~: ~~20210206~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~Phat Fest Takeover 4~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#2F6C9A~~} %}
+
+{% cover {~~filename~~: ~~20210206-phat-takeover-4~~, ~~date~~: ~~20210206~~, ~~time~~: ~~8:30pm~~, ~~cntr~~: ~~Dave O~~, ~~ttl~~: ~~Phat Fest Takeover 4~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20210206-phat-takeover-4~~, ~~date~~: ~~20210206~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Dan W~~, ~~ttl~~: ~~Phat Fest Takeover 4~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+
+### Friday February 5
+
+{% cover {~~filename~~: ~~20200508-4pm~~, ~~date~~: ~~20210205~~, ~~time~~: ~~2:00pm~~, ~~cntr~~: ~~Em~~, ~~ttl~~: ~~glastonauts undercover~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/4WjYQUZB9gHSymn5onC7m1~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20210205-tez-break-tuna~~, ~~date~~: ~~20210205~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Break Tuna~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/7dmifC9SXk6wibogwiAjUe~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20210117-ioannis-mmxx~~, ~~date~~: ~~20210205~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Ioannis~~, ~~ttl~~: ~~MMXX~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+
 ### Sunday January 31
 
 {% cover {~~filename~~: ~~20200423-2pm~~, ~~date~~: ~~20210131~~, ~~time~~: ~~1:00pm~~, ~~cntr~~: ~~Ollie~~, ~~ttl~~: ~~Cool Vibrations~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/69LPs2hYkdIMtPaXVp2fHl~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
