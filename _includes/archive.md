@@ -1,6 +1,5 @@
 ### Sunday February 7
 
-
 {% cover {~~filename~~: ~~20200520-4pm~~, ~~date~~: ~~20210207~~, ~~time~~: ~~11:00am~~, ~~cntr~~: ~~Bren~~, ~~ttl~~: ~~Acoustic Vibes~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/3ExBGTcEPYrAThqCPQ5Ct3~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~20200618-4pm~~, ~~date~~: ~~20210207~~, ~~time~~: ~~2:00pm~~, ~~cntr~~: ~~Stuart D~~, ~~ttl~~: ~~Lockdown Nordics~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/7ASM2ZYMlCFOcoWy9FXAhz~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
@@ -12,11 +11,11 @@
 
 {% cover {~~filename~~: ~~20200430-1pm~~, ~~date~~: ~~20210206~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Kathey~~, ~~ttl~~: ~~Afternoon tunes~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/5JTQgMxRMJHUjVnsE1OHol~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20210206-phat-takeover-4~~, ~~date~~: ~~20210206~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~Phat Fest Takeover 4~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#2F6C9A~~} %}
+{% cover {~~filename~~: ~~20210206-phat-takeover-4~~, ~~date~~: ~~20210206~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Josh~~, ~~ttl~~: ~~Phat Fest Takeover 4~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/josh-phat-fest-takeover-part-4/~~, ~~bg~~: ~~#2F6C9A~~} %}
 
 {% cover {~~filename~~: ~~20210206-phat-takeover-4~~, ~~date~~: ~~20210206~~, ~~time~~: ~~8:30pm~~, ~~cntr~~: ~~Dave O~~, ~~ttl~~: ~~Phat Fest Takeover 4~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20210206-phat-takeover-4~~, ~~date~~: ~~20210206~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Dan W~~, ~~ttl~~: ~~Phat Fest Takeover 4~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20210206-phat-takeover-4~~, ~~date~~: ~~20210206~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Dan W~~, ~~ttl~~: ~~Phat Fest Takeover 4~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/dan-w-phat-fest-takeover-part-4/~~, ~~bg~~: ~~~~} %}
 
 
 ### Friday February 5
@@ -25,7 +24,7 @@
 
 {% cover {~~filename~~: ~~20210205-tez-break-tuna~~, ~~date~~: ~~20210205~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Break Tuna~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/7dmifC9SXk6wibogwiAjUe~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20210117-ioannis-mmxx~~, ~~date~~: ~~20210205~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Ioannis~~, ~~ttl~~: ~~MMXX~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20210117-ioannis-mmxx~~, ~~date~~: ~~20210205~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Ioannis~~, ~~ttl~~: ~~MMXX~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/ioannis-mmxx/~~, ~~bg~~: ~~~~} %}
 
 
 ### Sunday January 31
