@@ -16,7 +16,7 @@ class SvgCoverTag < Liquid::Tag
 			'playlist' => 'Playlist',
 			'repeat' => 'Playlist Replay',
 			'dgt-dj' => 'Live DJ Set',
-			'vin-dj' => 'Live DJ Set',
+      'vin-dj' => 'Vinyl-Only live DJ Set',
 			'pre-dj' => 'Pre-recorded DJ Set',
 			'colab' => 'Collaborative Playlist',
 			'quiz' => 'Quiz',

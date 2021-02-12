@@ -2,7 +2,7 @@
 
 {% cover {~~filename~~: ~~20200424-5pm~~, ~~date~~: ~~20210212~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Esther~~, ~~ttl~~: ~~Cover versions~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20210212-seb-jazz-step-2~~, ~~date~~: ~~20210212~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~DJ Sebster~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20210212-seb-jazz-step-2~~, ~~date~~: ~~20210212~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~DJ Sebster~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~vin-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~20210212-tez-ez-dicc~~, ~~date~~: ~~20210212~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~DJ EZ Dicc~~, ~~ttl~~: ~~187.4 W-BALLZ~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
@@ -13,7 +13,7 @@
 
 {% cover {~~filename~~: ~~20210213-tez-blues-v-electronic~~, ~~date~~: ~~20210213~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~The Blues vs Electronic~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210213~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~DJ Wilky~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#2F6C9A~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210213~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~DJ Wilky~~, ~~ttl~~: ~~Saturday Night Kitchen Party Belters~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#2F6C9A~~} %}
 
 {% cover {~~filename~~: ~~20210213-lostlegend-dnb2k~~, ~~date~~: ~~20210213~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~LostLegend~~, ~~ttl~~: ~~DnB2k~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
