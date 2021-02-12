@@ -28,7 +28,7 @@
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210214~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210214~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~The Mess~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210214~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~The Mess~~, ~~ttl~~: ~~Downtime~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
 
 
 
