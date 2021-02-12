@@ -20,7 +20,7 @@
 
 ### Sunday February 14
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210214~~, ~~time~~: ~~11:00am~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Chill Out TBC~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210214~~, ~~time~~: ~~11:00am~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Chill Out 3~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
 
 {% cover {~~filename~~: ~~20200521-1pm~~, ~~date~~: ~~20210214~~, ~~time~~: ~~2:00pm~~, ~~cntr~~: ~~Aidywag~~, ~~ttl~~: ~~Aid is not cool~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
