@@ -21,7 +21,6 @@
 
 ### Sunday February 14
 
-
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210214~~, ~~time~~: ~~11:00am~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Chill Out 3~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/56GaZ1Zj0UQRjvEXHTbJtd~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
 
 {% cover {~~filename~~: ~~20200521-1pm~~, ~~date~~: ~~20210214~~, ~~time~~: ~~2:00pm~~, ~~cntr~~: ~~Aidywag~~, ~~ttl~~: ~~Aid is not cool~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/5h0CJqnYF4NvhomOvHCzmb~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
@@ -30,7 +29,7 @@
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210214~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210214~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~The Mess~~, ~~ttl~~: ~~Downtime~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210214~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~The Mess~~, ~~ttl~~: ~~Downtime~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#E3BD4D~~} %}
 
 
 ### Sunday February 7
