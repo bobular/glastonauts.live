@@ -4,7 +4,7 @@
 
 {% cover {~~filename~~: ~~20210212-seb-jazz-step-2~~, ~~date~~: ~~20210212~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~DJ Sebster~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~vin-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20210212-tez-ez-dicc~~, ~~date~~: ~~20210212~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~DJ EZ Dicc~~, ~~ttl~~: ~~187.4 W-BALLZ~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20210212-tez-ez-dicc~~, ~~date~~: ~~20210212~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~DJ EZ Dicc~~, ~~ttl~~: ~~187.4 W-BALLZ~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/3OZPAmdhBkaF1BlK8uEUsW~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
 
 ### Saturday February 13
