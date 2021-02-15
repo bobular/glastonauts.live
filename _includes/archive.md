@@ -27,7 +27,7 @@
 
 {% cover {~~filename~~: ~~ch~~, ~~date~~: ~~20210214~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Community Hour~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~https://open.spotify.com/playlist/2RtSXUFWsotnapjHCCzVHJ~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/community-hour-with-bob-2021-02-14-talk-radio/~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210214~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210214~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF69B3~~} %}
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210214~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~The Mess~~, ~~ttl~~: ~~Downtime~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#E3BD4D~~} %}
 
