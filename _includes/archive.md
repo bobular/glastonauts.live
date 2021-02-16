@@ -16,7 +16,7 @@
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210213~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~DJ Wilky~~, ~~ttl~~: ~~Saturday Night Kitchen Party Belters~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/dj-wilky-saturday-night-kitchen-party-belters-live-dj-set/~~, ~~bg~~: ~~#2F6C9A~~} %}
 
-{% cover {~~filename~~: ~~20210213-lostlegend-dnb2k~~, ~~date~~: ~~20210213~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~LostLegend~~, ~~ttl~~: ~~DnB2k~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20210213-lostlegend-dnb2k~~, ~~date~~: ~~20210213~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~LostLegend~~, ~~ttl~~: ~~DnB2k~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/lostlegend-dnb2k/~~, ~~bg~~: ~~~~} %}
 
 
 ### Sunday February 14
