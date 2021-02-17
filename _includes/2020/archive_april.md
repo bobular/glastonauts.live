@@ -1,3 +1,5 @@
+## April 2020
+
 ### Thursday April 30th
 ---
 
@@ -170,8 +172,6 @@
 
 #### 8pm Styles 
 ![cover art](assets/owner/images/20200418-8pm.jpeg)
-
-
 
 ### Friday April 17th
 ---
@@ -356,7 +356,6 @@
 
 #### 9pm Sir Styles (Live DJ set)
 ![cover art](assets/owner/images/20200404-8pm.jpeg)
-
 
 
 ### Friday April 3rd
