@@ -1,6 +1,8 @@
 ## February 2021
  
+
 ### Sunday February 14
+
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210214~~, ~~time~~: ~~11:00am~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Chill Out 3~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/56GaZ1Zj0UQRjvEXHTbJtd~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
 
@@ -8,7 +10,7 @@
 
 {% cover {~~filename~~: ~~ch~~, ~~date~~: ~~20210214~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Community Hour~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~https://open.spotify.com/playlist/2RtSXUFWsotnapjHCCzVHJ~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/community-hour-with-bob-2021-02-14-talk-radio/~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210214~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/andy-davies-simply-house/~~, ~~bg~~: ~~#FF69B3~~} %}
+{% cover {~~filename~~: ~~20210214-andy-davies-simply-house~~, ~~date~~: ~~20210214~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Simply House~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/andy-davies-simply-house/~~, ~~bg~~: ~~#FF69B3~~} %}
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210214~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~The Mess~~, ~~ttl~~: ~~Downtime~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/the-mess-downtime/~~, ~~bg~~: ~~#E3BD4D~~} %}
 
