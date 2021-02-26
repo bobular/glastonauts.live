@@ -10,9 +10,9 @@
 
 ### Saturday February 20
 
-{% cover {~~filename~~: ~~20200505-1pm~~, ~~date~~: ~~20210220~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Ollie~~, ~~ttl~~: ~~Eighties~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/0XjcxenaiZ2xfeFgHUdUAH~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/andy-davies-bellow-the-surface/~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20200505-1pm~~, ~~date~~: ~~20210220~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Ollie~~, ~~ttl~~: ~~Eighties~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/0XjcxenaiZ2xfeFgHUdUAH~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20210220-andy-below-surface~~, ~~date~~: ~~20210220~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF8169~~} %}
+{% cover {~~filename~~: ~~20210220-andy-below-surface~~, ~~date~~: ~~20210220~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/andy-davies-bellow-the-surface/~~, ~~bg~~: ~~#FF8169~~} %}
 
 
 ### Friday February 19
