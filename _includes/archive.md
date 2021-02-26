@@ -5,12 +5,12 @@
 
 {% cover {~~filename~~: ~~20200531-1pm~~, ~~date~~: ~~20210221~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Bruce Q~~, ~~ttl~~: ~~Chilled afternoon~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/3htuFxHYKXKl97exVJhAqx~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20210221-bob-progressions3~~, ~~date~~: ~~20210221~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Progressions 3~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~https://open.spotify.com/playlist/12owuNimQYjUOfKKKOLg22~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20210221-bob-progressions3~~, ~~date~~: ~~20210221~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Progressions 3~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~https://open.spotify.com/playlist/12owuNimQYjUOfKKKOLg22~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/bob-progressions-3/~~, ~~bg~~: ~~~~} %}
 
 
 ### Saturday February 20
 
-{% cover {~~filename~~: ~~20200505-1pm~~, ~~date~~: ~~20210220~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Ollie~~, ~~ttl~~: ~~Eighties~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/0XjcxenaiZ2xfeFgHUdUAH~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20200505-1pm~~, ~~date~~: ~~20210220~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Ollie~~, ~~ttl~~: ~~Eighties~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/0XjcxenaiZ2xfeFgHUdUAH~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/andy-davies-bellow-the-surface/~~, ~~bg~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~20210220-andy-below-surface~~, ~~date~~: ~~20210220~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF8169~~} %}
 
