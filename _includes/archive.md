@@ -1,13 +1,15 @@
 ## February 2021
 
-
 ### Sunday February 28
+
 
 {% cover {~~filename~~: ~~20200412-10am~~, ~~date~~: ~~20210228~~, ~~time~~: ~~11:00am~~, ~~cntr~~: ~~Ioannis~~, ~~ttl~~: ~~Spiritual~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/50o86yXKzlDUFM28AZqQl1~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~20210228-fat-tez-sunday-afternoon~~, ~~date~~: ~~20210228~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Sunday Afternoon~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/1h4pUoOJksuBlIyBwR4omc~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~20210228-cd-hour-of-power-2~~, ~~date~~: ~~20210228~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~CD~~, ~~ttl~~: ~~Hour of Power 2~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/cd-hour-of-power-second-sermon/~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20210228-ioannis-itch-to-mix~~, ~~date~~: ~~20210228~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~Ioannis~~, ~~ttl~~: ~~Itch to Mix~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/ioannis-itch-to-mix/~~, ~~bg~~: ~~~~} %}
 
 
 ### Saturday February 27
