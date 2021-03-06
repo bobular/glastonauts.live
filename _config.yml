@@ -16,10 +16,17 @@ email: uncoolbob@gmail.com
 # can change this to http://glastonauts.live when we deploy it
 url: https://glastonauts.live
 #url: "http://127.0.0.1:4000"
+#url: http://185.225.210.89
+#protocol: http
+protocol: https
 #
+
 search: true
 share: true
 comments: true
+
+gallery_folder_name: gallery
+
 
 icecast: "https://glastonauts.live/stream"
 
