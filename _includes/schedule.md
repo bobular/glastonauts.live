@@ -11,7 +11,7 @@
 
 {% cover {~~filename~~: ~~20210306-kez-tez-80s-soundtrack~~, ~~date~~: ~~20210306~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Kez and Tez~~, ~~ttl~~: ~~80s Movies Night~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210306~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#69B8FF~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210306~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Wake Up Call~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#E3BD4D~~} %}
 
 
 ### Sunday March 7
