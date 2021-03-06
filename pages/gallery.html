@@ -34,7 +34,7 @@ in_navbar: true
 		    {% assign filename = filenameparts | last | replace: file.extname,"" %}
 		    
 		    <a href="{{ file.path }}" title="{{ filename }}" class="altlink">
-		      <img src="http://images.weserv.nl/?url={{site.url}}{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" />
+		      <img src="{{site.protocol}}://images.weserv.nl/?url={{site.url}}{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" />
 		      <span>{{ filename }}</span>
 		    </a>
 		    {% endif %}

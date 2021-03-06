@@ -17,6 +17,7 @@ email: uncoolbob@gmail.com
 #url: https://glastonauts.live
 #url: "http://127.0.0.1:4000"
 url: http://185.225.210.89
+protocol: http
 #
 
 search: true
