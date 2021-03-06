@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Gallery
 description: "images made by the Glastonauts fam"
 header-img: "assets/owner/hero/old/home-bg.jpg"
 footer-img: "assets/owner/hero/footer-bg.png"
@@ -34,7 +34,7 @@ in_navbar: true
 		    {% assign filename = filenameparts | last | replace: file.extname,"" %}
 		    
 		    <a href="{{ file.path }}" title="{{ filename }}">
-		      <img src="//images.weserv.nl/?url={{site.url}}/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" />
+		      <img src="http://images.weserv.nl/?url={{site.url}}{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" />
 		      <span>{{ filename }}</span>
 		    </a>
 		    {% endif %}
