@@ -12,9 +12,9 @@
 
 {% cover {~~filename~~: ~~20200706-9pm~~, ~~date~~: ~~20210306~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Glastonauts~~, ~~ttl~~: ~~Ennio Morricone Tribute~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/6d0ebihVV0idp9ajhae5XO~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20210306-kez-tez-80s-soundtrack~~, ~~date~~: ~~20210306~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Kez and Tez~~, ~~ttl~~: ~~80s Movies Night~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20210306-kez-tez-80s-soundtrack~~, ~~date~~: ~~20210306~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Kez and Tez~~, ~~ttl~~: ~~80s Movies Night~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~https://open.spotify.com/playlist/2CT2HQE9yzGpp0qs89XjrC?si=AMXBd2GxQTe3ZKFvOudMKQ~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/kez-tez-80s-movies-soundtrack-night/~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210306~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Wake Up Call~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#E3BD4D~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210306~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Wake Up Call~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/andy-davies-wake-up-call/~~, ~~bg~~: ~~#E3BD4D~~} %}
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210306~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Sir Styles 😎~~, ~~ttl~~: ~~Surprise Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/sir-styles-surprise-set/~~, ~~bg~~: ~~#FF8169~~} %}
 
