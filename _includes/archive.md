@@ -22,5 +22,4 @@
 
 {% cover {~~filename~~: ~~20210305-kez-oconnor-sisters~~, ~~date~~: ~~20210305~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~The O'Connor Sisters~~, ~~ttl~~: ~~O'Connor 80s double trouble ~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/4cpb5dfpGvedYKSfCA2Qq7~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
 
-{% cover {~~filename~~: ~~20210305-sebster-dusk-til-dawn-2~~, ~~date~~: ~~20210305~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~DJ Sebster~~, ~~ttl~~: ~~From Dusk Till Dawn 2~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
-
+{% cover {~~filename~~: ~~20210305-sebster-dusk-til-dawn-2~~, ~~date~~: ~~20210305~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~DJ Sebster~~, ~~ttl~~: ~~From Dusk Till Dawn 2~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/dj-sebster-from-dusk-till-dawn-2/~~, ~~bg~~: ~~~~} %}
