@@ -4,7 +4,7 @@
 
 {% cover {~~filename~~: ~~20210307-tez-slow-the-funk-down~~, ~~date~~: ~~20210307~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Slow the Funk Down~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/1mRTEO3c7vAp7WBDRfQsa0~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20210307-cd-sunday-roast-vdj~~, ~~date~~: ~~20210307~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~CD~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF8169~~} %}
+{% cover {~~filename~~: ~~20210307-cd-sunday-roast-vdj~~, ~~date~~: ~~20210307~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~CD~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/cd-sunday-roast-vdj-special/~~, ~~bg~~: ~~#FF8169~~} %}
 
 {% cover {~~filename~~: ~~20210307-nathan-trance-woods~~, ~~date~~: ~~20210307~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~Nathan~~, ~~ttl~~: ~~Trance~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/5GhVlX57otllSHosqIVWrf~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
