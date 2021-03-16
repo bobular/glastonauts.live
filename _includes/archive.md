@@ -1,5 +1,23 @@
 ## March 2021
 
+### Saturday March 13
+
+{% cover {~~filename~~: ~~20200614-4pm~~, ~~date~~: ~~20210313~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Stella~~, ~~ttl~~: ~~We want equal tunas~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/091wzfCxQrtpE3qwD9g8yS~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20210313-tez-brain-funk~~, ~~date~~: ~~20210313~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~BRAIN FUNK~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/3sm2lYZgC6YDNx975AINGA~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210313~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#B069FF~~} %}
+
+
+### Friday March 12
+
+{% cover {~~filename~~: ~~20200606-11am~~, ~~date~~: ~~20210312~~, ~~time~~: ~~4:30pm~~, ~~cntr~~: ~~Miss R and Bob~~, ~~ttl~~: ~~Divine Duets~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/4Crc7XQjiZFj72sDXEb8mM~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20210312-bren-random-tuna~~, ~~date~~: ~~20210312~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Bren~~, ~~ttl~~: ~~Random Tuna~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/3LUFbcBybcRBJwsy0Wrf5J~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210312~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~The Mess~~, ~~ttl~~: ~~Full On Mess Hysteria~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/the-mess-full-on-mess-hysteria-vinyl-and-digital-set/~~, ~~bg~~: ~~#FF69B3~~} %}
+
+
 ### Sunday March 7
 
 {% cover {~~filename~~: ~~20210307-tez-slow-the-funk-down~~, ~~date~~: ~~20210307~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Slow the Funk Down~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/1mRTEO3c7vAp7WBDRfQsa0~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
