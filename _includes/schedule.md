@@ -2,7 +2,8 @@
 
 It's our **First Birthday Bash** !!
 
-![Tuna of tunas](/assets/gallery/tunas/tuna-of-tunas.jpeg)
+Preliminary line-up
+![First birthday flyer](/assets/gallery/artwork/glastonauts-first-birthday-flyer.jpeg)
 
 On Sunday 21st afternoon/evening we're having a party!
 
