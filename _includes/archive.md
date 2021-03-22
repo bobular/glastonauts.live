@@ -6,7 +6,7 @@
 
 {% cover {~~filename~~: ~~20210313-tez-brain-funk~~, ~~date~~: ~~20210313~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~BRAIN FUNK~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/3sm2lYZgC6YDNx975AINGA~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210313~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#B069FF~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210313~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~GTF~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/andy-davies-gtf/~~, ~~bg~~: ~~#B069FF~~} %}
 
 
 ### Friday March 12
