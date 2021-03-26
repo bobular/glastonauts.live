@@ -1,5 +1,21 @@
 ## March 2021
 
+### Sunday March 21
+
+It was the **Glastonauts' First Birthday Bash**!!
+
+![First birthday flyer](/assets/gallery/artwork/glastonauts-first-birthday-flyer.jpeg)
+
+<ul>
+<li>1pm - Playlist-a-thon <br/>
+liamego | fat tez | scott | em | waxy | alex m <br/>
+brocc oli & esther | nathan | judd</li>
+<li>5.30pm - Community Half Hour with Bob</li>
+<li>6pm - Mix(cloud) party with all your favourite Glastonaut DJs</li>
+</ul>
+
+Playlists and mixcloud sets to be added soon...
+
 ### Saturday March 13
 
 {% cover {~~filename~~: ~~20200614-4pm~~, ~~date~~: ~~20210313~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Stella~~, ~~ttl~~: ~~We want equal tunas~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/091wzfCxQrtpE3qwD9g8yS~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}

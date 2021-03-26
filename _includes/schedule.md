@@ -1,16 +1,19 @@
-### Sunday March 21
+### Friday March 26
 
-It's the **Glastonauts' First Birthday Bash**!!
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210326~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Em~~, ~~ttl~~: ~~Mystery Theme...~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
 
-![First birthday flyer](/assets/gallery/artwork/glastonauts-first-birthday-flyer.jpeg)
+{% cover {~~filename~~: ~~20210326-waxy-snots-cheesemerica~~, ~~date~~: ~~20210326~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Waxy and Snots~~, ~~ttl~~: ~~Cheesmerica~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-<ul>
-<li>1pm - Playlist-a-thon <br/>
-liamego | fat tez | scott | em | waxy | alex m <br/>
-brocc oli & esther | nathan | judd</li>
-<li>5.30pm - Community Half Hour with Bob</li>
-<li>6pm - Mix(cloud) party with all your favourite Glastonaut DJs</li>
-</ul>
+{% cover {~~filename~~: ~~20210326-lostlegend-time-tunnel-returns~~, ~~date~~: ~~20210326~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~LostLegend~~, ~~ttl~~: ~~Time Tunnel Returns~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+
+### Saturday March 27
+
+{% cover {~~filename~~: ~~20210327-nathan-floor-fillers-25~~, ~~date~~: ~~20210327~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Nathan~~, ~~ttl~~: ~~Floor fillers 25% capacity~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
+
+{% cover {~~filename~~: ~~20210327-tez-findstr-tuna~~, ~~date~~: ~~20210327~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~findstr tuna~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210327~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Ioannis~~, ~~ttl~~: ~~Serious Listening~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#E3BD4D~~} %}
 
 
 <!-- smiley &#128513; -->
