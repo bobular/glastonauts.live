@@ -13,7 +13,7 @@
 
 {% cover {~~filename~~: ~~20210327-tez-findstr-tuna~~, ~~date~~: ~~20210327~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~findstr tuna~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210327~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Ioannis~~, ~~ttl~~: ~~Serious Listening~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#E3BD4D~~} %}
+{% cover {~~filename~~: ~~20210327-ioannis-minimal-all-that-jazz~~, ~~date~~: ~~20210327~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Ioannis~~, ~~ttl~~: ~~Serious Listening~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#E3BD4D~~} %}
 
 
 <!-- smiley &#128513; -->
