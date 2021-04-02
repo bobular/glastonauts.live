@@ -3,7 +3,7 @@
 
 ### Saturday April 3
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210403~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Kez'n'Edel~~, ~~ttl~~: ~~Sisters Do Seventies~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
+{% cover {~~filename~~: ~~20210403-kez-edel-70s~~, ~~date~~: ~~20210403~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Kez'n'Edel~~, ~~ttl~~: ~~Sisters Do Seventies~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210403~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Andy V~~, ~~ttl~~: ~~Glastonauts~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF69B3~~} %}
 
