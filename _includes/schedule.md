@@ -7,7 +7,7 @@
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210403~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Andy V~~, ~~ttl~~: ~~Glastonauts~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF69B3~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210403~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~Dan W~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#69B8FF~~} %}
+{% cover {~~filename~~: ~~20210403-danw-choc-zombie~~, ~~date~~: ~~20210403~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~Dan W~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#69B8FF~~} %}
 
 ### Sunday April 4
 
