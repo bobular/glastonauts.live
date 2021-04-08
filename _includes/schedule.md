@@ -15,7 +15,7 @@
 
 {% cover {~~filename~~: ~~20210410-gpeppe-off-your-face~~, ~~date~~: ~~20210410~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Gpeppe~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#B069FF~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210410~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~batch~~, ~~ttl~~: ~~Hypnotic, melodic, and a little bit psychotic~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF8169~~} %}
+{% cover {~~filename~~: ~~20210410-batch-hypnotic-psychotic~~, ~~date~~: ~~20210410~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~batch~~, ~~ttl~~: ~~Hypnotic, melodic, and a little bit psychotic~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF8169~~} %}
 
 
 ### Sunday April 11
