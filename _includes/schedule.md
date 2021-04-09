@@ -4,7 +4,7 @@
 
 {% cover {~~filename~~: ~~20210409-sebster-tears-in-the-rain~~, ~~date~~: ~~20210409~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~DJ Sebster~~, ~~ttl~~: ~~Tears in the Rain~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210409~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#E3BD4D~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210409~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Wherever House Takes Me~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#E3BD4D~~} %}
 
 {% cover {~~filename~~: ~~20210409-tez-fried-chicken~~, ~~date~~: ~~20210409~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Fried Chicken To Go~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
