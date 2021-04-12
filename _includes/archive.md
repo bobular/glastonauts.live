@@ -19,7 +19,7 @@
 
 ### Friday April 9
 
-{% cover {~~filename~~: ~~20200710-6pm~~, ~~date~~: ~~20210409~~, ~~time~~: ~~2:00pm~~, ~~cntr~~: ~~Bren~~, ~~ttl~~: ~~Beats Breaks and Bass~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20200710-6pm~~, ~~date~~: ~~20210409~~, ~~time~~: ~~2:00pm~~, ~~cntr~~: ~~Bren~~, ~~ttl~~: ~~Beats Breaks and Bass~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/764krfyseh8kANEqN4UKXH~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~20210409-sebster-tears-in-the-rain~~, ~~date~~: ~~20210409~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~DJ Sebster~~, ~~ttl~~: ~~Tears in the Rain~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
