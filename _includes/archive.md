@@ -2,16 +2,16 @@
 
 ### Sunday April 11
 
-{% cover {~~filename~~: ~~20200718-4pm~~, ~~date~~: ~~20210411~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Ollie~~, ~~ttl~~: ~~Trip Hop~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20200718-4pm~~, ~~date~~: ~~20210411~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Ollie~~, ~~ttl~~: ~~Trip Hop~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/7wtwOt8Frc7KfGndNZH5mK?si=ztTwuwzyTruu3ITH60fpQw~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20210411-cd-prog-playground~~, ~~date~~: ~~20210411~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~CD~~, ~~ttl~~: ~~Progressive Playground~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20210411-cd-prog-playground~~, ~~date~~: ~~20210411~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~CD~~, ~~ttl~~: ~~Progressive Playground~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/cd-progressive-playground/~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210411~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Bren~~, ~~ttl~~: ~~Loud and Shouty~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210411~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Bren~~, ~~ttl~~: ~~Loud and Shouty~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/7sVtxeTk0GPyhDy8rKzZ5B~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
 
 
 ### Saturday April 10
 
-{% cover {~~filename~~: ~~20200617-1pm~~, ~~date~~: ~~20210410~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Esther~~, ~~ttl~~: ~~Phototropism~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20200617-1pm~~, ~~date~~: ~~20210410~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Esther~~, ~~ttl~~: ~~Phototropism~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/755ZyEbmUdoUvmM1NXEOO4?si=pQX9D_E1TCyYSuSFIncw0A~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~20210410-gpeppe-off-your-face~~, ~~date~~: ~~20210410~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Gpeppe~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#B069FF~~} %}
 
@@ -25,7 +25,7 @@
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210409~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Wherever House Takes Me~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/andy-davies-wherever-house-takes-me/~~, ~~bg~~: ~~#E3BD4D~~} %}
 
-{% cover {~~filename~~: ~~20210409-tez-fried-chicken~~, ~~date~~: ~~20210409~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Fried Chicken To Go~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20210409-tez-fried-chicken~~, ~~date~~: ~~20210409~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Fried Chicken To Go~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/fat-tezs-fried-chicken-to-go/~~, ~~bg~~: ~~~~} %}
 
 ### Sunday April 4
 
