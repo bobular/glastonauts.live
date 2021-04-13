@@ -13,9 +13,9 @@
 
 {% cover {~~filename~~: ~~20200617-1pm~~, ~~date~~: ~~20210410~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Esther~~, ~~ttl~~: ~~Phototropism~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/755ZyEbmUdoUvmM1NXEOO4?si=pQX9D_E1TCyYSuSFIncw0A~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20210410-gpeppe-off-your-face~~, ~~date~~: ~~20210410~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Gpeppe~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#B069FF~~} %}
+{% cover {~~filename~~: ~~20210410-gpeppe-off-your-face~~, ~~date~~: ~~20210410~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Gpeppe~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/gpeppe-off-your-face/~~, ~~bg~~: ~~#B069FF~~} %}
 
-{% cover {~~filename~~: ~~20210410-batch-hypnotic-psychotic~~, ~~date~~: ~~20210410~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~batch~~, ~~ttl~~: ~~Hypnotic, melodic, and a little bit psychotic~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF8169~~} %}
+{% cover {~~filename~~: ~~20210410-batch-hypnotic-psychotic~~, ~~date~~: ~~20210410~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~batch~~, ~~ttl~~: ~~Hypnotic, melodic, and a little bit psychotic~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/batch-hypnotic-melodic-and-a-little-bit-psychotic/~~, ~~bg~~: ~~#FF8169~~} %}
 
 ### Friday April 9
 
