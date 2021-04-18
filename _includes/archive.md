@@ -1,5 +1,19 @@
 ## April 2021
 
+
+### Sunday April 18
+
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210418~~, ~~time~~: ~~2:00pm~~, ~~cntr~~: ~~Em~~, ~~ttl~~: ~~More Country, really??~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
+
+{% cover {~~filename~~: ~~20210418-nathan-country-ish~~, ~~date~~: ~~20210418~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Nathan~~, ~~ttl~~: ~~Country and Country(ish)~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~ch~~, ~~date~~: ~~20210418~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Community Hour~~, ~~settype~~: ~~talk~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210418~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Dan M~~, ~~ttl~~: ~~Folk~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
+
+{% cover {~~filename~~: ~~20210418-bob-progressions4~~, ~~date~~: ~~20210418~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Bob~~, ~~ttl~~: ~~Progressions 4~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+
 ### Sunday April 11
 
 {% cover {~~filename~~: ~~20200718-4pm~~, ~~date~~: ~~20210411~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Ollie~~, ~~ttl~~: ~~Trip Hop~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/7wtwOt8Frc7KfGndNZH5mK?si=ztTwuwzyTruu3ITH60fpQw~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
