@@ -1,5 +1,8 @@
 ## April 2021
 
+### Thursday April 22
+
+{% cover {~~filename~~: ~~jomo-gurj-quiz-thing~~, ~~date~~: ~~20210422~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Jomo~~, ~~ttl~~: ~~Quiz Thingy 5~~, ~~settype~~: ~~quiz~~, ~~spotify~~: ~~https://open.spotify.com/playlist/10e4peyXBpDbEyJf7fWkhA~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
 ### Sunday April 18
 
