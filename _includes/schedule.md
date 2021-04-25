@@ -14,7 +14,9 @@
 
 ### Sunday April 25
 
-{% cover {~~filename~~: ~~20200504-1pm~~, ~~date~~: ~~20210425~~, ~~time~~: ~~3:00pm~~, ~~cntr~~: ~~Judd~~, ~~ttl~~: ~~Eclectic mix~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20200504-1pm~~, ~~date~~: ~~20210425~~, ~~time~~: ~~12:40pm~~, ~~cntr~~: ~~Judd~~, ~~ttl~~: ~~Eclectic mix~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20210424-fat-tez-boom-ting~~, ~~date~~: ~~20210424~~, ~~time~~: ~~3:40pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Boom Ting~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210425~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~CD~~, ~~ttl~~: ~~DeepBeatz (May 2020)~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#B069FF~~} %}
 
