@@ -18,7 +18,7 @@
 
 {% cover {~~filename~~: ~~20210502-gpeppe-fatboy-house~~, ~~date~~: ~~20210502~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Gpeppe~~, ~~ttl~~: ~~Fatboy House~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210502~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Judd~~, ~~ttl~~: ~~Noisy and Angry~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210502~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Judd~~, ~~ttl~~: ~~Noisy and Angry~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
 
 
 <!-- ### See you at the weekend &#128513; -->
