@@ -9,7 +9,7 @@
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210501~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~Aidywag~~, ~~ttl~~: ~~Snooker Loopy~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210501~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Live DJ Mix~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF8169~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210501~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Andy Davies~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF8169~~} %}
 
 
 ### Sunday May 2
