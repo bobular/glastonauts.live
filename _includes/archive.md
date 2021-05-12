@@ -4,7 +4,7 @@
 
 {% cover {~~filename~~: ~~20200530-12pm~~, ~~date~~: ~~20210509~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Ollie~~, ~~ttl~~: ~~70's soul, funk, groove~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/4Dx1988oWP7XymJ4Dv0BG4~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20210509-fat-tez-plug-in~~, ~~date~~: ~~20210509~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Plug in, turn on, cop out.~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20210509-fat-tez-plug-in~~, ~~date~~: ~~20210509~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Plug in, turn on, cop out.~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/fat-tez-plug-in-turn-on-cop-out/~~, ~~bg~~: ~~~~} %}
 
 
 ### Saturday May 8
