@@ -11,7 +11,7 @@
 
 {% cover {~~filename~~: ~~20210514-nathan-tribal-house~~, ~~date~~: ~~20210515~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Nathan~~, ~~ttl~~: ~~Tribal House~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210515~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Ioannis~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF69B3~~} %}
+{% cover {~~filename~~: ~~20210515-ioannis-cloud-digger~~, ~~date~~: ~~20210515~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Ioannis~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#FF69B3~~} %}
 
 
 
