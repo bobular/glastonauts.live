@@ -3,19 +3,19 @@
 
 ### Saturday May 15
 
-{% cover {~~filename~~: ~~20200523-1pm~~, ~~date~~: ~~20210515~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Esther~~, ~~ttl~~: ~~Water, Water, Everywhere~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20200523-1pm~~, ~~date~~: ~~20210515~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Esther~~, ~~ttl~~: ~~Water, Water, Everywhere~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/3tioUQoK65On3BwXRnvxOo~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20210514-nathan-tribal-house~~, ~~date~~: ~~20210515~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Nathan~~, ~~ttl~~: ~~Tribal House~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20210514-nathan-tribal-house~~, ~~date~~: ~~20210515~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Nathan~~, ~~ttl~~: ~~Tribal House~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/3SaIBf2yS0oAOP262uef3y~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
 {% cover {~~filename~~: ~~20210515-ioannis-cloud-digger~~, ~~date~~: ~~20210515~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Ioannis~~, ~~ttl~~: ~~Cloud Digger~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
 
+
 ### Friday May 14
 
-{% cover {~~filename~~: ~~20200501-4pm~~, ~~date~~: ~~20210514~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Beth~~, ~~ttl~~: ~~Feisty Females~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20200501-4pm~~, ~~date~~: ~~20210514~~, ~~time~~: ~~5:00pm~~, ~~cntr~~: ~~Beth~~, ~~ttl~~: ~~Feisty Females~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/499Lmt7FnIX1RPe0chVyD2~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210514~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~liamego~~, ~~ttl~~: ~~Lockdown Club (Yellow Sub.)~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#E3BD4D~~} %}
-
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210514~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~liamego~~, ~~ttl~~: ~~Lockdown Club (Yellow Sub.)~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/liamego/yellow-sub-lockdown-club-soundscapes-vol3-140521/~~, ~~bg~~: ~~#E3BD4D~~} %}
 
 ### Sunday May 9
 
