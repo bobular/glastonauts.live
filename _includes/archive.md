@@ -8,7 +8,7 @@
 
 {% cover {~~filename~~: ~~20210530-fat-tez-plug-in-2~~, ~~date~~: ~~20210530~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Plug in, Turn on, Cop out 2~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/fat-tez-plug-in-turn-on-cop-out-2/~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~20210530-ioannis-minimal-all-that-jazz-2~~, ~~date~~: ~~20210530~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Ioannis~~, ~~ttl~~: ~~Minimal, and All That Jazz II~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+{% cover {~~filename~~: ~~20210530-ioannis-minimal-all-that-jazz-2~~, ~~date~~: ~~20210530~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Ioannis~~, ~~ttl~~: ~~Minimal, and All That Jazz II~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/ioannis-minimal-and-all-that-jazz-2/~~, ~~bg~~: ~~~~} %}
 
 
 
