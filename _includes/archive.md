@@ -1,5 +1,21 @@
 ## May 2021
 
+### Sunday May 30
+
+{% cover {~~filename~~: ~~20210530-nathan-canadian-classics~~, ~~date~~: ~~20210530~~, ~~time~~: ~~2:00pm~~, ~~cntr~~: ~~Nathan~~, ~~ttl~~: ~~Canadian Classics~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/7mttKBceicajDKopMHMya1~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20210606-cd-flashback~~, ~~date~~: ~~20210530~~, ~~time~~: ~~6:00pm~~, ~~cntr~~: ~~CD~~, ~~ttl~~: ~~Flashback 2021 Vinyl Mix~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/cd-flash-back-vinyl-only/~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20210530-fat-tez-plug-in-2~~, ~~date~~: ~~20210530~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Plug in, Turn on, Cop out 2~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/fat-tez-plug-in-turn-on-cop-out-2/~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20210530-ioannis-minimal-all-that-jazz-2~~, ~~date~~: ~~20210530~~, ~~time~~: ~~10:00pm~~, ~~cntr~~: ~~Ioannis~~, ~~ttl~~: ~~Minimal, and All That Jazz II~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+
+
+### Friday May 28
+
+{% cover {~~filename~~: ~~20210528-andy-styles-paphos~~, ~~date~~: ~~20210528~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Andy Davies & Sir Styles~~, ~~ttl~~: ~~Live from Paphos~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/andy-davies-sir-styles-live-from-paphos/~~, ~~bg~~: ~~~~} %}
+
 
 ### Saturday May 15
 
