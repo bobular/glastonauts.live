@@ -1,6 +1,6 @@
 ### Sunday June 13
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210613~~, ~~time~~: ~~1:00pm~~, ~~cntr~~: ~~Bren~~, ~~ttl~~: ~~Bren's Rock and Roll Classics~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210613~~, ~~time~~: ~~1:00pm~~, ~~cntr~~: ~~Bren~~, ~~ttl~~: ~~Bren's Rock 'n' Roll Classics~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
 
 {% cover {~~filename~~: ~~20210613-nathan-piano-house~~, ~~date~~: ~~20210613~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Nathan~~, ~~ttl~~: ~~Piano House~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
 
