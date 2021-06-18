@@ -6,7 +6,7 @@
 
 {% cover {~~filename~~: ~~20210613-cd-creatures-5~~, ~~date~~: ~~20210613~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~CD~~, ~~ttl~~: ~~Creatures of the Deep 5~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/cd-creatures-of-the-deep-part-5/~~, ~~bg~~: ~~~~} %}
 
-{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210613~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~The Mess~~, ~~ttl~~: ~~All Vinyl Surprise Set~~, ~~settype~~: ~~vin-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/the-mess-all-vinyl-mix-june-2021/~~, ~~bg~~: ~~#E3BD4D~~} %}
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210613~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~The Mess~~, ~~ttl~~: ~~Non-Denominational Sunday Night Mess~~, ~~settype~~: ~~vin-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/the-mess-all-vinyl-mix-june-2021/~~, ~~bg~~: ~~#E3BD4D~~} %}
 
 
 ### Sunday June 6
