@@ -1,3 +1,20 @@
+### Sunday June 20
+
+{% cover {~~filename~~: ~~20201128-2pm~~, ~~date~~: ~~20210620~~, ~~time~~: ~~1:00pm~~, ~~cntr~~: ~~Em~~, ~~ttl~~: ~~It's All Relative~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/0RJzjZLL1LxSVWyPNjjp7F~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~~~, ~~date~~: ~~20210620~~, ~~time~~: ~~4:00pm~~, ~~cntr~~: ~~Bruce Q~~, ~~ttl~~: ~~Bruce's Blues~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/4Uoz4bV1ZRwhezP6upeke9~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
+
+{% cover {~~filename~~: ~~20210613-fat-tez-brain~~, ~~date~~: ~~20210620~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Fat Tez~~, ~~ttl~~: ~~Live DJ Set~~, ~~settype~~: ~~dgt-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/fat-tez-glastonauts/~~, ~~bg~~: ~~~~} %}
+
+{% cover {~~filename~~: ~~20210620-lostlegend-lostlegend~~, ~~date~~: ~~20210620~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~LostLegend~~, ~~ttl~~: ~~LostLegend (Artist Mix)~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/lostlegend-lostlegend-artist-mix/~~, ~~bg~~: ~~~~} %}
+
+<h5>Track list <i class="expand fas fa-list-ol fa-inverse" onclick="$('div#lostlegend-tl').slideToggle()" title="View tracklist"></i></h5>
+<div class="text-playlist" id="lostlegend-tl">
+{% capture my_include %}{% include playlists.md/20210620-9pm.md %}{% endcapture %}
+{{ my_include | markdownify }}
+</div>
+
+
 ### Sunday June 13
 
 {% cover {~~filename~~: ~~~~, ~~date~~: ~~20210613~~, ~~time~~: ~~1:00pm~~, ~~cntr~~: ~~Bren~~, ~~ttl~~: ~~Bren's Rock 'n' Roll Classics~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/47yvuDI4ufXOcltaPVKQLS~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#1C5659~~} %}
