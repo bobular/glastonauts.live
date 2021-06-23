@@ -8,7 +8,7 @@
 
 {% cover {~~filename~~: ~~20210620-lostlegend-lostlegend~~, ~~date~~: ~~20210620~~, ~~time~~: ~~9:00pm~~, ~~cntr~~: ~~LostLegend~~, ~~ttl~~: ~~LostLegend (Artist Mix)~~, ~~settype~~: ~~pre-dj~~, ~~spotify~~: ~~~~, ~~mixcloud~~: ~~https://www.mixcloud.com/Glastonauts_Live/lostlegend-lostlegend-artist-mix/~~, ~~bg~~: ~~~~} %}
 
-<h5>Track list <i class="expand fas fa-list-ol fa-inverse" onclick="$('div#lostlegend-tl').slideToggle()" title="View tracklist"></i></h5>
+Track list <i class="expand fa fa-list-ol" onclick="$('div#lostlegend-tl').slideToggle()" title="View tracklist"></i>
 <div class="text-playlist" id="lostlegend-tl">
 {% capture my_include %}{% include playlists.md/20210620-9pm.md %}{% endcapture %}
 {{ my_include | markdownify }}
