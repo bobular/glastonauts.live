@@ -1,3 +1,5 @@
-### See you on Thursday for the quiz! &#128513;
+### Taking a break this weekend
+
+Enjoy the BBC glasto coverage! &#128513;
 
 

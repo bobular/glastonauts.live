@@ -1,3 +1,10 @@
+### Thursday June 24
+
+{% cover {~~filename~~: ~~20210624-nathan-cover-up~~, ~~date~~: ~~20210624~~, ~~time~~: ~~7:00pm~~, ~~cntr~~: ~~Nathan~~, ~~ttl~~: ~~Covers~~, ~~settype~~: ~~playlist~~, ~~spotify~~: ~~https://open.spotify.com/playlist/27cr6kpVTYSuUn1W7nRjEL~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~#29878D~~} %}
+
+{% cover {~~filename~~: ~~jomo-gurj-quiz-thing~~, ~~date~~: ~~20210624~~, ~~time~~: ~~8:00pm~~, ~~cntr~~: ~~Jon, Gurj and Bren~~, ~~ttl~~: ~~Themed Music Quizy Thing 6~~, ~~settype~~: ~~quiz~~, ~~spotify~~: ~~https://open.spotify.com/playlist/45A7NuBvOrC7omhomvjXtb~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
+
+
 ### Sunday June 20
 
 {% cover {~~filename~~: ~~20201128-2pm~~, ~~date~~: ~~20210620~~, ~~time~~: ~~1:00pm~~, ~~cntr~~: ~~Em~~, ~~ttl~~: ~~It's All Relative~~, ~~settype~~: ~~repeat~~, ~~spotify~~: ~~https://open.spotify.com/playlist/0RJzjZLL1LxSVWyPNjjp7F~~, ~~mixcloud~~: ~~~~, ~~bg~~: ~~~~} %}
